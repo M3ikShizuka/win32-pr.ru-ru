@@ -4,18 +4,18 @@ ms.assetid: d10533d8-e919-4d2a-a173-16a8f723551d
 title: О CNG
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: eb13c50b98c80f9ca45a72d0b0967fc8b95d209dd88e206e1a9abc498d408032
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8883b5ad50a0e3e680d718afd0f448a5cd87dd18
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118909025"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271267"
 ---
 # <a name="about-cng"></a>О CNG
 
 API шифрования: следующее поколение (CNG) — это долгосрочная замена интерфейса [*CryptoAPI*](/windows/desktop/SecGloss/c-gly). CNG разработан для расширения на множестве уровней и шифрования, независимо от поведения.
 
-## <a name="features"></a>Функции
+## <a name="features"></a>Компоненты
 
 Дополнительные сведения о функциях CNG см. в разделе [функции CNG](cng-features.md).
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - UserDefined
 api_location: ''
-ms.openlocfilehash: df6670e852ccd12fd2bed1d0c188aa0252c9b3afbcb899cf9480b7011d08625d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 935ddac5660c814b898be17218d879678f2135ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271440"
 ---
 # <a name="event-handler-function-prototype-callback-function"></a>Функция обратного вызова прототипа функции обработчика событий
 
@@ -51,7 +51,7 @@ void Event_Handler_Function_Name(
 
 Эта функция обратного вызова не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если обработчику событий необходимо создать дочерние процессы, он должен вызвать функцию [**параметр CreateProcessAsUser**](/windows/desktop/api/processthreadsapi/nf-processthreadsapi-createprocessasusera) . В противном случае новый процесс будет создан на рабочем столе Winlogon, а не на рабочем столе пользователя.
 

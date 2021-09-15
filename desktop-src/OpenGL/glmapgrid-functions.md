@@ -10,7 +10,7 @@ keywords:
 - Справочник по OpenGL, функции Map
 - Справочник по OpenGL, функциям Map
 - функции Глмапгрид
-- Функции map
+- функции Map
 - Одномерные функции сетки
 - двухмерные функции сетки
 - Функции OpenGL, одномерные сетки
@@ -21,12 +21,12 @@ keywords:
 - Справочник по функциям OpenGL, двумерной сетке
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 43bc03268cd65c607cf9fe09c157fc7a5302d7e6be1b615ff49b8554892b9acb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6198210a5aaedd8f67e3a180b5a2acbed98a2d40
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118938467"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272051"
 ---
 # <a name="glmapgrid-functions"></a>Функции Глмапгрид
 

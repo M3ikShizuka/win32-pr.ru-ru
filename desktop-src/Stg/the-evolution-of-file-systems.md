@@ -4,12 +4,12 @@ description: До того, как компьютеры были разрабо�
 ms.assetid: 46d497b5-c325-4395-8512-1ed4b88441de
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 35a619328da91e2d1387690b005984fa62c7b1439183b53188b11ffc4ba0565d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7dc34dc699488b5952d52dfd13f49ea63aaa85aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117959585"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270560"
 ---
 # <a name="the-evolution-of-file-systems"></a>Развитие файловых систем
 

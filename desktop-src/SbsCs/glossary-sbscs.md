@@ -4,12 +4,12 @@ ms.assetid: 6baaf1d6-3aa4-4fab-a481-62fa828cdfc4
 title: Глоссарий (изолированные приложения и параллельные сборки)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a7f43ee87c1c6a5099c9b6a8b1431ee3e98ddfc2cdb7ec4ff11ccad6831de0c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 837d4d885a8c1e7d4e14f6f0fc3249416a3de55d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119142207"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271563"
 ---
 # <a name="glossary-isolated-applications-and-side-by-side-assemblies"></a>Глоссарий (изолированные приложения и параллельные сборки)
 

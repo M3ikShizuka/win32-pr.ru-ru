@@ -6,11 +6,11 @@ title: Ошибки с 1061 по 1070
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: c7da7fb7eeacf9200e96890581766bfe31d9f19c
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122886860"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270304"
 ---
 # <a name="errors-1061-through-1070"></a>Ошибки с 1061 по 1070
 

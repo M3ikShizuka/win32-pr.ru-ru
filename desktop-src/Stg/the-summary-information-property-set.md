@@ -4,12 +4,12 @@ description: Модель COM определяет стандартный наб
 ms.assetid: ceed6d66-7327-4781-a5dc-9058e671138a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a54f942d0c7f6c7d1ebc37feda80d55420ea6c8aaf896f4df15df2a5b7e7c0ad
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bb318daba7e0ad03ff176853877fe416ddeda799
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118886830"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270555"
 ---
 # <a name="the-summary-information-property-set"></a>Набор свойств сводных данных
 
@@ -27,8 +27,8 @@ ms.locfileid: "118886830"
 
 | Имя | Строка идентификатора свойства | Идентификатор свойства | Тип VT |
 |------|--------------------|-------------|---------|
-| Название | \_заголовок пидси | 0x00000002 | VT \_ LPSTR  |
-| Тема | \_Тема пидси | 0x00000003 | VT \_ LPSTR |
+| Заголовок | \_заголовок пидси | 0x00000002 | VT \_ LPSTR  |
+| Субъект | \_Тема пидси | 0x00000003 | VT \_ LPSTR |
 | Автор | \_Автор пидси | 0x00000004 | VT \_ LPSTR |
 | Keywords | \_Ключевые слова пидси | 0x00000005 | VT \_ LPSTR |
 | Комментарии | ПИДСИ \_ Комментарии | 0x00000006 | VT \_ LPSTR |

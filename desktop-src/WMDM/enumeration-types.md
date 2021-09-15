@@ -1,26 +1,26 @@
 ---
 title: Перечисления ВМДМ
-description: Сведения о перечислениях, определяемых диспетчер устройств Windows Media, таких как WMDM_ENUM_PROP_VALID_VALUES_FORM и WMDM_FIND_SCOPE.
+description: сведения о перечислениях, Windows определяемых диспетчер устройств носителей, таких как WMDM_ENUM_PROP_VALID_VALUES_FORM и WMDM_FIND_SCOPE.
 ms.assetid: 205fe651-a712-4d9a-9ebf-bf7e8ec05ed0
 keywords:
-- Диспетчер устройств Windows Media, перечисления
+- Windows Диспетчер устройств мультимедиа, перечисления
 - Диспетчер устройств, перечисления
 - Справочник по программированию, перечисления
-- Справочник по диспетчер устройств Windows Media, перечисления
+- справочник по Windows Media диспетчер устройств, перечисления
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ec50acdfcf780f65a638c3761f3f6164d29afb74
-ms.sourcegitcommit: 51ef825fb48f15e1aa30e8795988f10dc2b2155c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 06/14/2021
-ms.locfileid: "112067921"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270440"
 ---
 # <a name="wmdm-enumerations"></a>Перечисления ВМДМ
 
-В этом разделе документируется функция пакета SDK для Windows Media диспетчер устройств. Рекомендуется выполнить миграцию приложения для использования API переносных устройств Windows. Дополнительные сведения см. в пакете SDK для переносных устройств Windows.
+в этом разделе документируется функция Windows Media диспетчер устройств SDK. рекомендуется выполнить миграцию приложения для использования API-интерфейса Windowsных мобильных устройств. дополнительные сведения см. в пакете SDK для портативных устройств Windows.
 
-Диспетчер устройств Windows Media определяет следующие перечисления.
+Windows Диспетчер устройств носителя определяет следующие перечисления.
 
 
 

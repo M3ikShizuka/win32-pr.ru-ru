@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 61e3c98937a12c145742895979ccccb8118f8349f82b2840c902dfe625ad0472
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 85e941fceb61e4f00393b05f96489ec7ac8e950f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119861914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270416"
 ---
 # <a name="iwmpcontrolscurrentpositionstring-property"></a>Свойство Ивмпконтролс:: Куррентпоситионстринг
 
@@ -51,7 +51,7 @@ Public ReadOnly Property currentPositionString As System.String
 
 Форматированная **Строка System. String** , которая является текущей позицией.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если размер элемента мультимедиа меньше часа, текущая позиция форматируется как MM: SS (минуты и секунды).
 
@@ -97,7 +97,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -109,7 +109,7 @@ End Sub
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

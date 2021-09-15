@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Win32_tpm.dll
-ms.openlocfilehash: 81363f03280d7805ce965106c7af9f1b288ae75fd9217c4af85dd80f34973a7d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c818d5a4e4eb16ac637372f0c7ed0f2e9211ef88
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119739554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270648"
 ---
 # <a name="isownershipallowed-method-of-the-win32_tpm-class"></a>Метод Исовнершипалловед \_ класса TPM Win32
 
@@ -68,7 +68,7 @@ uint32 IsOwnershipAllowed(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). MOF-файлы не устанавливаются в составе Windows SDK. Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](../wmisdk/managed-object-format--mof-.md).
 

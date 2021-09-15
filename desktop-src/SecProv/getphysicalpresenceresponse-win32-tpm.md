@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Win32_tpm.dll
 ms.openlocfilehash: e8c4518653b9ff34aac69a4e8474940c7998429b
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122467061"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270736"
 ---
 # <a name="getphysicalpresenceresponse-method-of-the-win32_tpm-class"></a>Метод Жетфисикалпресенцереспонсе \_ класса TPM Win32
 
@@ -144,14 +144,14 @@ uint32 GetPhysicalPresenceResponse(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
 [**\_TPM Win32**](win32-tpm.md)
 </dt> <dt>
 
-[**Clear**](clear-win32-tpm.md)
+[**Открытым**](clear-win32-tpm.md)
 </dt> <dt>
 
 [**Отключить**](disable-win32-tpm.md)

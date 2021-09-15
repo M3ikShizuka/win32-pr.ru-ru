@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Sxsoa.dll
-ms.openlocfilehash: 4161ccdcc2562405123d8cb5276aa1f849121c0271b6c6e3f23a32551f6f3dda
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b4c4393d59ea5ab711dbf4bb1f4c88d906b6582
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119142397"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271675"
 ---
 # <a name="actctxcreateobject-method"></a>Метод Акткткс. CreateObject
 
@@ -39,7 +39,7 @@ ActCtx.CreateObject(
 
 <dl> <dt>
 
-*objectId* 
+*ИД* 
 </dt> <dd>
 
 Строка, указывающая тип создаваемого объекта. Например, COM ProgID.

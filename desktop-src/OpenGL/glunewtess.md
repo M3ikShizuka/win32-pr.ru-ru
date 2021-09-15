@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2bc0d11b18425431eadca22f3c541eecf0f3c194b8c6ce897932c33d1674b179
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e0573ead0cf9b81568c4bf2101e317bef7faf148
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119519584"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271976"
 ---
 # <a name="glunewtess-function"></a>Функция Глуневтесс
 
@@ -38,11 +38,11 @@ GLUtesselator* WINAPI gluNewTess(void);
 
 У этой функции нет параметров.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **глуневтесс** создает и возвращает указатель на новый объект тесселяции. Используйте этот объект при вызове функций тесселяции. Возвращаемое значение, равное нулю, означает, что недостаточно памяти для выделения объекту.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ GLUtesselator* WINAPI gluNewTess(void);
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: 6de5d1108ab09c9658af307d6a67c5a94a5dc35514720a221540de263f516c9a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: b62b0a7e871a29ff0a8edd28eb8cd5e18e97c1a8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119960284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270968"
 ---
 # <a name="iscrdenrgetcaname-method"></a>Метод Искрденр:: Жетканаме
 
@@ -87,7 +87,7 @@ SCrdEnr.getCAName( _
 
 Строка, представляющая имя центра сертификации.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Имя ЦС по умолчанию — это первое имя в списке доступных центров сертификации.
 

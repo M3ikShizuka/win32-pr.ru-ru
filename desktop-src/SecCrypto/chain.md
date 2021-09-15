@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 861f3233c4b089dc62e56977dd2d55c59fae71aed799fa73958421a111c1ccd6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5fa3432767ccfdb60a2e3bc0a50ddbbcf565e0aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271144"
 ---
 # <a name="chain-object"></a>Объект цепочки
 
@@ -82,13 +82,13 @@ ms.locfileid: "119876954"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Объект **цепочки** может быть создан и защищен для создания скриптов. ProgID для объекта **цепочки** — CAPICOM. Chain. 2.
 
 **CAPICOM 1. *x*:** идентификатор ProgID для объекта **цепочки** — CAPICOM. Chain. 1.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -101,7 +101,7 @@ ms.locfileid: "119876954"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

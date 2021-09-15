@@ -5,12 +5,12 @@ ms.assetid: 0D537FD1-AD5C-43CB-989F-4B5B7C0A1208
 title: A (изолированные приложения и параллельные сборки)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9ac40ba2393bb2d043957e04b8d34ca93fede605bbcd11ad601667e97f79f057
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c41a925d83cf602f5d23c7d043102927748da14a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119142726"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271832"
 ---
 # <a name="a-isolated-applications-and-side-by-side-assemblies"></a>A (изолированные приложения и параллельные сборки)
 

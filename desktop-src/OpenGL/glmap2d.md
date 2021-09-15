@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c86699f3d1a897476b33d15aec857228c6293d9bd66e260528cdaf468d664252
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e072635c411c7a3e28977316c388a9b1597fcd1f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118359057"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272080"
 ---
 # <a name="glmap2d-function"></a>Функция glMap2d
 
@@ -157,7 +157,7 @@ void WINAPI glMap2d(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Оценивающие предоставляют способ использования сопоставлений полинома или рационального полинома для создания вершин, нормалй, координат текстуры и цветов. Значения, создаваемые средством оценки, отправляются на дальнейшие этапы обработки OpenGL, как если бы они были представлены с помощью команд [**глвертекс**](glvertex-functions.md), [**глнормал**](glnormal-functions.md), [**глтекскурд**](gltexcoord-functions.md)и [**глколор**](glcolor-functions.md) , за исключением того, что созданные значения не обновляют текущие нормальные, координаты текстуры и цвет.
 

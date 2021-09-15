@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 54b4ca167d1b3afefdb28b7cae7bb772c7cfb81ae702ae399e8687c3fc526249
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2376821027d1ef51f2e96dab62c7e9a56542c61d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118768927"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248902"
 ---
 # <a name="esenttoomanyactiveusersexception-class"></a>Класс Есенттуманяктивеусерсексцептион
 
@@ -70,7 +70,7 @@ public sealed class EsentTooManyActiveUsersException : EsentUsageException
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есенттуманяктивеусерсексцептион](./esenttoomanyactiveusersexception-members.md)
 

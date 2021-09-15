@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Mssign32.dll
-ms.openlocfilehash: cb33852cb2860a29d43a41b2331a910a098384b872e972a74cf94f627bebf75a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c4c57f231f70477a76b4d4f6156354ebc847a715
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118898300"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270875"
 ---
 # <a name="signertimestamp-function"></a>Функция Сигнертиместамп
 

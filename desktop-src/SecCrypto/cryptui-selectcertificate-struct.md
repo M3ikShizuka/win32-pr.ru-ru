@@ -14,12 +14,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 1f8cc80f740e26ac2d067705c9aac9aee387b91e28cb057366587375c874ae0b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3db7e59006e964b7335a4a246fb63d7ca7b80577
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117768238"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271043"
 ---
 # <a name="cryptui_selectcertificate_struct-structure"></a>\_ \_ Структура структуры динамической компоновки Cryptui селектцертификате
 
@@ -51,7 +51,7 @@ typedef struct _CRYPTUI_SELECTCERTIFICATE_STRUCT {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 08cebffc-6856-4dac-8600-5e7fecb5c69b
 title: Исправление существующего приложения с помощью закрытой сборки
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b3d1f46ee2f1d80938f3178e03579b2357a26d77727e1490c861cdddff88342a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 095c3eefc5f166ad09643a363ec4308d190e6586
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119885274"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271584"
 ---
 # <a name="fixing-an-existing-application-using-a-private-assembly"></a>Исправление существующего приложения с помощью закрытой сборки
 

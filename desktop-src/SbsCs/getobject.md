@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Sxsoa.dll
 ms.openlocfilehash: b6c47c00f50cdeaa97fd0fafcd8aefa3c4863bc1
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122886616"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271571"
 ---
 # <a name="actctxgetobject-method"></a>Акткткс. GetObject, метод
 

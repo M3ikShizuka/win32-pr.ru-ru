@@ -7,12 +7,12 @@ keywords:
 - Наборы свойств Пользователяопределенные
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4d76c679fd8b4059e821598bed37d68735c45f914e4685e43a1c514b832e199e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 411c6081ec098539baa2b26b6594d04216f5b455
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118886840"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270563"
 ---
 # <a name="the-documentsummaryinformation-and-userdefined-property-sets"></a>Свойства Документсуммаринформатион и Пользователяопределенные задают
 

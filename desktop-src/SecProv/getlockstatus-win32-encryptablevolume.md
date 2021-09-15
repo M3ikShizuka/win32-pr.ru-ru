@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Root\CIMV2\Security\MicrosoftVolumeEncryption
-ms.openlocfilehash: caa213dbebc7db07851bc8df41b5d9379d3dfe97ee207f9b2578b0567fd9b65b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3e81f77c37904f26e87f22b8e2b3b88763fe86cc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118892020"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270744"
 ---
 # <a name="getlockstatus-method-of-the-win32_encryptablevolume-class"></a>Метод Жетлоккстатус \_ класса Win32 енкриптаблеволуме
 
@@ -75,7 +75,7 @@ uint32 GetLockStatus(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте [**унлокквисекстерналкэй**](unlockwithexternalkey-win32-encryptablevolume.md) и [**унлокквиснумерикалпассворд**](unlockwithnumericalpassword-win32-encryptablevolume.md) для получения доступа к содержимому тома. Используйте метод [**Lock**](lock-win32-encryptablevolume.md) для получения доступа к содержимому тома.
 

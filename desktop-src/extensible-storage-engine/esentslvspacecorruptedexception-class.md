@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: fe10d3c155ff64aa646b6af130ae963638177099152a2ce34c43b13c2bb04696
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a3b7c199728db1ab337227afdb7517ae67cdf22
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118981194"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248914"
 ---
 # <a name="esentslvspacecorruptedexception-class"></a>Класс Есентслвспацекорруптедексцептион
 
@@ -66,9 +66,9 @@ public sealed class EsentSLVSpaceCorruptedException : EsentObsoleteException
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есентслвспацекорруптедексцептион](./esentslvspacecorruptedexception-members.md)
 

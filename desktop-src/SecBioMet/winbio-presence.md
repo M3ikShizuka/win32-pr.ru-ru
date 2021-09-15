@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2671faaee7bc277f9389d7c993e4d511dac03db459755b40bf3f659ff5256a56
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8a4a917f09f419ce8dd5eb59c9c277293261bffa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118909582"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271304"
 ---
 # <a name="winbio_presence-structure"></a>\_Структура присутствия винбио
 
@@ -44,7 +44,7 @@ typedef struct _WINBIO_PRESENCE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -104,7 +104,7 @@ typedef struct _WINBIO_PRESENCE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция [**енгинеадаптеридентифялл**](/windows/desktop/api/Winbio_adapter/nc-winbio_adapter-pibio_engine_identify_all_fn) создает массив структур **\_ присутствия винбио** и отправляет этот массив в биометрическую службу. Биометрическая служба использует массив для обновления своей внутренней модели людей, близких к компьютеру.
 
@@ -185,7 +185,7 @@ typedef struct _WINBIO_PRESENCE {
 
 Когда пользователь, который адаптер подсистемы связывает с определенным идентификатором отслеживания, оставляет кадр камеры и останавливается в значениях, возвращаемых функцией [**енгинеадаптеридентифялл**](/windows/desktop/api/Winbio_adapter/nc-winbio_adapter-pibio_engine_identify_all_fn) , идентификатор отслеживания в конечном итоге истекает. По истечении срока действия идентификатора отслеживания биометрическая служба создает [**винбио \_ асинхронный \_ результат**](/windows/desktop/api/Winbio/ns-winbio-winbio_async_result) на стороне клиента, где **\_ асинхронный \_ результат винбио. Член Parameters. Мониторпресенце. ChangeType** — **винбио \_ изменение \_ типа \_ выбывают**. Адаптер подсистемы может предотвратить создание этой структуры в биометрической службе с помощью **значения \_ \_ \_ выбывают винбио Change Type** , включив в массив структуру **\_ присутствия винбио** , которая **енгинеадаптеридентифялл** возвращает, где **\_ присутствует винбио. Элемент Status** имеет **значение \_ S** и **присутствие винбио \_ . Член Identity. Type** имеет **\_ тип ID \_ винбио \_ null** , как описано выше в этих комментариях. Это действие расширяет время окончания срока действия для идентификатора отслеживания, не вызывая никаких действий на стороне клиента.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -197,7 +197,7 @@ typedef struct _WINBIO_PRESENCE {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

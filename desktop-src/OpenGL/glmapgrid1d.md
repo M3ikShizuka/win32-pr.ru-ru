@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 71fcf2ac8871ab1008a5f0e31c6264383cc790edaebd3decc29dbc2ca39845fb
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 30b1900f5597e8c516100504ca7288137ed99ded
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120128264"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272040"
 ---
 # <a name="glmapgrid1d-function"></a>Функция glMapGrid1d
 
@@ -80,7 +80,7 @@ void WINAPI glMapGrid1d(
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Используйте функции **глмапгрид** и [глевалмеш](glevalmesh-functions.md) , тожесерто эффективно создать и оценить ряд равномерно пробельных значений домена. Функция Глевалмеш выполняет шаг с целым доменом одномерной или двухмерной сетки, диапазон которого представляет собой домен карт оценки, заданных в [**glMap1**](glmap1.md) и [**glMap2**](glmap2.md).
 
@@ -122,7 +122,7 @@ void WINAPI glMapGrid1d(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
