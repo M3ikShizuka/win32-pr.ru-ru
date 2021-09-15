@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Wbemdisp.dll
-ms.openlocfilehash: b1ad11c4362276d5714e54ef3196b246a40de1e26bf8f311f41fb5b5834bab0b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4faa02a4a77409bb8b1813ee433c326d1c45d1bd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118312816"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567214"
 ---
 # <a name="swbemrefresherautoreconnect-property"></a>Свбемрефрешер. Аутореконнект, свойство
 
@@ -42,7 +42,7 @@ SWbemRefresher.AutoReconnect As Boolean
 
 ## <a name="property-value"></a>Значение свойства
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Изменение этого свойства влияет только на объекты в обновитель, которые поддерживаются высокопроизводительным поставщиком. Если поставщик не является высокопроизводительным, установка свойства **аутореконнект** в **значение true** не оказывает никакого влияния, так как объект [**свбемрефрешер**](swbemrefresher.md) никогда не будет повторно подключаться.
 
@@ -54,7 +54,7 @@ SWbemRefresher.AutoReconnect As Boolean
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows Vista<br/>                                                                |
 | Минимальная версия сервера<br/> | Windows Server 2008<br/>                                                          |
-| Header<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Wbemdisp. h</dt> </dl>   |
 | Библиотека типов<br/>             | <dl> <dt>Wbemdisp. tlb</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wbemdisp.dll</dt> </dl> |
 | CLSID<br/>                    | \_СВБЕМРЕФРЕШЕР CLSID<br/>                                                        |

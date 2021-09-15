@@ -27,11 +27,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 70e08c65027806990ab511ef8561b41551f0ac2c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105701725"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469455"
 ---
 # <a name="instanceparametersalternatedatabaserecoverydirectory-property"></a>Инстанцепараметерс. Алтернатедатабасерековеридиректори, свойство
 
@@ -64,9 +64,9 @@ public string AlternateDatabaseRecoveryDirectory { get; set; }
 
 Тип: [System. String](/dotnet/api/system.string)  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
-Этот параметр не учитывается в Windows XP.
+этот параметр не учитывается в Windows XP.
 
 ## <a name="see-also"></a>См. также раздел
 

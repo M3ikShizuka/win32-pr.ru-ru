@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 88bbc1442ca223765b498560d078879c9a7033011117b7f663d4d40ff26bdd93
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7061481aea13b0ed83c3a3d0eb47ca24b940358b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119761084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270408"
 ---
 # <a name="iwmpcontrolsfastreverse-method"></a>Метод Ивмпконтролс:: Фастреверсе
 
@@ -53,7 +53,7 @@ Implements IWMPControls.fastReverse
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **фастреверсе** просматривает клип в обратную, в пять раз превышающую нормальную скорость, отображая только ключевые кадры, если это видеофайл. Вызов **фастреверсе** эквивалентен указанию-5,0 для ставки путем установки свойства **ивмпсеттингс. rate** . если частота впоследствии изменилась или если вызывается **ивмпконтролс. play** или **ивмпконтролс. останавливаться** , проигрыватель Windows Media прекращается на обратный.
 

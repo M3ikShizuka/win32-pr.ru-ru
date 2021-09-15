@@ -5,11 +5,11 @@ ms.assetid: 5cba6055-d153-4837-9a08-96efbde5f48f
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: af76a54be06e52e320743ca945abb31d1d50d213
-ms.sourcegitcommit: 2d531328b6ed82d4ad971a45a5131b430c5866f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "103774081"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346843"
 ---
 # <a name="effect-system-interfaces-direct3d-11"></a>Системные интерфейсы эффектов (Direct3D 11)
 
@@ -33,7 +33,7 @@ ms.locfileid: "103774081"
 
 
 
- 
+ 
 
 ## <a name="effect-reflection-interfaces"></a>Интерфейсы отражения эффектов
 
@@ -54,7 +54,7 @@ ms.locfileid: "103774081"
 
 
 
- 
+ 
 
 ### <a name="setting-effect-resources"></a>Настройка ресурсов эффектов
 
@@ -72,7 +72,7 @@ ms.locfileid: "103774081"
 
 
 
- 
+ 
 
 ### <a name="setting-other-effect-variables"></a>Задание других переменных эффектов
 
@@ -93,11 +93,11 @@ ms.locfileid: "103774081"
 
 
 
- 
+ 
 
 Все интерфейсы отражения являются производными от [**ID3DX11EffectVariable**](id3dx11effectvariable.md).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
@@ -107,9 +107,9 @@ ms.locfileid: "103774081"
 [Руководство по программированию для Direct3D 11](dx-graphics-overviews.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

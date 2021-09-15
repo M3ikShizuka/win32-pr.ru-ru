@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f283ef56f3831f58b8d57f3d172ad3b80163ee62fdaa24b05bdca02c68cafcf5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a1d99307a7b188b238157af62833273b8c724eab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120031334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270411"
 ---
 # <a name="iwmpcontrolsfastforward-method"></a>Метод Ивмпконтролс:: Фастфорвард
 
@@ -53,7 +53,7 @@ Implements IWMPControls.fastForward
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Метод **фастфорвард** воспроизводит клип в пять раз после обычной скорости. Вызов **фастфорвард** эквивалентен указанию 5,0 для скорости путем установки свойства **ивмпсеттингс. rate** . если частота впоследствии изменилась или если вызывается **ивмпконтролс. play** или **ивмпконтролс. остановка** , проигрыватель Windows Media прекращает быструю пересылку.
 
@@ -102,7 +102,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -114,7 +114,7 @@ End Sub
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

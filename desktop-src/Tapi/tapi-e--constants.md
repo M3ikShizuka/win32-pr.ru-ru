@@ -4,12 +4,12 @@ ms.assetid: d242e0e8-99ae-4f5b-9f2d-e7e25953f7c8
 title: Константы TAPI_E_ (Tapi3err. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7d874aaef60daa7a7b3881e3f1ddb89e2cba3c9be5a25a8f577dd387afe07682
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2311cc7e9a66e4f987ff62d716285a2f8be63f9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119873004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469786"
 ---
 # <a name="tapi_e_-constants"></a>\_ \_ Константы TAPI E
 

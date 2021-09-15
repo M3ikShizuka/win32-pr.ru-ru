@@ -4,12 +4,12 @@ description: Ветвь на основе логического или резу
 ms.assetid: 9F4CF9E0-4D9D-4300-B432-432C560F34BB
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 86d4e538ef675240d9cb9ccb2d0ac1d2efe33a40503edf9fd6b8c1499a623d07
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 653c84be0d30a036bf93d852268e44bcca08bbcb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118089857"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568931"
 ---
 # <a name="if-sm4---asm"></a>If (SM4-ASM)
 

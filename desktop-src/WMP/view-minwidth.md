@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: dd6bc59ec96568f0bdd3fc0f4f18f0f242d984f734d12ef3d0f494c0c2442e11
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c357dbd5d05e4630f69c010e6f37ce9a4648dc01
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116718"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567491"
 ---
 # <a name="viewminwidth"></a>VIEW. minWidth
 
@@ -31,7 +31,7 @@ ms.locfileid: "118116718"
 
 Этот атрибут является **числом** для чтения и записи (**длинное**) и имеет нулевое или большее значение. Он имеет нулевое значение по умолчанию, что означает отсутствие ограничений на минимальную ширину **представления**.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118116718"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

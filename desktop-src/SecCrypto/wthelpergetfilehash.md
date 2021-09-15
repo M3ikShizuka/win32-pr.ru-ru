@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Wintrust.dll
-ms.openlocfilehash: a136aaf0b5c8bbf860fa27c9b439cae89a74e5149698e4841b38cdb8d9e4f6a4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1597dfda630b1ae8cbc0d3b700b6ed9bc1a09472
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117970485"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469812"
 ---
 # <a name="wthelpergetfilehash-function"></a>Функция Вселпержетфилехаш
 

@@ -4,12 +4,12 @@ description: Сведения о свойстве Visible объекта Command
 ms.assetid: 80137e16-4646-4251-b1c0-bca39ff7a233
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 07ebc5dee52ff3ab388674bd844e476f0bcc768595b1ba5e69d3c3be5435553f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: af4efec1ad8a97d6412a560a81836273b93ebf2b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118975464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568703"
 ---
 # <a name="visible-property-command-object"></a>Свойство Visible (объект Command)
 

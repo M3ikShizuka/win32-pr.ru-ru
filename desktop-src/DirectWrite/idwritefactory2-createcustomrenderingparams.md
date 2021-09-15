@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2e85057c28e1ad969fe72711c86aab9657126c760ea3041a08bc5101877686a6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 36bd69cde6858061b69b8143dcdd0560342e65f7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119071697"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470403"
 ---
 # <a name="idwritefactory2createcustomrenderingparams-method"></a>Метод IDWriteFactory2:: Креатекустомрендерингпарамс
 
@@ -127,7 +127,7 @@ virtual HRESULT CreateCustomRenderingParams(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -141,7 +141,7 @@ virtual HRESULT CreateCustomRenderingParams(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -15,11 +15,11 @@ ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 29030672cea0deff59f7f3026dcac98d6ff1c178
-ms.sourcegitcommit: b0ebdefc3dcd5c04bede94091833aa1015a2f95c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "104488272"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568787"
 ---
 # <a name="vendortype-eapmethodtype-element"></a>Вендортипе (Еапмесодтипе), элемент
 
@@ -41,8 +41,8 @@ ms.locfileid: "104488272"
 
 | Роль | Минимальная поддерживаемая версия ОС |
 |------|------------------------------|
-| Клиент<br/> | Только для \[ классических приложений Windows Vista\]<br/>       |
-| Сервер<br/> | \[Только для настольных приложений Windows Server 2008\]<br/> |
+| Клиент<br/> | Windows \[Только классические приложения Vista\]<br/>       |
+| Сервер<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/> |
 
 
 

@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Winspool.drv
-ms.openlocfilehash: 4c3a5cd33a6a5584ea9373df22df51a09e3e763d284a0f979f0b24e3651dc3d6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0b8a940fd08e1ab19b18969a763448b65fffd9d0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119100532"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568635"
 ---
 # <a name="isvaliddevmode-function"></a>Функция Исвалиддевмоде
 
@@ -78,7 +78,7 @@ BOOL IsValidDevmode(
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                             |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                    |
-| Header<br/>                   | <dl> <dt>Винспул. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Винспул. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>Винспул. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Винспул. drv</dt> </dl> |
 | Имя в кодировке Юникод и ANSI<br/>   | **Исвалиддевмодев** (Юникод) и **исвалиддевмодеа** (ANSI)<br/>                 |

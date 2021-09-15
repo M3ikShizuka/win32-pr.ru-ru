@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 api_location:
 - Winspool.h
-ms.openlocfilehash: c6e8d5900a0f2d0a2dce5c12d2629abfc80776cdc0ada1354070005e28fbcd37
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d56d4d6bce15a661ce141d8e22d27a15837a9f6f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118971333"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568631"
 ---
 # <a name="job_info_1-structure"></a>\_Структура сведений о задании \_ 1
 
@@ -49,7 +49,7 @@ typedef struct _JOB_INFO_1 {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -185,7 +185,7 @@ typedef struct _JOB_INFO_1 {
 
 Мониторы портов, не поддерживающие Труиндофжоб, задают задание как \_ состояние задания, \_ напечатанное сразу после отправки задания на принтер.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -198,7 +198,7 @@ typedef struct _JOB_INFO_1 {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

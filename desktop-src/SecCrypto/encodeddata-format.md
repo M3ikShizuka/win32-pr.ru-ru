@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 1b3d4316a2de24410a14d496b71e46746ea580109f8d6ede10c4c1a0f57fc22f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 435d0fdcd6e2bbd8c446c38f97012d820dbe5c7b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119874874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469916"
 ---
 # <a name="encodeddataformat-method"></a>Енкодеддата. Format, метод
 
@@ -56,7 +56,7 @@ EncodedData.Format( _
 
 Формат возвращаемой строки может изменяться в разных версиях элемента CAPICOM. Не полагайтесь на определенный формат в приложении.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ EncodedData.Format( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

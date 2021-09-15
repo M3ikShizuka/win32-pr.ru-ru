@@ -4,12 +4,12 @@ ms.assetid: e31dd6df-bc2a-401f-9343-a7dbb0f374bb
 title: Использование свойств управления регистрацией сертификатов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a556af6b75fe23e25efb3dcd4a6863a80592637921f6851f855aa8abccf5786
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 192ad4efd3d2438f800d4a3872a8cf1057ca9920
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118896643"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127471110"
 ---
 # <a name="using-the-certificate-enrollment-control-properties"></a>Использование свойств управления регистрацией сертификатов
 
@@ -27,7 +27,7 @@ ms.locfileid: "118896643"
 -   [**ProviderType**](/windows/win32/api/xenroll/nf-xenroll-icenroll-get_providertype)
 -   [**KeySpec**](/windows/win32/api/xenroll/nf-xenroll-icenroll-get_keyspec)
 -   [**провидерфлагс**](/windows/win32/api/xenroll/nf-xenroll-icenroll-get_providerflags)
--   [**ContainerName;**](/windows/win32/api/xenroll/nf-xenroll-icenroll-get_containername)
+-   [**ContainerName**](/windows/win32/api/xenroll/nf-xenroll-icenroll-get_containername)
 -   [**ProviderName**](/windows/win32/api/xenroll/nf-xenroll-icenroll-get_providername)
 
 Если не вызывается метод [**ICEnroll4:: Reset**](/windows/desktop/api/Xenroll/nf-xenroll-icenroll3-reset) .

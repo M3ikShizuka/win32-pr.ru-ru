@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: e6b4d76b3035e156da1f1d4decf7a5c59b28bf0ca13bc2bdaa33e319422509af
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3a0ce4f230236e276fede528a5e778ecafd51fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120037554"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470196"
 ---
 # <a name="idelaydcgettotalstatistics-method"></a>Метод Иделайдк:: Жеттоталстатистикс
 
@@ -79,7 +79,7 @@ HRESULT STDMETHODCALLTYPE GetTotalStatistics(
 
 Сетевой монитор также хранит [*статистику диалога*](c.md), которую можно получить, вызвав метод [Иделайдк:: жетконверсатионстатистикс](idelaydc-getconversationstatistics.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ HRESULT STDMETHODCALLTYPE GetTotalStatistics(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

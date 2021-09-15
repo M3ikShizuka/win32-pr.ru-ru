@@ -5,11 +5,11 @@ title: Темплатефолдер, свойство
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 80cc85c00e34d18e94683152452625fe52562e1e
-ms.sourcegitcommit: 0ab75073bbeec7ca2899f8051626a8b772073f82
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/18/2021
-ms.locfileid: "122400987"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348874"
 ---
 # <a name="templatefolder-property"></a>Темплатефолдер, свойство
 

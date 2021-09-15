@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: d5c6cf0c677d5a3bf279c3d2754e8abce8fbb985df2ca1f21338897ce03f1d42
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fee4ad7d7accf71bd4c3439f954ee36badd2ea20
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567746"
 ---
 # <a name="apijetclosetable-method"></a>API. Жетклосетабле, метод
 
@@ -72,9 +72,9 @@ public static void JetCloseTable(
     
     Таблица, которую нужно закрыть.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

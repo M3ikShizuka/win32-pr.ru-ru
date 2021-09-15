@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 5d0a2271dbd67902a039ddadf585611ed98fdb115f468c3962baa8cb46f48508
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: db30983c83bc7d66e06befd07f4eb1dcdc9b21ea
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119788974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568926"
 ---
 # <a name="if_comp---ps"></a>Если \_ comp-PS
 
@@ -37,7 +37,7 @@ ms.locfileid: "119788974"
 
     | Синтаксис | Сравнение            |
     |--------|-----------------------|
-    | \_gt   | Больше чем          |
+    | \_gt   | Больше          |
     | \_светл   | Меньше чем             |
     | \_GE   | Больше или равно |
     | \_Le   | Меньше или равно    |

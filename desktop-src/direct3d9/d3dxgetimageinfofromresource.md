@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 7d383a458b99478eee8435aa46441cdd77cc5c953bbf489c657e448078c9931b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea324ef94ab765bad25f7d07eef07972ab94cff6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119123230"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567887"
 ---
 # <a name="d3dxgetimageinfofromresource-function"></a>Функция D3DXGetImageInfoFromResource
 
@@ -75,7 +75,7 @@ HRESULT D3DXGetImageInfoFromResource(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть следующим: D3DERR \_ инвалидкалл
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Параметр компилятора также определяет версию функции. Если определен Юникод, вызов функции разрешается в D3DXGetImageInfoFromResourceW. В противном случае вызов функции разрешается в D3DXGetImageInfoFromResourceA, так как используются строки ANSI.
 

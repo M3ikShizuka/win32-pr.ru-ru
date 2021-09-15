@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 74ff42065f7b41c1d775a0b1924d732110c31bd3121d2464b33eb8b20ae31e21
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fefe89d4fdbe5f75965f2707a5ceb2c1673e1326
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118986304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568915"
 ---
 # <a name="mul---ps"></a>mul-PS
 
@@ -31,7 +31,7 @@ ms.locfileid: "118986304"
 
  
 
-where
+где
 
 -   DST — это регистр назначения.
 -   src0 является исходным регистром.

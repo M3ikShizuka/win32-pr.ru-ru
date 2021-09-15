@@ -4,12 +4,12 @@ description: После обнаружения клиентом маршрута
 ms.assetid: d72c8a84-3eac-4c5d-84af-8edc7b41f0b6
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ade168982d4951e056b7e244143ed2f11ccdc80dcac4872b9c5f9cd72cba440e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 276e523f78de99efb981c5ecaf2f33bd2df3d154
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117791929"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470115"
 ---
 # <a name="adding-routes"></a>Добавление маршрутов
 

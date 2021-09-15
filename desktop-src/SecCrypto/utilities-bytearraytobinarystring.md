@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 33d499f1c7750335b1f4159647907d39c27dd74952e89b1da31b118d2812de12
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 117cb593b77499f6f5c9e402a79e36410375647e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118896410"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127471098"
 ---
 # <a name="utilitiesbytearraytobinarystring-method"></a>Метод Utilities. Битеаррайтобинаристринг
 

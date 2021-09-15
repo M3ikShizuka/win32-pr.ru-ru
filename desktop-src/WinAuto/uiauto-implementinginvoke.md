@@ -15,12 +15,12 @@ keywords:
 - интерфейсы, IInvokeProvider
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 18fbd675a9c30daf0e7b097a706dae9ff0d7767f92f7b785b3098d72ddf6f7cf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 963f8d9ccd6ea2a50557ec26a655d5c7f43c6123
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119997944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567250"
 ---
 # <a name="invoke-control-pattern"></a>Вызвать шаблон элемента управления
 
@@ -32,7 +32,7 @@ ms.locfileid: "119997944"
 
 -   [Правила и соглашения реализации](#implementation-guidelines-and-conventions)
 -   [Обязательные члены для **IInvokeProvider**](#required-members-for-iinvokeprovider)
--   [Связанные темы](#related-topics)
+-   [Связанные разделы](#related-topics)
 
 ## <a name="implementation-guidelines-and-conventions"></a>Правила и соглашения реализации
 
@@ -71,7 +71,7 @@ ms.locfileid: "119997944"
 
 Этот шаблон элемента управления не имеет связанных свойств или событий.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

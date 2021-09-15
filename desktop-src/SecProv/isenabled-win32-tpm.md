@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Win32_tpm.dll
-ms.openlocfilehash: 1d61c96d9c80ae77f9869261905fb93461530b452deaf7a4709b394623a3dfab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d808bb68e53b1a24ff668d1b7a9680b5d57b5e9a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119667504"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270683"
 ---
 # <a name="isenabled-method-of-the-win32_tpm-class"></a>Включенный метод \_ класса TPM Win32
 
@@ -66,7 +66,7 @@ uint32 IsEnabled(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В соответствии со спецификацией организация TCG (TCG) v 1.2 доступны только следующие команды, если устройство находится в отключенном состоянии.
 
@@ -96,7 +96,7 @@ uint32 IsEnabled(
 
 файлы MOF-файл (MOF) содержат определения для классов инструментарий управления Windows (WMI) (WMI). MOF-файлы не устанавливаются в составе Windows SDK. Они устанавливаются на сервере при добавлении связанной роли с помощью диспетчер сервера. Дополнительные сведения о файлах MOF см. в разделе [MOF-файл (MOF)](../wmisdk/managed-object-format--mof-.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -110,7 +110,7 @@ uint32 IsEnabled(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 68eefd24-c924-4dd1-8cb3-cc20106f9605
 title: Шифрование и расшифровка данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 250212864ed7cdd9bcd0c7778ae0d0b9209169f5ab36e4fa25e8a336e8da79aa
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1dd7123544fb9c8fa59291be2eae2c5bf9a120f8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119874474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469886"
 ---
 # <a name="encrypting-and-decrypting-data"></a>Шифрование и расшифровка данных
 

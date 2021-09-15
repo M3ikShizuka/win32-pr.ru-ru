@@ -4,18 +4,18 @@ ms.assetid: c64db095-bd7c-489a-871a-fb887624967c
 title: Базовый подход для Жетксбии в API
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: dd9e6dd0e5569bd11de813e28eaec1ee04f6b5f206277f695cdb9aaab05ec4a5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f4c038c87d6eb6e7ab2a4476271662d5b9567ef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118322628"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568131"
 ---
 # <a name="basic-approach-for-getxbyy-in-the-api"></a>Базовый подход для Жетксбии в API
 
 Большинство функций **жетксбии** преобразуются32.dll Ws2 \_ в последовательность [**Всалукупсервицебегин**](/windows/desktop/api/Winsock2/nf-winsock2-wsalookupservicebegina), [**всалукупсервиценекст**](/windows/desktop/api/Winsock2/nf-winsock2-wsalookupservicenexta)и [**всалукупсервицеенд**](/windows/desktop/api/Winsock2/nf-winsock2-wsalookupserviceend) , которая использует один из наборов специальных идентификаторов GUID в качестве класса службы. Эти идентификаторы GUID указывают тип **жетксбии** операции, для которой выполняется эмуляция. Запрос ограничен теми поставщиками службы имен, которые поддерживают AF \_ inet. Всякий раз, когда функция **жетксбии** возвращает структуру [**хостент**](/windows/desktop/api/winsock/ns-winsock-hostent) или [**Сервент**](/windows/desktop/api/winsock/ns-winsock-servent) , Ws2 \_32.dll указывает \_ флаг Луп Return \_ BLOB в **всалукупсервицебегин** , чтобы требуемые сведения возвращал поставщик службы имен. Эти структуры необходимо немного изменить, чтобы содержащиеся в них указатели в должны быть заменены смещениями относительно начала данных большого двоичного объекта. Все значения, на которые ссылаются эти параметры-указатели, должны быть полностью включены в большой двоичный объект, а все строки — ASCII.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

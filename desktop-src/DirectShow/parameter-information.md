@@ -4,12 +4,12 @@ ms.assetid: 2600b200-f57a-46cd-8740-89b7f7aba540
 title: Сведения о параметрах
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cbe38cc9197df3ae22bcd72b824da5887647bca9e9d6101e3833d482fa907052
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3a1a311bbaa7907af0b3578ed88c28e573649f43
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120050774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348926"
 ---
 # <a name="parameter-information"></a>Сведения о параметрах
 
@@ -43,7 +43,7 @@ ms.locfileid: "120050774"
 
 Чтобы задать формат времени, вызовите [**имедиапарамс:: сеттимеформат**](/previous-versions/windows/desktop/api/Medparam/nf-medparam-imediaparams-settimeformat). Этот метод задает идентификатор GUID формата времени и *данные времени*, представляющие количество единиц на такт. Например, если формат времени — Samples в секунду, а данные времени — 32, то значение метки времени, равное 10, соответствует примерам 320.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

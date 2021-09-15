@@ -4,12 +4,12 @@ ms.assetid: 501BBFFE-5927-4656-8EEE-1F6ECFAFEF5E
 title: Сведения о параллельных сборках
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0e38ee058965b45c3094888aa34351114aa93e595e4e8b893889daaa685410a1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e190e6428f2e366af45a4f0961ad6ea6fb3561fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119142606"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271800"
 ---
 # <a name="about-side-by-side-assemblies"></a>Сведения о параллельных сборках
 

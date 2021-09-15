@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a31fa0cdb17bb7e43d25ea8ea6afd4309833e3dfdc506beaca6047179314057d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aede848a958567a8c7efae4aec640af54b0ec195
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119675574"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348483"
 ---
 # <a name="glcolor4ub-function"></a>Функция glColor4ub
 
@@ -85,7 +85,7 @@ void WINAPI glColor4ub(
 
 Ни одно из целочисленных значений с плавающей запятой и со знаком не передается в диапазон \[ 0, 1 \] до обновления текущего цвета. Однако компоненты цвета отправляются в этот диапазон до того, как они интерполируются или записаны в буфер цвета.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -99,7 +99,7 @@ void WINAPI glColor4ub(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

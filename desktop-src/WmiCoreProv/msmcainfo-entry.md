@@ -15,12 +15,12 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: 8f6146d629678c1ee209738095fea901f0edb865bccb9aff2d4eeab02d18e773
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cda6abba06dc4d4f3fec3a4763391eee1fa81274
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119640909"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568114"
 ---
 # <a name="msmcainfo_entry-class"></a>\_Класс записи мсмкаинфо
 
@@ -38,7 +38,7 @@ class MSMCAInfo_Entry : MSMCAInfo
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **\_ записи мсмкаинфо** имеет следующие типы членов:
 
@@ -76,25 +76,25 @@ class MSMCAInfo_Entry : MSMCAInfo
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **\_ записи мсмкаинфо** является производным от [**мсмкаинфо**](msmcainfo.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 28be7887a00effc57a514d334978259b05a9189e5c28a4278ab63c1201aba378
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 163c10250e9d1f109b9557f8d222790c71561f7d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117705216"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469449"
 ---
 # <a name="jet_columnid-structure"></a>Структура JET_COLUMNID
 
@@ -58,7 +58,7 @@ public struct JET_COLUMNID : IEquatable<JET_COLUMNID>,
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

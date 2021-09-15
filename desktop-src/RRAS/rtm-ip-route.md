@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0fd854864dcc61397fa52df7af9419a38ac829a81382be6b6190e4cb3db41d7c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1978503a3ec37e0c39716569030d5ea6599e19d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120026734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271960"
 ---
 # <a name="rtm_ip_route-structure"></a>\_Структура IP- \_ маршрута RTM
 
@@ -45,7 +45,7 @@ typedef struct _RTM_IP_ROUTE {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -98,11 +98,11 @@ typedef struct _RTM_IP_ROUTE {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Члены структуры **\_ IP- \_ маршрута RTM** имеют все, что выровняйтеся по **DWORD** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -110,12 +110,12 @@ typedef struct _RTM_IP_ROUTE {
 |-------------------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                        |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                             |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                   |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                   |
 | Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

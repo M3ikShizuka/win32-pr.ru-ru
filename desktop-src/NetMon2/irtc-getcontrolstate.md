@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Ndisnpp.dll
 - Rmtnpp.dll
-ms.openlocfilehash: bf3f4b70f1b06f5f985d459af361dc27f320d84465f5ef86f2d956339bf90ac3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2e41ad3e4119fffbada26fe3ebebdfe3bf82043
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119778794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348546"
 ---
 # <a name="irtcgetcontrolstate-method"></a>Метод ИРТК:: Жетконтролстате
 

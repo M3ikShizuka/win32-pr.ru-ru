@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3e8a9f133baf77a77d3db33001e996accc9574f86ad708037900a5db7c0c5e8b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ac2559717a2040cfb617e85e0a51495be1b5987
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118910385"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469996"
 ---
 # <a name="winbio_extended_storage_info-structure"></a>\_ \_ \_ Структура сведений о РАСШИРЕНном хранилище винбио
 
@@ -53,7 +53,7 @@ typedef struct _WINBIO_EXTENDED_STORAGE_INFO {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -141,7 +141,7 @@ typedef struct _WINBIO_EXTENDED_STORAGE_INFO {
 
 </dd> </dl> </dd> </dl> </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -153,7 +153,7 @@ typedef struct _WINBIO_EXTENDED_STORAGE_INFO {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 0e8e4c369eab647d51fbb690338ff9451a010bfac69af68ec1209ada10db4018
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0036ee0a49225568aac066735824fe55ce8f0fa6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118395042"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470395"
 ---
 # <a name="eventtraceevent-class"></a>Класс Евенттрацеевент
 
@@ -34,7 +34,7 @@ class EventTraceEvent : MSNT_SystemTrace
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **евенттрацеевент** не определяет никаких членов.
 

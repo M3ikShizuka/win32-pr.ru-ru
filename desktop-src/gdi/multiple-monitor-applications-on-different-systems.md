@@ -4,12 +4,12 @@ ms.assetid: 8667305e-ca76-49cb-878e-07814431e6db
 title: Несколько мониторных приложений в разных системах
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a4c597261063f49b6e6856576e3528698291348afb2b8478d854a824b92d2cc4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ec5d470861136ac9362d986b8647c86abee7021b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119037722"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469384"
 ---
 # <a name="multiple-monitor-applications-on-different-systems"></a>Несколько мониторных приложений в разных системах
 

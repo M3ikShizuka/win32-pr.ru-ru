@@ -4,12 +4,12 @@ ms.assetid: ce6661b0-7ed2-452f-a54c-6705d14f3298
 title: Управление регистрацией сертификатов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f19499dad8c3d8b4d9720b285a4377c2f7b6b1903ca27f9e1cba17224fe1c857
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e417a9db7984cbb58b7c2e3b51d828b6d61a97b6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120127132"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469955"
 ---
 # <a name="certificate-enrollment-control"></a>Управление регистрацией сертификатов
 

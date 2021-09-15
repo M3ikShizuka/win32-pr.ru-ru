@@ -4,12 +4,12 @@ description: В следующей таблице перечислены клю�
 ms.assetid: 0c1f8398-75e6-45ec-a9f9-9dcdbe21c24d
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ec50632693ad0df7ff44aa1d2a9a2760b07a2ed1b72a13ac5dc33294569c3484
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6f9403bb5057b2004d966c0634bc101a3282fe92
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118924705"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470061"
 ---
 # <a name="summary-of-memory-allocation-rules"></a>Сводка правил выделения памяти
 

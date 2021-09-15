@@ -4,12 +4,12 @@ ms.assetid: a66b9c52-a015-41d2-b27a-3ce6a4d95be9
 title: Средство преобразования частоты кадров DSP (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ca4a728f37caa43ee99a0d293d5113e9c26cfb1dcfe51f399482fb614283737
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: c6197c29e9e753db6f327aa8b2797ba04131448d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119600494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469300"
 ---
 # <a name="frame-rate-converter-dsp"></a>Средство преобразования частоты кадров DSP
 
@@ -43,7 +43,7 @@ ms.locfileid: "119600494"
 -   YV12
 -   ивю
 
-## <a name="properties"></a>Свойства
+## <a name="properties"></a>Элемент Property
 
 -   [МФПКЭЙ \_ , \_ инпутфрамерате](mfpkey-conv-inputframerate.md)
 -   [МФПКЭЙ \_ , \_ аутпутфрамерате](mfpkey-conv-outputframerate.md)
@@ -54,7 +54,7 @@ ms.locfileid: "119600494"
 
 По умолчанию DSP получает частоту кадров из типов мультимедиа. Кроме того, можно указать частоту кадров, задав свойства МФПКЭЙ, \_ \_ ИНПУТФРАМЕРАТЕ и мфпкэй \_ \_ . Эти значения переопределяют частоту кадров, заданную в типе носителя. Однако при использовании этого DSP в конвейере Media Foundation не следует задавать эти свойства.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -67,7 +67,7 @@ ms.locfileid: "119600494"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

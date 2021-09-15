@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 04ca76f5c96a34c6cd552eefc6ff383e6ca31634b03f33637674fa7b347b22d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8ac29dec4032d83197a57746789afc770d84ec30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567750"
 ---
 # <a name="apijetclosefileinstance-method"></a>API. Жетклосефилеинстанце, метод
 
@@ -61,7 +61,7 @@ public static void JetCloseFileInstance(
 
 #### <a name="parameters"></a>Параметры
 
-  - экземпляр  
+  - instance  
     Тип: [Microsoft.ISAM.ESENT.Interop.JET_INSTANCE](./jet-instance-structure.md)  
     
     Используемый экземпляр.
@@ -73,9 +73,9 @@ public static void JetCloseFileInstance(
     
     Закрывающий маркер.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

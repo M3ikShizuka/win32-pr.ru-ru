@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 02/23/2021
-ms.openlocfilehash: 719982c1e17ab74dc5c624352625d226f8f4bef90ae84dce4f2b85d5dc2713f2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 90a11ff727b491a1801f8071e28c39a3a6594408
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120085124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568579"
 ---
 # <a name="propsheetheader--structure"></a>Структура ПРОПШИСЕАДЕР
 
@@ -59,7 +59,7 @@ typedef struct {
 } PROPSHEETHEADER, *LPPROPSHEETHEADER;
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 *двсизе* 
 
@@ -206,7 +206,7 @@ typedef struct {
 
 Стили PSH_WIZARD, PSH_WIZARD97 и PSH_WIZARD_LITE являются взаимно несовместимыми. Необходимо задать только один из этих флагов стиля. PSH_AEROWIZARD следует сочетать с PSH_WIZARD.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------------------------|------------------------------------------------------------------------------------|

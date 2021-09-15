@@ -8,11 +8,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d7298a1ad4d571446532f7198e5bd41ae988194e
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369825"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470301"
 ---
 # <a name="mci-command-strings"></a>Строки команд MCI
 
@@ -24,12 +24,12 @@ ms.locfileid: "124369825"
 -   [**выхода**](close.md)
 -   [**выбрать**](configure.md)
 -   [**копии**](copy.md)
--   [**сказк**](cue.md)
+-   [**cue**](cue.md)
 -   [**бавьте**](cut.md)
 -   [**удален**](delete.md)
 -   [выполняет](escape.md)
 -   [**фиксировать**](freeze.md)
--   [**индекс**](./windows-multimedia-start-page.md)
+-   [**index**](./windows-multimedia-start-page.md)
 -   [**сведения**](info.md)
 -   [**числ**](list.md)
 -   [**загрузить**](load.md)
@@ -61,11 +61,11 @@ ms.locfileid: "124369825"
 -   [сисинфо](sysinfo.md)
 -   [**отмен**](undo.md)
 -   [**освободить**](unfreeze.md)
--   [**обновляют**](update.md)
--   [**которому**](where.md)
+-   [**обновить**](update.md)
+-   [**где**](where.md)
 -   [**окно**](window.md)
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

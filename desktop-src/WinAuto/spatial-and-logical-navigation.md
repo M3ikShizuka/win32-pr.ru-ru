@@ -4,12 +4,12 @@ description: Клиенты получают сведения об объект�
 ms.assetid: a1ebb50e-76cf-472d-bb0f-3f5bf5ed30d5
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d762352c41f2adc764ac40c052632922a25ca995b9f2ec2f5008c668d0332bfd
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9b9e49772a267e49d723a04005dcbc8a369510b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119052510"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567367"
 ---
 # <a name="spatial-and-logical-navigation"></a>Пространственное и логическое перемещение
 

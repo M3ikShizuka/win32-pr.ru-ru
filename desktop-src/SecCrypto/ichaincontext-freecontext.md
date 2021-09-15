@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: 10a6d0576cefd1c28e8f05fe455b89be90dcd36386b4312ef1921511616bce2d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 413b119f250bfbd061301391fee7741362979f65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119005492"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270987"
 ---
 # <a name="ichaincontextfreecontext-method"></a>Метод Ичаинконтекст:: Фриконтекст
 
@@ -51,11 +51,11 @@ ChainContext.FreeContext()
 
 Возвращаемое значение является значением **HRESULT**. Значение S \_ ОК указывает на успешное выполнение. Любое другое значение указывает на сбой операции.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод не освобождает \_ контекст цепочки пкцерт, \_ содержащийся в объекте [**цепочки**](chain.md) . Он должен использоваться только для освобождения \_ контекста цепочки пкцерт, \_ полученного через свойство [**чаинконтекст**](ichaincontext-chaincontext.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ ChainContext.FreeContext()
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

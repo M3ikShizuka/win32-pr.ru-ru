@@ -11,12 +11,12 @@ api_name:
 - iconFileType
 api_type:
 - Schema
-ms.openlocfilehash: a4ad0c27c40c1b647a15a2c53ed67ffc1deee590006e7e9a514c11f6285c6bf7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 168c2709f8b3049270711e286a35fbbd11e1ffef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118975253"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568675"
 ---
 # <a name="iconfiletype-simple-type"></a>Простой тип Иконфилетипе
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Capicom.h
-ms.openlocfilehash: d858990212aecd0c2a225a6143649c0f8e974aa67f2a3c136e3c97cfc88785bf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b624085a72e2e973fcae509985affdb24e0c3f81
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119878974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469979"
 ---
 # <a name="capicom_store_save_as_type-enumeration"></a>\_ \_ \_ \_ Перечисление типа файла CAPICOM Store
 
@@ -35,7 +35,7 @@ ms.locfileid: "119878974"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

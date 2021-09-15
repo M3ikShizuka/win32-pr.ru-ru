@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: db15bc2120f90cf52aa4f3c41eccecc7d308cc8392ae368cd4423a90f218f6ec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab229652fe9e333519acce7d8474d3c4f0cf7ef9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118293368"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469522"
 ---
 # <a name="id3dxprtenginesetsamplinginfo-method"></a>Метод ID3DXPRTEngine:: Сетсамплингинфо
 

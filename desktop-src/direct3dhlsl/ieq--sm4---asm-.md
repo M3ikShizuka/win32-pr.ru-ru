@@ -4,12 +4,12 @@ description: Сравнение равенства целочисленных з
 ms.assetid: AD010554-80DC-4D2D-B04C-2638276DDC34
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 942e45bedd6dd7e920d4c625a4c001d48f6650a47d74e1643eb162c87980de2d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 579a47ffe38b8322b748f6ba64ce9bbbc26a5bd9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119743664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568938"
 ---
 # <a name="ieq-sm4---asm"></a>ИЕК (SM4-ASM)
 

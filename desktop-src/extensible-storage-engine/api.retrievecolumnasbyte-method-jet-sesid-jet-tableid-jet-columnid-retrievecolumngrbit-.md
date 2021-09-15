@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: fbf7baaed340dbe61e7c10e4d64d17d93b23cdd1b4b01af0818c310ff0a7f363
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 68ea6a2b461799006edd0d82f69a20bc52d2c721
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118983027"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568767"
 ---
 # <a name="apiretrievecolumnasbyte-method-jet_sesid-jet_tableid-jet_columnid-retrievecolumngrbit"></a>Метод API. Ретриевеколумнасбите (JET_SESID, JET_TABLEID, JET_COLUMNID, Ретриевеколумнгрбит)
 
@@ -97,7 +97,7 @@ public static Nullable<byte> RetrieveColumnAsByte(
 Тип: [System. Nullable](/dotnet/api/system.nullable-1)\<[Byte](/dotnet/api/system.byte)\>  
 Данные, полученные из столбца в виде байта. Значение null, если столбец имеет значение null.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

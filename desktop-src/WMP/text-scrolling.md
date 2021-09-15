@@ -3,7 +3,7 @@ title: TEXT. Scroll
 description: Атрибут прокрутки указывает или получает значение, указывающее, прокручивается ли текст.
 ms.assetid: 1cd5cb4e-673f-4273-91ff-50165c2b08fa
 keywords:
-- TEXT. прокрутка проигрывателя Windows Media
+- TEXT. scroll проигрыватель Windows Media
 topic_type:
 - apiref
 api_name:
@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3fdbb80b2033d542da4894172d58451ed5da224f
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105717929"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568546"
 ---
 # <a name="textscrolling"></a>TEXT. Scroll
 
@@ -35,7 +35,7 @@ ms.locfileid: "105717929"
 
 | Значение | Описание                     |
 |-------|---------------------------------|
-| true  | Прокрутка включена.           |
+| Да  | Прокрутка включена.           |
 | false | По умолчанию. Прокрутка отключена. |
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "105717929"
 
 | Требование | Значение |
 |--------------------|------------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media версии 7,0 или более поздней<br/> |
+| Версия<br/> | проигрыватель Windows Media версии 7,0 или более поздней<br/> |
 
 
 

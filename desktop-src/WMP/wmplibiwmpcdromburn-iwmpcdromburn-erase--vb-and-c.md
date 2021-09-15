@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 356b7bcdd332198c40760860e69741e76e0e993b6b47b3c5a5ff207d3d55bc42
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f4e168142a6ee77081871bb7dbefa79de8031d71
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118116337"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569030"
 ---
 # <a name="iwmpcdromburnerase-method"></a>Метод Ивмпкдромбурн:: Erase
 
@@ -57,7 +57,7 @@ Implements IWMPCdromBurn.erase
 
 Этот метод не будет работать, если диск в устройстве не может быть перезаписываемым. Используйте [ивмпкдромбурн. Available](wmplibiwmpcdromburn-iwmpcdromburn-isavailable--vb-and-c.md) , чтобы определить, можно ли стереть компакт-диск.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -69,7 +69,7 @@ Implements IWMPCdromBurn.erase
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

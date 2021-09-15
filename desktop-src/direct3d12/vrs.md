@@ -4,12 +4,12 @@ description: Заливка с переменной скоростью &mdash; �
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 04/08/2019
-ms.openlocfilehash: b26d2d67a6e4a5f7b599a9fc65f324b301346fde3170262e80235a25f8cfb88b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2f207cddee978915788291fc0ffe55160e6a93c6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119045331"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567967"
 ---
 # <a name="variable-rate-shading-vrs"></a>Variable-Rate Shading (VRS)
 
@@ -328,7 +328,7 @@ numeric EvaluateAttributeSnapped(
 
 | Двоичное значение | Decimal  | Дробная часть |
 |-------------:|---------:|-----------:|
-|        10000 |–1        |— 16/16    |
+|        10000 |-1        |— 16/16    |
 |        10001 |— 0,9375   |— 15/16    |
 |        10010 |— 0,875    |— 14/16    |
 |        10011 |— 0,8125   |— 13/16    |
@@ -365,7 +365,7 @@ numeric EvaluateAttributeSnapped(
 
 | Двоичное значение | Decimal  | Дробная часть |
 |-------------:|---------:|-----------:|
-|       100 000 |–2        |-32/16    |
+|       100 000 |-2        |-32/16    |
 |       100001 |— 1,9375   |— 31/16    |
 |       100010 |— 1,875    |— 30/16    |
 |       100011 |— 1,8125   |— 29/16    |
@@ -381,7 +381,7 @@ numeric EvaluateAttributeSnapped(
 |       101101 |— 1,1875   |— 19/16    |
 |       101110 |— 1,125    |— 18/16    |
 |       101111 |— 1,0625   |— 17/16    |
-|       110000 |–1        |— 16/16    |
+|       110000 |-1        |— 16/16    |
 |       110001 |— 0,9375   |— 15/16    |
 |       110010 |— 0,875    |— 14/16    |
 |       110011 |— 0,8125   |— 13/16    |

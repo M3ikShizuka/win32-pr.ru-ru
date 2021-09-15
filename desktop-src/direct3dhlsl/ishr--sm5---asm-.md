@@ -4,12 +4,12 @@ description: Арифметический сдвиг вправо (расшир�
 ms.assetid: 8124B6C3-4576-4616-85A9-A2DD19EB6BB9
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c7c75d64ded9beb6cdc5660d6157b15fc989863ee9e907e67c00854fe7cfe161
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06df958b2e5c6e9cdd2a4dfb3d35c8112453ce9f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119488334"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569299"
 ---
 # <a name="ishr-sm5---asm"></a>ишр (SM5-ASM)
 
@@ -44,7 +44,7 @@ ms.locfileid: "119488334"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 

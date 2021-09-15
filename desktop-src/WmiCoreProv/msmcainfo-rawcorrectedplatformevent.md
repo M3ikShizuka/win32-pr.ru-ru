@@ -16,12 +16,12 @@ api_type:
 - DllExport
 api_location:
 - Wmiprov.dll
-ms.openlocfilehash: 9da5da0cbbde9f7319482e5f8574f62ac311535d277e08f3f7884134b1fa3475
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 906587ca9ee153eb93542c3e749e8164e6a5ee7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120097414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568107"
 ---
 # <a name="msmcainfo_rawcorrectedplatformevent-class"></a>\_Класс мсмкаинфо равкорректедплатформевент
 
@@ -40,7 +40,7 @@ class MSMCAInfo_RawCorrectedPlatformEvent : WMIEvent
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **мсмкаинфо \_ равкорректедплатформевент** имеет следующие типы членов:
 
@@ -91,25 +91,25 @@ class MSMCAInfo_RawCorrectedPlatformEvent : WMIEvent
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Класс **мсмкаинфо \_ равкорректедплатформевент** является производным от [**WMIEvent**](wmievent.md).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP<br/>                                                                  |
-| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
+| Минимальная версия сервера<br/> | Windows Server 2003<br/>                                                         |
 | Пространство имен<br/>                | Корневой \\ инструментарий WMI<br/>                                                                   |
 | MOF<br/>                      | <dl> <dt>Вмикоре. mof</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Wmiprov.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 56b39a3d-48a4-4620-9652-ec41ea4d6423
 title: Device-Independent растровые изображения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a6672857aadda714e7016616ca78654d7da102b48c1229c5b322953fc716f5b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1aa35201a9a27c2d16a5a18b0125d25a3938890c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118761393"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127569219"
 ---
 # <a name="device-independent-bitmaps"></a>Device-Independent растровые изображения
 

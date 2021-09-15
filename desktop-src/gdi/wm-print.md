@@ -4,12 +4,12 @@ ms.assetid: e6be2ecd-603a-405f-8a48-68d971e1f6de
 title: Сообщение WM_PRINT (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 45a09d3cb7dbb3b4a4fca7a2af4272f1b4175aa26e911d1def909c97ba35f3d9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5a012d26e4357a639a7eb8d7930937a06a991124
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119964854"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469365"
 ---
 # <a name="wm_print-message"></a>\_Сообщение для печати WM
 

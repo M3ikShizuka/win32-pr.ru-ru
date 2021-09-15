@@ -4,12 +4,12 @@ ms.assetid: ab26850e-554a-4a1b-9250-edb0b4e17fe2
 title: пажедевицеколорспацепрофилеури
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a979ed2bdabd9d31be44942de2a8fbe47119f2e27c77041b2410413d9e43ece6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 21420dec2e3057de903b1e04c55a7c6d234343b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119554614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346442"
 ---
 # <a name="pagedevicecolorspaceprofileuri"></a>пажедевицеколорспацепрофилеури
 

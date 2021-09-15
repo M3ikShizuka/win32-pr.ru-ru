@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 381f885a15dede6a500e82b08a1f24e4f0542ffa46211e5b68ef7f73f40d0f0b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 9c1ee52e4c6628c00b0155e5bd3081b6c4fd8c46
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119460784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469526"
 ---
 # <a name="id3dx11effecttypegetdesc-method"></a>Метод ID3DX11EffectType:: DESC
 
@@ -67,7 +67,7 @@ HRESULT GetDesc(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

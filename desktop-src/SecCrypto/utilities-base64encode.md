@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Capicom.dll
 ms.openlocfilehash: 0536097e3e46fcc09702c1e4000d2fbd9856c205
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105685377"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127471102"
 ---
 # <a name="utilitiesbase64encode-method"></a>Метод Utilities. Base64Encode
 
@@ -52,7 +52,7 @@ Utilities.Base64Encode( _
 
 Строка в кодировке Base64.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Кодировка base64 — это схема, используемая для передачи двоичных данных. Base64 обрабатывает данные в виде 24-разрядных групп, сопоставляя эти данные с четырьмя закодированными символами. Кодировка base64 иногда называется кодировкой 3 – 4. Каждый 6 бит 24-разрядной группы используется в качестве индекса в таблице сопоставления (в кодировке Base64) для получения символа для закодированных данных. Закодированные данные имеют длину строк, которая ограничена 76 символами.
 

@@ -5,11 +5,11 @@ title: МАКСУИДЛЕН (Винкрипт. h)
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 199d8e697deba86ffe48d4f76501f2d9d3a6d4e3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105682778"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270888"
 ---
 # <a name="maxuidlen"></a>максуидлен
 
@@ -29,9 +29,9 @@ ms.locfileid: "105682778"
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows XP\]<br/>                                           |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2003\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Винкрипт. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения XP\]<br/>                                           |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2003\]<br/>                                  |
+| Заголовок<br/>                   | <dl> <dt>Винкрипт. h</dt> </dl> |
 
 
 

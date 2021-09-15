@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: f4d13e55184beaa67fdecff2c0b2904dba1cc6832338f7bc73cdd0b0790a426e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 884bfaaea30600919a905616cd0e808541f56ce0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118980203"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566986"
 ---
 # <a name="jet_indexlistcolumnidckey-property"></a>Свойство JET_INDEXLIST. Колумнидккэй
 
@@ -64,7 +64,7 @@ public JET_COLUMNID columnidcKey { get; internal set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_INDEXLIST](./jet-indexlist-class.md)
 

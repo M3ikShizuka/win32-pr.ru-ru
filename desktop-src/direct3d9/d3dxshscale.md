@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 87ac53e0fba57ed1e7cfb4e92d1da726e7030466954bf29f2bfb9ff14156eef6
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6a91c3ea1cb49c4c501ab847cb63fe8a39d66665
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120027024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566647"
 ---
 # <a name="d3dxshscale-function-d3dx9mathh"></a>Функция D3DXSHScale (D3dx9math. h)
 
@@ -92,7 +92,7 @@ FLOAT* D3DXSHScale(
 -   l — это степень базовой функции.
 -   m — это базовый индекс функции для заданного значения l и диапазон от-l до l включительно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -103,7 +103,7 @@ FLOAT* D3DXSHScale(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Конфиденцетекст, свойство
 ms.assetid: ff856af7-c5ad-4970-8778-b59a76c5e276
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0b6612d4ade657748674fb4dd7391f447849691dcd756f2320f590c00ac33430
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eb30b5ac481b6011d3575ab99dbc389f426b085d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119963154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567563"
 ---
 # <a name="confidencetext-property"></a>Конфиденцетекст, свойство
 
@@ -41,7 +41,7 @@ ms.locfileid: "119963154"
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если возвращенное значение достоверности наилучшего соответствия (UserInput. достоверность) не превышает параметр [**достоверности**](confidence-property.md) , сервер отображает текст, указанный в **конфиденцетекст** , в подсказке прослушивания.
 

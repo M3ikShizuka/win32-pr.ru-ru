@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 471cb15afc00593d90bec2c0525d8e7aeddc79db13779b7b93ce99d23ccab020
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d45defd098f560d4deb8698e0fd569492668e0b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118498418"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568790"
 ---
 # <a name="type-eapmethodtype-element"></a>Элемент Type (Еапмесодтипе)
 
@@ -35,7 +35,7 @@ ms.locfileid: "118498418"
 
 Элемент **Type** определяется сложным типом [**еапмесодтипе**](eapcommonschema-eapmethodtype-complextype.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -46,7 +46,7 @@ ms.locfileid: "118498418"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

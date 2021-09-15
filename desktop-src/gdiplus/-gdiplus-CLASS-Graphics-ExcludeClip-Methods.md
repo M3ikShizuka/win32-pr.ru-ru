@@ -4,12 +4,12 @@ ms.assetid: ee2b1bc7-6623-4144-b8fb-2ab9fbe28f59
 title: Методы Graphics. Ексклудеклип (Гдиплусграфикс. h)
 ms.date: 07/02/2019
 ms.topic: reference
-ms.openlocfilehash: c71375cb9567aec66f64d233a2c490cd8f8f12e343195570f78d00605caaa413
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 70011bfe1aba7ef8e7c14b58f61bfcbd9549c8fb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118482917"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568727"
 ---
 # <a name="graphicsexcludeclip-methods"></a>Методы Graphics. Ексклудеклип
 

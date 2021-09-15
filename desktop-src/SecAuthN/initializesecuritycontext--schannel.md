@@ -5,11 +5,11 @@ title: Функция InitializeSecurityContext (Schannel) (SSPI. h)
 ms.topic: reference
 ms.date: 07/25/2019
 ms.openlocfilehash: 29bbaeac3ef307e3ef846f526d96a98a22395742
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122472910"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567518"
 ---
 # <a name="initializesecuritycontext-schannel-function"></a>Функция InitializeSecurityContext (Schannel)
 
@@ -280,7 +280,7 @@ SECURITY_STATUS SEC_Entry InitializeSecurityContext(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

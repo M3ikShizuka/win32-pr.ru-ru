@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: b1b2b974bc4f5f527ea41d68f3f643a07d4ed928cda832b4ab33c2c35aa5c4e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 04d7bf8a337c1bcfa0a024b84304fe50c035f9dd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119874654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469894"
 ---
 # <a name="encrypteddataencrypt-method"></a>Метод EncryptedData. Encrypt
 
@@ -68,7 +68,7 @@ EncryptedData.Encrypt( _
 
 Перед вызовом метода **Encrypt** задайте свойство [**Content**](encrypteddata-content.md) и вызовите метод [**сетсекрет**](encrypteddata-setsecret.md) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ EncryptedData.Encrypt( _
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

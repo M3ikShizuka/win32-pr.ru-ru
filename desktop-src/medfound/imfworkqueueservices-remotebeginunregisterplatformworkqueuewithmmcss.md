@@ -4,12 +4,12 @@ ms.assetid: c3117086-268e-4e52-acfb-2c8167adaa07
 title: Ремотебегинунрегистерплатформворккуеуевисммксс (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ceef3efa5eb4adb34326a2280401c9d43f5e24c84f639225ef10e9fc73521b4f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ab364f041d6bc8d0f6275879c82a937e98f463b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117878348"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469288"
 ---
 # <a name="remotebeginunregisterplatformworkqueuewithmmcss"></a>ремотебегинунрегистерплатформворккуеуевисммксс
 
@@ -27,7 +27,7 @@ HRESULT RemoteBeginUnregisterPlatformWorkQueueWithMMCSS(
 
 Приложения не могут вызывать этот метод напрямую, и объекты не реализуют этот метод. Метод не отображается в таблице vtable для интерфейса. Если [**бегинунрегистерплатформворккуеуевисммксс**](/windows/desktop/api/mfidl/nf-mfidl-imfworkqueueservices-beginunregisterplatformworkqueuewithmmcss) вызывается через границы процесса, то библиотека DLL прокси или заглушки Media Foundation преобразует вызов в вызов удаленного метода и затем преобразует его обратно.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -40,7 +40,7 @@ HRESULT RemoteBeginUnregisterPlatformWorkQueueWithMMCSS(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

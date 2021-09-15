@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Создание асинхронного вызова с помощью C++
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fcd988382399f3fc377476c486b363cf51db6c4d9ef559c787236e41bb74117a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b7f093aef4b1a1b4dbede53333e77d737f8efd69
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119131196"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127566838"
 ---
 # <a name="making-an-asynchronous-call-with-c"></a>Создание асинхронного вызова с помощью C++
 

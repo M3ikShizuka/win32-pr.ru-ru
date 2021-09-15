@@ -5,11 +5,11 @@ title: Использование WinHTTP в качестве параллель
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: f682586ba315932d8dc7812f7e74bd15e20e4ad6
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122882135"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568175"
 ---
 # <a name="using-winhttp-as-a-side-by-side-assembly"></a>Использование WinHTTP в качестве параллельной сборки
 

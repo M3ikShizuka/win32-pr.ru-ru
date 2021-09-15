@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2efb8a873a7690ada0b6da9edaaebabc5c4681a055e099848aee7e96c22f1238
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e13088e33a7b7f7ec915c1c595b528c446a2f66d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118995615"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469670"
 ---
 # <a name="releasedate-attribute"></a>Атрибут ReleaseDate
 

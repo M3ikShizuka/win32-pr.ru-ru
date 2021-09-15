@@ -6,12 +6,12 @@ keywords:
 - RPC-файлы IDL
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 169aabd31b9be491da3f4957510eb846f6a9254092daa94c488e2df1a4bdce46
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53859d138528b4096cc99912be1ca0f59317c674
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120017044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470029"
 ---
 # <a name="the-interface-definition-language-idl-file"></a>Файл языка определения интерфейса (IDL)
 

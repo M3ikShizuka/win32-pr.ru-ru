@@ -8,12 +8,12 @@ keywords:
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fbff2af55d3148d229b70fd724f3f26a7e39ea73f11280a7529202bad06f4127
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c7564b5863d3efebdf8a335e2c46945aeebea93e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117912356"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567994"
 ---
 # <a name="managing-graphics-pipeline-state-in-direct3d-12"></a>Управление состоянием графического конвейера в Direct3D 12
 
@@ -67,6 +67,6 @@ ms.locfileid: "117912356"
 
 Дополнительные сведения о привязках см. в разделе **семантика пакета** в статье [Использование корневой сигнатуры](using-a-root-signature.md).
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 * [Отправка работы в Direct3D 12](command-queues-and-command-lists.md)

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Npptools.dll
 ms.openlocfilehash: 2f8b15dce010febdc952c2527a9f4ad31054fa3b
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105674490"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470218"
 ---
 # <a name="getnetworkinfofromblob-function"></a>Функция Жетнетворкинфофромблоб
 
@@ -60,7 +60,7 @@ DWORD GetNetworkInfoFromBlob(
 
 Если функция завершается неудачно, возвращается значение НМЕРР, описывающее ошибку.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Сведения о сети хранятся в разделе **нетворкинфо** большого двоичного объекта категории **владельца** BLOB-объекта НПП.
 

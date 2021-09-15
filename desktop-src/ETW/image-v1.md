@@ -12,12 +12,12 @@ api_name:
 api_type:
 - NA
 api_location: ''
-ms.openlocfilehash: 7e5db8d6245ab332c6238a7053623580c16e93caa49e0ac2623cba61723dc1d0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: aafb2b7307e72e97ba1508aa80638af7565f2867
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119070134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470343"
 ---
 # <a name="image_v1-class"></a>\_Класс Image v1
 
@@ -34,11 +34,11 @@ class Image_V1 : MSNT_SystemTrace
 };
 ```
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 Класс **image \_ v1** не определяет никаких членов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ class Image_V1 : MSNT_SystemTrace
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

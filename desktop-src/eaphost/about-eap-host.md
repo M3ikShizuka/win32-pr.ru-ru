@@ -4,12 +4,12 @@ description: Реализует среду (EAP) конечного автома
 ms.assetid: 41e67c33-9220-464f-84ab-c61667a226ad
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 896c6ea3e88b63892a51b0f9cd25063fc3274a5d1bbd86c5bc1bbb142702c81b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7a2ff1c20e6e11fbc7c0188f3eb6b529b9c89c4e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119117734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568898"
 ---
 # <a name="about-eaphost"></a>Об EAPHost
 

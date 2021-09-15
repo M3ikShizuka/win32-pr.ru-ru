@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ae7854a36ffb1d313a1598764c5375a8146471c1b2fd930b4022948f147acc24
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7767f96c9b5410b3de9cfef3695193c0d5572b2d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118940212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470226"
 ---
 # <a name="inapclientmanagementgetregisteredenforcementclients-method"></a>Метод Инапклиентманажемент:: Жетрегистереденфорцементклиентс
 

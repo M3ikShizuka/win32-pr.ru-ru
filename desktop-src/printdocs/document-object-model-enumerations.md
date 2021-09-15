@@ -4,12 +4,12 @@ ms.assetid: 5abe6898-bb2c-4c4a-9a88-d84f71cb33e0
 title: Перечисления документов XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2c1e5bb6c9548d8f65ed85035aa463109e6a953feaa14b9b9afdcb3c99df98c8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27e4ae57a6accc258ceca22fdadc5e166a4db547
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118056649"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568659"
 ---
 # <a name="xps-document-enumerations"></a>Перечисления документов XPS
 

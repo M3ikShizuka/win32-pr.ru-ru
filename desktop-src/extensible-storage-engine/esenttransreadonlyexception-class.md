@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 3cda91f6e678b2d968be151b20852e1bc6bd8c77821422a1aac29e0d0c774f5f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eeb3576b2c33356c942e427d92bc40697c09921a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119618704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567026"
 ---
 # <a name="esenttransreadonlyexception-class"></a>Класс Есенттрансреадонлексцептион
 
@@ -70,7 +70,7 @@ public sealed class EsentTransReadOnlyException : EsentUsageException
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы Есенттрансреадонлексцептион](./esenttransreadonlyexception-members.md)
 

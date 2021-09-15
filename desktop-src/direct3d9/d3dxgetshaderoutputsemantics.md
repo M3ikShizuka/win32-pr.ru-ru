@@ -14,12 +14,12 @@ api_type:
 api_location:
 - d3dx9.lib
 - d3dx9.dll
-ms.openlocfilehash: 8fda2c2ac5e331874448e251b14654ba06df33bea6557f75957f8955387b2591
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 264db967d2959c2f6e5096e0362e9db576ba9f94
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119986794"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567867"
 ---
 # <a name="d3dxgetshaderoutputsemantics-function"></a>Функция D3DXGetShaderOutputSemantics
 
@@ -75,7 +75,7 @@ HRESULT D3DXGetShaderOutputSemantics(
 
 Если функция выполнена успешно, возвращается значение D3D \_ ОК. Если функция завершается ошибкой, возвращаемое значение может быть одним из следующих: D3DERR \_ инвалидкалл, D3DXERR \_ INVALIDDATA, E \_ OUTOFMEMORY.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -86,7 +86,7 @@ HRESULT D3DXGetShaderOutputSemantics(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

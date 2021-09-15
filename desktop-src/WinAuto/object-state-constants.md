@@ -44,11 +44,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3b9adebec9f93c7abca2cfdcff8bfbaeb0d2f236
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105718157"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567398"
 ---
 # <a name="object-state-constants"></a>Константы состояния объектов
 
@@ -107,7 +107,7 @@ ms.locfileid: "105718157"
 
 | Требование | Значение |
 |-------------------|-------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Олеакк. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Олеакк. h</dt> </dl> |
 
 
 

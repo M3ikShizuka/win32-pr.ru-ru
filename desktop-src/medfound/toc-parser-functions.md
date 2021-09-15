@@ -4,12 +4,12 @@ ms.assetid: 507aaf9c-c4ab-47e0-8cfa-2f249bcb3b7b
 title: Функции средства синтаксического анализа оглавления
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cb421d56ebe604a42b5c2d531f4ce3ecc24e7d09d2e5b8a3ff2c7feff428e34d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 94dec5a33036927aafc3548017d970bbab48301a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953134"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469037"
 ---
 # <a name="table-of-contents-parser-functions"></a>Функции средства синтаксического анализа оглавления
 

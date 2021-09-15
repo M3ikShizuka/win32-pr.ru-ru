@@ -10,12 +10,12 @@ keywords:
 - MSAA
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 2fcd5d8b0777eb80cf5b2935cc8652d328dfc219cb56bc654c1eeae0761bbd89
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ce653adb2602b8fdd46bebb72d3a7607185ffd84
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133597"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567338"
 ---
 # <a name="testing-tools"></a>Средства тестирования
 
@@ -58,7 +58,7 @@ ms.locfileid: "119133597"
 
 **Доступный обозреватель** и средства **Spy в пользовательском интерфейсе** устарели и больше не доступны. Вместо этого используйте [**проверку**](inspect-objects.md) или [**аккскопе**](accscope.md) .
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 - [Центр разработчика специальных возможностей](https://developer.microsoft.com/windows/accessible-apps)
 - [Специальные возможности Майкрософт](https://www.microsoft.com/accessibility/)

@@ -5,11 +5,11 @@ ms.assetid: 8E104FFA-D086-49FD-9063-B950B6B1548B
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: c48b39da642105cacc0936abe1874d81c88e79b4
-ms.sourcegitcommit: fe03c5d92ca6a0d66a114b2303e99c0a19241ffb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "104335560"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127567771"
 ---
 # <a name="imm_atomic_imin-sm5---asm"></a>IMM \_ Atomic \_ Имин (SM5-ASM)
 
@@ -37,7 +37,7 @@ ms.locfileid: "104335560"
 
  
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Комментарии
 
 Инструкция Сиси выполняет один компонент 32-bit со знаком *src0* с *dst1* в 32-бит на компонент, адрес *дстаддресс*.
 
@@ -61,7 +61,7 @@ ms.locfileid: "104335560"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | X     | X       |
 
@@ -73,7 +73,7 @@ ms.locfileid: "104335560"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 
@@ -100,7 +100,7 @@ ms.locfileid: "104335560"
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

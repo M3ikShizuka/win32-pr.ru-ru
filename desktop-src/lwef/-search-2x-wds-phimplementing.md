@@ -4,12 +4,12 @@ description: Создание обработчика протокола вклю
 ms.assetid: d4bcf370-4152-4cfd-a92e-eb9196d23ab4
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 32e33a7ebf6d5f14d0ec4d78031e25b17d59bac5fb99ee7ea6d20046fbe95c78
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2c5a88ca5137b012431fff75bf5975a8b4820121
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119963494"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127469347"
 ---
 # <a name="implementing-a-protocol-handler-for-wds"></a>Реализация обработчика протокола для WDS
 
@@ -87,7 +87,7 @@ Microsoft Windows Desktop Search (WDS) использует url-адреса д�
 >
 > **ЭТОТ КОД И ИНФОРМАЦИЯ ПРЕДОСТАВЛЯЮТСЯ "КАК ЕСТЬ" БЕЗ КАКИХ-ЛИБО ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ ГАРАНТИЙ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ ПОДРАЗУМЕВАЕМЫМИ ГАРАНТИЯМИ ПРИГОДНОСТИ И (ИЛИ) ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ.**
 >
-> (C) корпорация Майкрософт (Microsoft Corporation). All rights reserved.
+> (C) корпорация Майкрософт (Microsoft Corporation). Все права защищены.
 
  
 

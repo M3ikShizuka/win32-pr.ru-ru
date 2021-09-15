@@ -4,12 +4,12 @@ ms.assetid: 4956c4ab-b71e-4960-b750-f3a79b87baac
 title: Функция QueryContextAttributes (CredSSP) (Sspi.h)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: b8ff421a2173f2ce2c5521e0706b53c3f6c326038179345d139acd0a157c7d61
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 191c3c8d3b2b5bd829aaf8eb45bacadbbd2bbade
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118920233"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127568231"
 ---
 # <a name="querycontextattributes-credssp-function"></a>Функция QueryContextAttributes (CredSSP)
 
@@ -89,13 +89,13 @@ SECURITY_STATUS SEC_ENTRY QueryContextAttributes(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Структура, на которую указывает параметр *pBuffer* , зависит от запрашиваемого атрибута.
 
 Хотя вызывающий объект должен выделить структуру *pBuffer* , он выделяет любой объем памяти, необходимый для хранения членов переменной размера в структуре *pBuffer* . Память, выделенная поставщиком общих служб, должна быть освобождена путем вызова функции [**фриконтекстбуффер**](/windows/win32/api/sspi/nf-sspi-freecontextbuffer) .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -103,7 +103,7 @@ SECURITY_STATUS SEC_ENTRY QueryContextAttributes(
 |-------------------------------------|--------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                         |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                   |
-| Header<br/>                   | <dl> <dt>SSPI. h (включая Security. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>SSPI. h (включая Security. h)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>Secur32. lib</dt> </dl>                 |
 | DLL<br/>                      | <dl> <dt>Secur32.dll</dt> </dl>                 |
 | Имя в кодировке Юникод и ANSI<br/>   | **Куериконтекстаттрибутесв** (Юникод) и **куериконтекстаттрибутеса** (ANSI)<br/>                |

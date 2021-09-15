@@ -4,12 +4,12 @@ ms.assetid: 13e7e077-e8be-4ba4-99e1-08421fd2452e
 title: Хранилища коллекций
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 66d783aafe6d0ff22cd990195f6bce5ce433f2f01595bed2cf20c5c41ea3a24e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5bfeb8ef071d7a5ccf6bc7ce43ba418117879536
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119876922"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271128"
 ---
 # <a name="collection-stores"></a>Хранилища коллекций
 

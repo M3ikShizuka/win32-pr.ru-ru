@@ -4,12 +4,12 @@ description: Следующий заголовок представляет од
 ms.assetid: 2078d2d9-1757-4449-9cc1-a21804654722
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b27ee00425f3611234b0cd001f254b1499a0d4873d05846c65a2828c3eeffe57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0afcc9ad880278fdbcb8efc45fdabdc22ad06224
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118924543"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127470042"
 ---
 # <a name="the-header"></a>Заголовок
 
