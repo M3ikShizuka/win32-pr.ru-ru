@@ -4,12 +4,12 @@ ms.assetid: C203B5AB-917C-4543-98D6-EDE02E0B5E49
 title: Регистрация обработчика событий
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3f96aedc8b6b7944238938539a8fafa5d80c6dc7f1afd4dc5f818ecc91abd08c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 6a3d786111a80cba455dd3480bdc970bc27009d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120090564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248077"
 ---
 # <a name="how-to-register-an-event-handler"></a>Регистрация обработчика событий
 
@@ -20,7 +20,7 @@ ms.locfileid: "120090564"
 -   медиаарривал
 -   медиаремовал
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 
 Обработчики событий определяются в ключе **евенсандлерс** . Значения ключа обработчика событий — это имена всех обработчиков, которые пользователь должен выбрать при обнаружении события. С этими записями не связано значение данных. Ниже приведен пример определения пользовательского обработчика событий с именем **миневремовалевенсандлер**, который предоставляет пользователю возможности обработчика:

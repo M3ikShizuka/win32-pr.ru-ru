@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ce8fa8b55074781dd835e116b0403391fe9343af30d5236610219dca8aba810b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 523e57e68d13df55395cd4deca6e09904723bbaf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118331994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258720"
 ---
 # <a name="iwmpmediagetiteminfo-method"></a>Метод Ивмпмедиа:: getItemInfo
 
@@ -64,7 +64,7 @@ Implements IWMPMedia.getItemInfo
 
 **Строка System. String** , которая является значением указанного атрибута.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод возвращает метаданные для отдельного элемента мультимедиа или элемента мультимедиа, который является частью списка воспроизведения.
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5eb93d32e7730b6840700bba9dc5a629bf3180f83673581f8589a254d467cff8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6a4dc01eaeb8276527d5d78b07a250d2a6fb1ab9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119120108"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258499"
 ---
 # <a name="noise"></a>шум
 
@@ -38,7 +38,7 @@ ms.locfileid: "119120108"
 
 
 
-| Элемент                                                   | Описание                                                                    |
+| Элемент                                                   | Описание:                                                                    |
 |--------------------------------------------------------|--------------------------------------------------------------------------------|
 | <span id="x"></span><span id="X"></span>*x*<br/> | \[в \] векторе с плавающей точкой, из которого создается шум Perl.<br/> |
 
@@ -50,7 +50,7 @@ ms.locfileid: "119120108"
 
 Значение шума Perl в диапазоне от-1 до 1.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения шума в Perl плавно меняются от одной точки к другой, создавая естественно выглядящие значения, создаваемые случайным образом. Можно использовать Perl для создания процедурных текстур для таких эффектов, как «формирование состояния» и «пожар».
 

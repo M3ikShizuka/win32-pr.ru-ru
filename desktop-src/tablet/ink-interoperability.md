@@ -4,12 +4,12 @@ ms.assetid: 71e963d8-2917-40e1-8214-27521cffe340
 title: Взаимодействие рукописного ввода
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: c9f107e1cf39858434e6d2ca93147be12c6a43c9f28973e7d9b14c441a3ec138
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c40fda8e9ab98e32b42b87a0b108651b553653ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118452041"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344842"
 ---
 # <a name="ink-interoperability"></a>Взаимодействие рукописного ввода
 

@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 102c9af7a8e38ccbbb4a7e67b2734588857ddca93da862be211fd1223133f80d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d58c162ebc6d340b9bd913407bc00aac87e208e4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117788866"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259891"
 ---
 # <a name="rasadminreleaseipaddress-callback-function"></a>Функция обратного вызова Расадминрелеасеипаддресс
 
@@ -68,7 +68,7 @@ void CALLBACK RasAdminReleaseIpAddress(
 
 Расширенные сведения об ошибке для этой функции отсутствуют. не вызывайте [**GetLastError**](/windows/win32/api/errhandlingapi/nf-errhandlingapi-getlasterror).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Сервер RAS вызывает функцию **расадминрелеасеипаддресс** , только если приложение вернуло **значение true** в параметре *Бнотифирелеасе* во время предыдущего вызова [**Расадминжетипаддрессфорусер**](rasadmingetipaddressforuser.md) для пользователя, указанного параметром *лпсзусернаме* .
 

@@ -14,12 +14,12 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2980a55e76d238578822cfc8db54a9b6c324e21d4a8f0481ab9bc91e050fb008
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 505e23c74d4c1c8c74a50906809d0acc9ce06c42
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118984094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344530"
 ---
 # <a name="differentusername-eaptype-element"></a>Дифферентусернаме (Еаптипе), элемент
 
@@ -33,7 +33,7 @@ ms.locfileid: "118984094"
 
 Элемент **дифферентусернаме** определяется элементом [**еаптипе**](eaptlsconnectionpropertiesv1schema-eaptype-element.md) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если элемент **дифферентусернаме** имеет значение true, то EAP-TLS должен использовать имя пользователя, отличное от имени, которое отображается в сертификате. Если элемент **дифферентусернаме** имеет значение false, то EAP-TLS использует имя пользователя, которое отображается в сертификате.
 

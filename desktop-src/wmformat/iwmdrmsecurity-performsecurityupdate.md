@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 8521497c1e2bca1bb2ae11349a4829c22c8b092a4cd0034008b314a7b69adb6b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a34a1e92edd279655737a2e8f3b7ce4e77e27fd5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119707904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344687"
 ---
 # <a name="iwmdrmsecurityperformsecurityupdate-method"></a>Ивмдрмсекурити: метод:P Ерформсекуритюпдате
 
@@ -51,7 +51,7 @@ HRESULT PerformSecurityUpdate(
 
 
 
-| Флаг                                          | Описание                                                                                     |
+| Flag                                          | Описание                                                                                     |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------|
 | безопасность WMDRM. \_ \_ выполнение \_ индив               | Вызывает индивидуальную установку компонента DRM, только если версия клиента устарела. |
 | \_Безопасность WMDRM \_ выполнить \_ Обновление отзыва \_ | Приводит к обновлению списков отзыва на клиентском компьютере.                               |
@@ -84,7 +84,7 @@ HRESULT PerformSecurityUpdate(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод выполняется асинхронно. Он возвращает сразу после вызова, а затем создает события в зависимости от флага, установленного в параметре *dwFlags* .
 

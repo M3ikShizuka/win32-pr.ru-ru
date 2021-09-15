@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 727601ceb7ed078e40a284ab291f2e182a4270682b5f1db104515e31d3dbe2ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dc92a9c263e2b450e64d526ccfc7976fdd6227a4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117749999"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258787"
 ---
 # <a name="customsliderpositionimage"></a>КУСТОМСЛИДЕР. Поситионимаже
 
@@ -32,7 +32,7 @@ ms.locfileid: "117749999"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей имя файла изображения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут является обязательным и должен быть указан.
 

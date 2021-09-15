@@ -26,11 +26,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: b7e1cfc9a43beb8478be287e1659883d49f62239
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "104545754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248752"
 ---
 # <a name="jet_tableidinequality-operator"></a>JET_TABLEID. Оператор неравенства
 
@@ -83,7 +83,7 @@ public static bool operator !=(
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_TABLEID](./jet-tableid-structure.md)
 

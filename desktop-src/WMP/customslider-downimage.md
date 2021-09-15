@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f3e151f825dab7170c3e3678f280303265af0df91561c7dc709323dd8043809e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8365043654bc3cca9fbf79162302cf804155956d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117750343"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258843"
 ---
 # <a name="customsliderdownimage"></a>КУСТОМСЛИДЕР. Довнимаже
 
@@ -31,7 +31,7 @@ ms.locfileid: "117750343"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей имя файла изображения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут является необязательным. Если он не указан, будет использоваться файл, указанный в атрибуте **Image** .
 

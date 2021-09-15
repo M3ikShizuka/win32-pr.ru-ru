@@ -4,12 +4,12 @@ ms.assetid: 4049b6cb-41a1-4df6-89d1-a2022d3a285d
 title: System. Итемфолдернамедисплай
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a7c8e8ca12af7c7665a2fd4b64f2911a1e6dbc99805cf4355ea1bb1ceec764c0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6d637412b02345b52fee2e1c13e8f499314af4c3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119945174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248134"
 ---
 # <a name="systemitemfoldernamedisplay"></a>System. Итемфолдернамедисплай
 

@@ -14,11 +14,11 @@ api_type:
 api_location:
 - IACom.dll
 ms.openlocfilehash: 26488c5657b6d2765534f82b6eacae774adcf561
-ms.sourcegitcommit: de72a1294df274b0a71dc0fdc42d757e5f6df0f3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "105703501"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344939"
 ---
 # <a name="_ianalysisproxyeventscontextnodedeleting-event"></a>\_Событие Ианалисиспроксевентс:: Контекстнодеделетинг
 
@@ -76,9 +76,9 @@ HRESULT ContextNodeDeleting(
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                                                 |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                     |
-| Header<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>IACom.dll</dt> </dl>                          |
 
 

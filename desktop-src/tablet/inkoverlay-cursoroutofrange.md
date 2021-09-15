@@ -4,12 +4,12 @@ ms.assetid: c696b2a9-dc47-4b73-a556-9bb222f5bf59
 title: Событие InkOverlay. Курсораутофранже (Мсинкаут. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5774b7f81b1a914dc14ca557db077a0dcf802b02333d8038d0a9194dfa100992
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d2a30bfde1e96edfa286e9afeac147dc141c4942
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118219605"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344806"
 ---
 # <a name="inkoverlaycursoroutofrange-event"></a>Событие InkOverlay. Курсораутофранже
 
@@ -41,7 +41,7 @@ void CursorOutOfRange(
 
 Это событие не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод события определен в \_ \_ \_ интерфейсах диспетчеризации (DISP) иинкколлекторевентс, иинковерлайевентс и иинкпиктуривентс с идентификатором DISPID \_ ицекурсораутофранже.
 
@@ -55,7 +55,7 @@ void CursorOutOfRange(
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                       |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                           |
-| Header<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мсинкаут. h (также требуется Мсинкаут \_ i. c)</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>InkObj.dll</dt> </dl>                               |
 
 

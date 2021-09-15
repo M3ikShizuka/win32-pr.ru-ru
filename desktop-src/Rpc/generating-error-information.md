@@ -4,12 +4,12 @@ description: Если сервер или приложение встречае�
 ms.assetid: 6658c387-94df-4d85-9749-53858f9e0f5f
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e7eb6868dfe11318e09b30217d5410a94ce32983ce64e75521c55fc5cc060ad0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1b06a13e932034e6840479443e0b78f4c322c0b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120020914"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259779"
 ---
 # <a name="generating-error-information"></a>Создание сведений об ошибке
 

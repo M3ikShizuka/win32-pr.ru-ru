@@ -4,12 +4,12 @@ ms.assetid: 3c257edc-b7f7-498d-8347-0be4fca41023
 title: System. Итемнамепрефикс
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fd7830f63c3e9e0f6026099c95d11820a1d8592928cece72ebe72d76936d8467
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2cf669dd867c8cf60046f226e33dae18f46060cd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119598464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248125"
 ---
 # <a name="systemitemnameprefix"></a>System. Итемнамепрефикс
 

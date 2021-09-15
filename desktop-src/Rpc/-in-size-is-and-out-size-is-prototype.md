@@ -4,12 +4,12 @@ description: В следующем прототипе функции испол�
 ms.assetid: 334c5e0f-b1fb-41ca-8157-d92525e78b3a
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 75075ccabe4a29ca1765a189c371c407c791cb868d2980386488879415e8f60d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d03dbb4dd65d44122bea7ff086013295e0bf616d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120073634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127259880"
 ---
 # <a name="in-size_is-and-out-size_is-prototype"></a>\[в, размер \_ \] и \[ , размер \_ — \] прототип
 

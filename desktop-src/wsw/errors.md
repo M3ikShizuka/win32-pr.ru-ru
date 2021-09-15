@@ -1,5 +1,5 @@
 ---
-title: Ошибки
+title: ошибки
 description: в этом разделе описываются ошибки, которые могут быть вызваны Windowsными функциями веб-служб в результате сбоя выполнения команды.
 ms.assetid: 2e5b853f-589c-4f89-9d7e-cd02263a2247
 keywords:
@@ -8,14 +8,14 @@ keywords:
 - WWS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4a08a6371dcc5265239c6a25ce0c01075cff3ae12533862ed8a1cbbbe7aba705
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e70f10d673bf8f37664d792d8cf969f0329dc363
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119026532"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344623"
 ---
-# <a name="errors"></a>Ошибки
+# <a name="errors"></a>ошибки
 
 в этом разделе описываются ошибки, которые могут быть вызваны Windowsными функциями веб-служб в результате сбоя выполнения команды.
 

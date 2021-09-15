@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 50a4f507c9ed826b1c21888d9c837cf1518f80effff0a2d24dc4746505b18c3d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bff266e056b620a45adcf58f092277399c979c88
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118766254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248848"
 ---
 # <a name="jet_dbinfomisclgposattach-property"></a>Свойство JET_DBINFOMISC. Лгпосаттач
 
@@ -64,7 +64,7 @@ public JET_LGPOS lgposAttach { get; internal set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_DBINFOMISC](./jet-dbinfomisc-class.md)
 

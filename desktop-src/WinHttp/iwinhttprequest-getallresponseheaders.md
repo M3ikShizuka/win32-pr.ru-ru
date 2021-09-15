@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Winhttp.dll
-ms.openlocfilehash: d853cfd80038081865eeefbbc456f470485b69a2dae02384e91e8b4d78d90810
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 74c113216cf41e2f9816176dd28ba5e84208c635
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119133107"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258651"
 ---
 # <a name="iwinhttprequestgetallresponseheaders-method"></a>Метод Ивинхттпрекуест:: Жеталлреспонсехеадерс
 
@@ -51,7 +51,7 @@ HRESULT GetAllResponseHeaders(
 
 В случае успешного выполнения возвращается значение **S \_** , а в противном случае — значение ошибки.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод возвращает все заголовки, содержащиеся в последнем ответе сервера. Отдельные заголовки разделяются сочетанием символов возврата каретки и перевода строки (ASCII 13 и 10). За последней записью следуют два разделителя (13, 10, 13, 10). Вызывайте этот метод только после вызова метода [**Send**](iwinhttprequest-send.md) .
 

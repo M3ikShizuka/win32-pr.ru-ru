@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 252f08c1971b1e8434e3761d87992a7245257c37bcc039650ebf5b7a0a47a884
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d92135113495ac32ca81f602ea5836332159164c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119134577"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258752"
 ---
 # <a name="themeloadpreference"></a>THEME. Лоадпреференце
 
@@ -43,7 +43,7 @@ ms.locfileid: "119134577"
 
 Этот метод возвращает **строку**.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 предпочтение — это пара "ключ-значение", которая может храниться в реестре для сохранения сведений о состоянии проигрыватель Windows Media между запусками. эта функция может использоваться, например, для сохранения параметров настройки, чтобы их не нужно было повторно указывать при каждом запуске проигрыватель Windows Media.
 

@@ -5,15 +5,15 @@ title: Структуры и типы перечислений (API-интерф
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d0c88a3e1a27d705f67a3ffe37e377aa2be1f486
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105702229"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344627"
 ---
 # <a name="structures-and-enumeration-types-wpd-api"></a>Структуры и типы перечислений (API-интерфейс WPD)
 
-Портативные устройства Windows определяют следующие структуры и типы перечислений.
+Windows Портативные устройства определяют следующие структуры и типы перечислений.
 
 
 

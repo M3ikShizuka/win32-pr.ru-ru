@@ -5,11 +5,11 @@ title: H. 265/HEVC видео Encoder
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 0b95eee96d3313df2604919883cf631b0aef999f
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122467491"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248533"
 ---
 # <a name="h265--hevc-video-encoder"></a>H. 265/HEVC видео Encoder
 
@@ -111,7 +111,7 @@ ms.locfileid: "122467491"
 
 
 
-| Свойство | Описание | 
+| Свойство. | Описание | 
 |----------|-------------|
 | <a href="/windows/desktop/DirectShow/avenccommonratecontrolmode-property"><strong>CODECAPI_AVEncCommonRateControlMode</strong></a> | Задает режим управления скоростью. Ниже приведены поддерживаемые режимы.<br /><ul><li><strong>eAVEncCommonRateControlMode_CBR</strong></li><li><strong>eAVEncCommonRateControlMode_Quality</strong></li></ul>Если указаны другие режимы, будет использоваться контроль скорости <strong>eAVEncCommonRateControlMode_CBR</strong> .<br /> Это VT_UI4 значение.<br /> | 
 | <a href="/windows/desktop/DirectShow/avenccommonmeanbitrate-property">CODECAPI_AVEncCommonMeanBitRate</a> | Задает среднюю скорость потока в битах в секунду. <br /> Допустимый диапазон: [1... 2 ³ ² – 1]. <br /> Это VT_UI4 значение.<br /> | 
@@ -158,7 +158,7 @@ ms.locfileid: "122467491"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

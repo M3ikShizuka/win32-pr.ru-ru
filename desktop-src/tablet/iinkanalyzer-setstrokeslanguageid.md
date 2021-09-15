@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 2a063180d89fd9f29ebcacd5b9cbd9e98e4299d82aac2328b08624e3c1557249
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 84d2e4b9e3ac24fc73eddc4f84bcc9337cb4c372
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119590344"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344846"
 ---
 # <a name="iinkanalyzersetstrokeslanguageid-method"></a>Метод Иинканализер:: Сетстрокеслангуажеид
 
@@ -66,7 +66,7 @@ HRESULT SetStrokesLanguageId(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Языковой стандарт штриха задается при добавлении росчерка путем вызова метода [**иинканализер:: аддстроке**](iinkanalyzer-addstroke.md), метода [**Иинканализер:: аддстрокефорлангуаже**](iinkanalyzer-addstrokeforlanguage.md), [**Иинканализер:: аддстрокес**](iinkanalyzer-addstrokes.md)или [**метода IInkAnalyzer:: AddStrokesForLanguage**](iinkanalyzer-addstrokesforlanguage.md). Чтобы получить языковой стандарт, назначенный для штриха, вызовите [**метод иинканализер:: жетстрокелангуажеид**](iinkanalyzer-getstrokelanguageid.md).
 
@@ -84,7 +84,7 @@ HRESULT SetStrokesLanguageId(
 
 Дополнительные сведения об идентификаторах языков см. в разделе [константы и строки идентификатора языка](/windows/desktop/Intl/language-identifier-constants-and-strings).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -97,7 +97,7 @@ HRESULT SetStrokesLanguageId(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

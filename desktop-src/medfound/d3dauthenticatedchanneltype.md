@@ -14,11 +14,11 @@ api_type:
 api_location:
 - d3d9types.h
 ms.openlocfilehash: 5c0cab8a0a208bfb1a005166740dcc64c319c6e0
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105656096"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248581"
 ---
 # <a name="d3dauthenticatedchanneltype-enumeration"></a>Перечисление D3DAUTHENTICATEDCHANNELTYPE
 
@@ -68,9 +68,9 @@ typedef enum  {
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                                              |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                                                 |
-| Header<br/>                   | <dl> <dt>D3d9types. h (включение D3d9. h)</dt> </dl> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                                              |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                                 |
+| Заголовок<br/>                   | <dl> <dt>D3d9types. h (включение D3d9. h)</dt> </dl> |
 
 
 

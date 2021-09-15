@@ -16,11 +16,11 @@ api_type:
 api_location: ''
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 0b54ba5bb6b4f5ed3f08b5d4cc950f77d199c525
-ms.sourcegitcommit: 4665ebce0c106bdb52eef36e544280b496b6f50b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122988247"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344498"
 ---
 # <a name="jet_bklogtime-structure"></a>Структура JET_BKLOGTIME
 
@@ -105,7 +105,7 @@ _**Применимо к:** Windows | Windows Сервером_
 Если это событие является резервной копией, этот флаг содержит одно из следующих возможных значений:
 
 
-| <p>Название</p> | <p>Значение</p> | 
+| <p>Имя</p> | <p>Значение</p> | 
 |-------------|--------------|
 | <p>Потоковая Архивация</p> | <p>0 (ноль)</p> | 
 | <p>Резервное копирование моментальных снимков</p> | <p>1</p> | 
@@ -123,7 +123,7 @@ _**Применимо к:** Windows | Windows Сервером_
 ### <a name="requirements"></a>Требования
 
 
-| Требование | Применение |
+| Требование | Значение |
 |------------|----------|
 | <p><strong>Клиент</strong></p> | <p>требуется Windows Vista.</p> | 
 | <p><strong>Server</strong></p> | <p>требуется Windows Server 2008.</p> | 

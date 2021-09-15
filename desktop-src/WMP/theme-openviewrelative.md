@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 6a26040bb8f47d85be99f0d8df602bdd69835cfa648ac6d5898f786e4518acdb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 80ec93055535640b84c33dde2b61ee59cd5bfdcf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118117778"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258728"
 ---
 # <a name="themeopenviewrelative"></a>THEME. Опенвиеврелативе
 
@@ -57,7 +57,7 @@ ms.locfileid: "118117778"
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Позиция, указанная для **представления** , используется при первом вызове этого метода, после чего пользователь может перетащить **представление** в другое место. Новая заданная позицией сохраняется, и при последующих вызовах используется самая последняя.
 
@@ -78,7 +78,7 @@ ms.locfileid: "118117778"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ ms.locfileid: "118117778"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

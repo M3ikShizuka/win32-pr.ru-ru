@@ -14,12 +14,12 @@ api_type:
 api_location:
 - D3DX10.lib
 - D3DX10.dll
-ms.openlocfilehash: f1975c6704faa0fdbf9647b92edff805e7930c0a612fc8e5fb845b8bb26fd4ef
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a08d4db92dc75f40d0073367dda9a9ea26863418
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120069982"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258539"
 ---
 # <a name="id3dx10meshintersectsubset-method"></a>Метод ID3DX10Mesh:: Интерсектсубсет
 
@@ -135,7 +135,7 @@ HRESULT IntersectSubset(
 
 Возвращаемое значение является одним из значений, перечисленных в [кодах возврата Direct3D 10](d3d10-graphics-reference-returnvalues.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот API позволяет понять точки в и вокруг треугольника независимо от того, где фактически находится треугольник. Эта функция возвращает результирующую точку, используя следующее уравнение: v1 + U (V2-v1) + V (v3-v1).
 
@@ -145,7 +145,7 @@ HRESULT IntersectSubset(
 
 Координаты барицентрик определяют точку внутри треугольника с точки зрения вершин треугольника. Более подробное описание координат барицентрик см. в разделе [Описание координат Барицентрик MathWorld](https://mathworld.wolfram.com/BarycentricCoordinates.html).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -156,7 +156,7 @@ HRESULT IntersectSubset(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

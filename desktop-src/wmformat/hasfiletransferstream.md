@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b239a02968b7dc3a2c8f9c06588e8e6a5545fb3d252c719d65322c4d0e259619
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 77d21e814306178ed19b3aa2b19320419a5e8b1f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118028676"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344691"
 ---
 # <a name="hasfiletransferstream"></a>хасфилетрансферстреам
 
@@ -31,7 +31,7 @@ g \_ всзвмхасфилетрансферстреам
 
 **\_bool типа \_ ВМТ**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это закодированный атрибут.
 

@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e4a3833987ebdbbf2700d9426da31b8efc80f64787e93be1a8418d83065724d0
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ee3d5547d66ca6dc1b770242301bd95ed010a8d0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117749981"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258792"
 ---
 # <a name="customslideronpositionchange"></a>КУСТОМСЛИДЕР. Онпоситиончанже
 
@@ -27,7 +27,7 @@ ms.locfileid: "117749981"
 onPositionChange
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если положение настраиваемого ползунка изменяется в результате изменения атрибута **значения** в скрипте, это событие не срабатывает. Чтобы справиться с этой возможностью, реализуйте вместо него обработчик события **\_ onChange** .
 

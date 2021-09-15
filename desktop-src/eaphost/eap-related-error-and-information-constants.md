@@ -58,12 +58,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bc4140444d1b5c3ae99c90c2447e165a4143b042dcc7567104e4b5f0063b645b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8bd7b829cd4c5ba550fd88242ffb8c34572648d9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118984244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344547"
 ---
 # <a name="eap-related-error-and-information-constants"></a>Константы, относящиеся к EAP и сведения об ошибках
 
@@ -682,7 +682,7 @@ EAPHost не удалось найти корневой сертификат в 
 
 </dt> </dl> </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Существуют альтернативные имена для некоторых ошибок:
 

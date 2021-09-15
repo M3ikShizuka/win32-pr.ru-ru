@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - IACom.dll
-ms.openlocfilehash: 2bf45b8ae900d574bc50151e1bd17f0a124211272d4a83ccb43216ebbf82e2f7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc4ba9586fc4c520b9ee44b039bd56f8ef2ade3c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118452090"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344934"
 ---
 # <a name="_ianalysisproxyeventscontextnodelinkdeleting-event"></a>\_Событие Ианалисиспроксевентс:: Контекстноделинкделетинг
 
@@ -58,7 +58,7 @@ HRESULT ContextNodeLinkDeleting(
 
 Описание возвращаемых значений см. в разделе [классы и интерфейсы — анализ рукописного ввода](classes-and-interfaces---ink-analysis.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это событие используется, когда приложение поддерживает собственную структуру данных, которая синхронизируется с [**иинканализер**](iinkanalyzer.md). Это событие возникает на этапе выверки анализа рукописного текста или в ответ на метод **иинканализер** , который удаляет [**иконтекстлинк**](icontextlink.md) из [**иконтекстноде**](icontextnode.md).
 
@@ -72,7 +72,7 @@ HRESULT ContextNodeLinkDeleting(
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                 |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                     |
-| Header<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Иаком. h (также требуется Иаком \_ i. c)</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>IACom.dll</dt> </dl>                          |
 
 

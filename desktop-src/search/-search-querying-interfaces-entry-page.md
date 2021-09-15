@@ -4,12 +4,12 @@ ms.assetid: 904e5325-4bcb-42cf-8e7f-eb9641c94633
 title: Запросы интерфейсов
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d1d03c1901d47c0242d6e1c39327b41e2bf1e491bee02a430347c4be2cec3823
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dfc41b9b17ac2da10e6ac36294845cf8c4bf8b0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118462795"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345027"
 ---
 # <a name="querying-interfaces"></a>Запросы интерфейсов
 

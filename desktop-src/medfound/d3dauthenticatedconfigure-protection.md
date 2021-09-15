@@ -14,11 +14,11 @@ api_type:
 api_location:
 - d3d9types.h
 ms.openlocfilehash: 0e9ff9d3be9003bb274c82827e386848d3b755e3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104539593"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248569"
 ---
 # <a name="d3dauthenticatedconfigure_protection"></a>\_Защита D3DAUTHENTICATEDCONFIGURE
 
@@ -35,7 +35,7 @@ ms.locfileid: "104539593"
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Эта команда допустима для всех типов каналов.
 
@@ -45,9 +45,9 @@ ms.locfileid: "104539593"
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только классические приложения Windows 7\]<br/>                                             |
-| Минимальная версия сервера<br/> | Только классические приложения Windows Server 2008 R2 \[\]<br/>                                |
-| Header<br/>                   | <dl> <dt>D3d9types. h</dt> </dl> |
+| Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                             |
+| Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                                |
+| Заголовок<br/>                   | <dl> <dt>D3d9types. h</dt> </dl> |
 
 
 

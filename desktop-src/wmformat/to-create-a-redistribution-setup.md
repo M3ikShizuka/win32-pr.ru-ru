@@ -16,19 +16,19 @@ keywords:
 - WMFDist.exe
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4bb26b63a2379a72e2d97df876d91d8c57a6da9249c4e40525e81edacaf86542
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 70f0c2f241d8c1ad164bc14608103f423a7aba78
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119027302"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344651"
 ---
 # <a name="to-create-a-redistribution-setup"></a>Создание настройки распространения
 
 1.  Перед вызовом пакета распространения необходимо установить файлы приложения и выполнить необходимые настройки.
 2.  Установите WMFDist.exe. Вы можете использовать флаг/Q: A для автоматической установки и подавления пользовательского интерфейса настройки распространения во время установки приложения. Ваша подпрограммы должна определить, требуется ли перезагрузка в конце.
 
-    Например:
+    Пример:
 
     ```C++
     WMFDist.exe /Q:A

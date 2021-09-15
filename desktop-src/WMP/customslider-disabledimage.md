@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d9b5d75e26204fc362dfa714bc8720d6db87e511bbfda03096d60f58f91c3335
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 169057d952170fb92c4e3a98617c7db22f5456b0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119651564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258848"
 ---
 # <a name="customsliderdisabledimage"></a>КУСТОМСЛИДЕР. Дисабледимаже
 
@@ -31,7 +31,7 @@ ms.locfileid: "119651564"
 
 Этот атрибут является **строкой** для чтения и записи, содержащей имя файла изображения.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут является необязательным. Если он не указан, будет использоваться файл, указанный в атрибуте **Image** .
 
@@ -39,7 +39,7 @@ ms.locfileid: "119651564"
 
 Поддерживаются следующие типы файлов изображений: BMP, JPG, PNG и GIF (не включая анимированные GIF).
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ ms.locfileid: "119651564"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

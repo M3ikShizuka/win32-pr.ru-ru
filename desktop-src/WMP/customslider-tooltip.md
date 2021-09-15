@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3881cab3f5e818a4d6c244b9b2e951711202f38cdb86ee9ce5856747defeacc6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e56159f18f4011b934f8ab2c611f703450268f13
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118340913"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258784"
 ---
 # <a name="customslidertooltip"></a>КУСТОМСЛИДЕР. toolTip
 
@@ -31,7 +31,7 @@ ms.locfileid: "118340913"
 
 Этот атрибут является **строкой** для чтения и записи и имеет максимальную длину 1024 символов. У него нет значения по умолчанию.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если для этого атрибута задано значение "" (пустая строка), подсказка не отображается.
 
@@ -39,7 +39,7 @@ ms.locfileid: "118340913"
 
 См. атрибут [поситионимаже](customslider-positionimage.md) для примера, иллюстрирующий использование атрибутов элемента **кустомслидер** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -49,7 +49,7 @@ ms.locfileid: "118340913"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

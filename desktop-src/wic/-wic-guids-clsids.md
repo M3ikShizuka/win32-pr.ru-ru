@@ -4,12 +4,12 @@ ms.assetid: 2be5cfeb-2dd3-4486-b639-35ee28a7dd7b
 title: Идентификаторы GUID и CLSID WIC
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3b7c33873eb5af85e13dd7f54484b379b0cad71cf22fdc5fb208abfa72ee6d4a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 82e34cccfebc71951158fbaea33593e3f3fdcb2f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118206171"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344731"
 ---
 # <a name="wic-guids-and-clsids"></a>Идентификаторы GUID и CLSID WIC
 
@@ -178,7 +178,7 @@ ms.locfileid: "118206171"
 
 <dl> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows Общие сведения о компонентах обработки изображений](-wic-about-windows-imaging-codec.md)

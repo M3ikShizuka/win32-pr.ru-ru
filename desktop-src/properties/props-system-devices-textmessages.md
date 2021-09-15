@@ -4,12 +4,12 @@ ms.assetid: 309700af-c5b7-48a6-a85f-763452f586ad
 title: System. Devices. Текстмессажес
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d5bdafbd430d8b373fb713a8be8969a361dfe11075ca712a115fef4e96967e41
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: d2bc26513957bbeca7a96f136874f95d586852ac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119599154"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248257"
 ---
 # <a name="systemdevicestextmessages"></a>System. Devices. Текстмессажес
 

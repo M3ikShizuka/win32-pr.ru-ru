@@ -4,12 +4,12 @@ ms.assetid: 9c09b1fe-c63e-4c6e-9c8b-f5e29cf0fe9e
 title: дсеарч
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d2505a8482a698f3147ae9c13ddb135c1da1c584f16cf52a5a05ca469efbc968
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4285596a8109361accd6b3adecf80ea98074e55e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117680719"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345022"
 ---
 # <a name="dsearch"></a>дсеарч
 
@@ -17,7 +17,7 @@ ms.locfileid: "117680719"
 
 В этом разделе содержатся следующие подразделы.
 
-- [Требования](#requirements)
+- [Requirements](#requirements)
 - [Загрузка образца](#downloading-the-sample)
 - [Создание примера](#building-the-sample)
 - [Запуск примера](#running-the-sample)

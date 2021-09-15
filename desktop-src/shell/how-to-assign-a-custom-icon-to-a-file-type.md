@@ -4,12 +4,12 @@ ms.assetid: 84F293C2-BAB1-4BF8-9F89-122B6DAB29C3
 title: Назначение пользовательского значка типу файла
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8d156322bfe0899ed48c6c27f2660b911d9e5c77791c550b6141144d95384b6d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bf625eb6177471702096f462846b8035772177ab
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119093008"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345002"
 ---
 # <a name="how-to-assign-a-custom-icon-to-a-file-type"></a>Назначение пользовательского значка типу файла
 
@@ -28,7 +28,7 @@ ms.locfileid: "119093008"
 
  
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1"></a>Шаг 1.
 
@@ -45,7 +45,7 @@ ms.locfileid: "119093008"
 
 Вызовите функцию [**шчанженотифи**](/windows/desktop/api/shlobj_core/nf-shlobj_core-shchangenotify) , чтобы уведомить оболочку о необходимости обновления своего кэша значков.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 В следующем примере показано подробное представление записей реестра, необходимых для назначения значка типа файла. Расширение имени файла связано с приложением, но его назначение — это расширение имени файла, чтобы связанное приложение не определяло значок по умолчанию.
 

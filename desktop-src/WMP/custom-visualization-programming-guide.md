@@ -14,12 +14,12 @@ keywords:
 - Функция Render, программное средство
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a7481a34e09f2271a8bf9377ce7a92339198b985381b3fa2e277bcb6adbcab6a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89e870915ec0052e8596708809c4151edc865fcb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117750370"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258915"
 ---
 # <a name="custom-visualization-programming-guide"></a>Специальное руководством по программированию визуализации
 

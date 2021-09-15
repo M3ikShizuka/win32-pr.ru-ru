@@ -4,12 +4,12 @@ ms.assetid: 4c0df747-627d-4937-a117-d43137d5d081
 title: ифилтерсампле
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f015166d0366152d07a5fb8d182edcb5422112c66f016219970fef9b889df3ab
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 10f66bf32c4abe25038aa6b2a3b6d879ba65cf7a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117863737"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345019"
 ---
 # <a name="ifiltersample"></a>ифилтерсампле
 
@@ -17,13 +17,13 @@ ms.locfileid: "117863737"
 
 В этом разделе содержатся следующие подразделы.
 
-- [Требования](#requirements)
+- [Requirements](#requirements)
 - [Загрузка образца](#downloading-the-sample)
 - [Создание примера](#building-the-sample)
 - [Запуск примера](#running-the-sample)
 - [Связанные темы](#related-topics)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Продукт     | Версия продукта          |
 |-------------|--------------------------|

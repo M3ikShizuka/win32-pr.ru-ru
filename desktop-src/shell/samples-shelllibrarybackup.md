@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 29c7399fb4bda82ffce234379d51c4cd7ceb17a281f82f3e13db8b45c6b0a449
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e1b4746d2e559b567adb4cbd2305ea474b03129
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119032192"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344966"
 ---
 # <a name="shell-library-backup-sample"></a>Пример: резервное копирование с помощью библиотеки оболочки
 
@@ -23,7 +23,7 @@ ms.locfileid: "119032192"
 В этом разделе содержатся следующие подразделы.
 
 -   [Описание](#description)
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
@@ -32,14 +32,14 @@ ms.locfileid: "119032192"
 
 Этот пример представляет собой вымышленное приложение резервного копирования, которое показывает, как выбрать библиотеки с помощью диалогового окна "общие файлы". Также показано, как выполнять резервное копирование библиотек с помощью обхода пространства имен оболочки.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Продукт                                | Минимальная версия продукта |
 |----------------------------------------|-------------------------|
 | Windows                                | Windows 7               |
-| Windows SDK | 7,0                     |
+| Windows SDK | 7.0                     |
 
 
 

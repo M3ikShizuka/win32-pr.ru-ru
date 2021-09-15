@@ -4,12 +4,12 @@ ms.assetid: c52f7044-890d-47d1-83f8-bae1f8d83139
 title: Интерфейсы частей модели XPS
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cc93023f251d96f557dfc351949b58f7b9a0b67d308903d83b182de8f710e110
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d81cbf17c26e4ba6c80199ee787b1ee11b28d260
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119823904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248371"
 ---
 # <a name="xps-om-part-interfaces"></a>Интерфейсы частей модели XPS
 
@@ -21,7 +21,7 @@ ms.locfileid: "119823904"
 |-------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
 | [**икспсомпарт**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompart)<br/>                                                                       | [**икспсомдокументсекуенце**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocumentsequence)<br/> [**икспсомдокумент**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomdocument)<br/> [**икспсомпажереференце**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompagereference)<br/> [**икспсомкорепропертиес**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomcoreproperties)<br/> [**икспсомресаурце**](/windows/win32/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomresource)<br/>    | Компоненты документа, составляющие структуру документа.<br/>                                          |
 | [**икспсомресаурце**](/windows/win32/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomresource)<br/> [**икспсомпартресаурцес**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsompartresources)<br/> | икспсомфонтресаурце<br/> икспсомимажересаурце<br/> икспсомколорпрофилересаурце<br/> икспсомпринттиккетресаурце<br/> икспсомремотедиктионариресаурце<br/> икспсомдокументструктурересаурце<br/> икспсомсторифрагментсресаурце<br/> икспсомсигнатуреблоккресаурце<br/> | Компоненты документа, содержащие элементы, используемые или на которые ссылается страница или документ.<br/> |
-| [**икспсомпартуриколлектион**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomparturicollection)<br/>                                             | Нет<br/>                                                                                                                                                                                                                                                                                              | Коллекция URI частей.<br/>                                                                        |
+| [**икспсомпартуриколлектион**](/windows/desktop/api/xpsobjectmodel/nn-xpsobjectmodel-ixpsomparturicollection)<br/>                                             | None<br/>                                                                                                                                                                                                                                                                                              | Коллекция URI частей.<br/>                                                                        |
 
 
 

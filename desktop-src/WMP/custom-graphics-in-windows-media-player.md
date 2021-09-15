@@ -19,12 +19,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 6d79b151333508a1f042a4d09713404df6bdc97ef6118e74cfe4cc17e6b56a62
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c21b2cacbcc9f29985e3ea1d181fa2f814b51bdc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117936329"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258931"
 ---
 # <a name="custom-graphics-in-windows-media-player"></a>пользовательские графики в проигрыватель Windows Media
 
@@ -32,7 +32,7 @@ ms.locfileid: "117936329"
 
 
 
-| Тип   | Описание:                                                                                                                                                                                                                        |
+| Тип   | Описание                                                                                                                                                                                                                        |
 |--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | BANNER | с помощью элемента **баннера** можно разместить баннер (32 пикселей высотой 194 пикселей в ширину) на проигрыватель Windows Media в нижней части области экрана видео. Затем можно использовать дочерний элемент для добавления гиперссылки в баннер. |
 

@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - PortableDevice.h
-ms.openlocfilehash: ebad4534976d14e6b620a8e42b70e8ece68022201cec5235295d199e453ef818
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 41e40e456d4671d1aa8fb190274afd2f5ace98b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118963533"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344635"
 ---
 # <a name="network-association-properties"></a>Свойства сетевой ассоциации
 
@@ -35,7 +35,7 @@ Windows Портативные устройства поддерживают с�
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

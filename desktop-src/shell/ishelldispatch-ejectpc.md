@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: e812365f50c0166c824afd7fb0b1dac7a82cbe11961f45e1fd89283692816232
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ac42e1a4331a553a03bac3da50a187e06c90859c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119884394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344987"
 ---
 # <a name="ishelldispatchejectpc-method"></a>Ишеллдиспатч. Ежектпк, метод
 
@@ -55,7 +55,7 @@ IShellDispatch.EjectPC()
 
 Этот метод не возвращает значение.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот метод реализован и доступен через метод [**Shell. ежектпк**](shell-ejectpc.md) .
 
@@ -113,7 +113,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

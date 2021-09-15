@@ -10,12 +10,12 @@ keywords:
 - потоки, получение атрибутов метаданных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 02dc24f06779c12d40a109c1a8ef0fee9811370d3459f3811c0c870ee535d749
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c918cb47e77c3fd69c64de586b84b7f6244e4c9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119807884"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344663"
 ---
 # <a name="retrieving-metadata-attributes"></a>Получение атрибутов метаданных
 

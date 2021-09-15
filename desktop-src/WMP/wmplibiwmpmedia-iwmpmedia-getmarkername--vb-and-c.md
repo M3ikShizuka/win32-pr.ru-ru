@@ -3,9 +3,9 @@ title: Ивмпмедиа Жетмаркернаме, метод
 description: Метод Жетмаркернаме возвращает имя маркера по указанному индексу.
 ms.assetid: 77f893cf-1669-41e3-9f62-8a1081e37add
 keywords:
-- Жетмаркернаме метод Windows Media Player
-- Жетмаркернаме метод проигрывателя Windows Media Player, интерфейс Ивмпмедиа
-- Интерфейс Ивмпмедиа Windows Media Player, метод Жетмаркернаме
+- проигрыватель Windows Media метода жетмаркернаме
+- проигрыватель Windows Media метода жетмаркернаме, интерфейс ивмпмедиа
+- проигрыватель Windows Media интерфейса ивмпмедиа, метод жетмаркернаме
 topic_type:
 - apiref
 api_name:
@@ -17,11 +17,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8e6ba6a7bb640a397cce9c7dfd22b5f9b6203c47
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105669248"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258699"
 ---
 # <a name="iwmpmediagetmarkername-method"></a>Метод Ивмпмедиа:: Жетмаркернаме
 
@@ -137,7 +137,7 @@ markerNames.Lines = markers
 
 | Требование | Значение |
 |----------------------|------------------------------------------------------------------------------------------------------------------------|
-| Версия<br/>   | Проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
+| Версия<br/>   | проигрыватель Windows Media 9 Series или более поздней версии<br/>                                                                      |
 | Пространство имен<br/> | **вмплиб**<br/>                                                                                                  |
 | Сборка<br/>  | <dl> <dt>Interop.WMPLib.dll (Interop.WMPLib.dll.dll)</dt> </dl> |
 

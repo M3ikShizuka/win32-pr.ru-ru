@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: bae0ed1a6f60a363a360c8824d5b41f17b89f9040d3354b9e3011e0269e9d9e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 600cf7fafd556a9192c4b0de4089516bc6cca2a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119032242"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248071"
 ---
 # <a name="ishelldispatch2canstartstopservice-method"></a>IShellDispatch2. Канстартстопсервице, метод
 
@@ -119,7 +119,7 @@ JScript:
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

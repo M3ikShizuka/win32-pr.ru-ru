@@ -4,12 +4,12 @@ ms.assetid: 3c9e0229-c7e2-4b5c-9532-18fbf8a3667d
 title: Событие InkEdit. MouseUp (с. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 483333b246e84d2a9ed6f354198ebce5cd147ddb4fd3ccb5e2834d1802a0b744
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c331ec5dd0dd6a39ec956eda6980ee02cddd298e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119712664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344831"
 ---
 # <a name="inkeditmouseup-event"></a>Событие InkEdit. MouseUp
 
@@ -33,7 +33,7 @@ HRESULT MouseUp(
 
 <dl> <dt>
 
-*Кнопка* 
+*Button* 
 </dt> <dd>
 
 Элемент перечисления [**маусебуттон**](/windows/desktop/api/inked/ne-inked-mousebutton) , указывающий, какие кнопки мыши были освобождены.
@@ -90,7 +90,7 @@ HRESULT MouseUp(
 
 Если это событие завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При нажатии кнопки мыши в тот момент, когда указатель наведен на элемент управления [InkEdit](inkedit-control-reference.md) , этот элемент управления захватывает мышь и получает все события мыши вплоть до последнего события **MouseUp** . Это означает, что координаты указателя мыши (x, y), возвращаемые событием мыши, могут не всегда находиться во внутренней области объекта, получающего их.
 

@@ -4,12 +4,12 @@ ms.assetid: a4bde9d0-5460-4f27-8ca0-7500b735f9d4
 title: System. Contact. день рождения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3ba15a088ba02e4141770a64a5728f1c3c3c97a6d4771189652be296df1154c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 74f727ed06633c0767948143621fd5a30170681c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118730232"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345114"
 ---
 # <a name="systemcontactbirthday"></a>System. Contact. день рождения
 
@@ -44,7 +44,7 @@ propertyDescription
       type = DateTime
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

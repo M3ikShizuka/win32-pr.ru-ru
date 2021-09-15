@@ -4,12 +4,12 @@ ms.assetid: 5d679e66-6ea1-491e-86a8-974c4ec61b96
 title: События объекта InkOverlay
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 531ee197a14edf3ce0aa8595bdbcdb3ea2937d9cf863dcc6e95690088ed8ee96
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6122709f043fa94f4c1b3d04fcd1c51bb3cd8982
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118218967"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344778"
 ---
 # <a name="inkoverlay-object-events"></a>События объекта InkOverlay
 
@@ -26,7 +26,7 @@ ms.locfileid: "118218967"
 | [**курсораутофранже**](inkoverlay-cursoroutofrange.md)                           | Срабатывает в потоке рукописного ввода<br/>                                                                                                                                        |
 | [**DoubleClick**](inkoverlay-doubleclick.md) (только автоматизация).                  | Срабатывает в потоке пользовательского интерфейса приложения<br/>                                                                                                          |
 | [**DoubleClick**](/previous-versions/ms567634(v=vs.100)) (только управляемая библиотека). | Срабатывает в потоке пользовательского интерфейса приложения<br/>                                                                                                                           |
-| [**жесты**](inkoverlay-gesture.md)                                             | Срабатывает в потоке рукописного ввода<br/>                                                                                                                                        |
+| [**Жест**](inkoverlay-gesture.md)                                             | Срабатывает в потоке рукописного ввода<br/>                                                                                                                                        |
 | [**Вниз**](inkoverlay-mousedown.md)                                         | Срабатывает в потоке пользовательского интерфейса приложения<br/>                                                                                                                           |
 | [**Событие**](inkoverlay-mousemove.md)                                         | Срабатывает в потоке пользовательского интерфейса приложения<br/>                                                                                                                           |
 | [**Кнопка**](inkoverlay-mouseup.md)                                             | Срабатывает в потоке пользовательского интерфейса приложения<br/>                                                                                                                           |

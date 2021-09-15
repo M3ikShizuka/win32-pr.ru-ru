@@ -9,12 +9,12 @@ api_type: ''
 api_location: ''
 topic_type:
 - kbArticle
-ms.openlocfilehash: 086cb0f3fbb4cb009cd156013ce3ea16a2a7dee3b2346824d51b79094c06c45e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5c5e4f6570faff459126a32ea4680d41a3b8302e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119592894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344967"
 ---
 # <a name="playlist-creator-sample"></a>Пример: создание списка воспроизведения
 
@@ -22,19 +22,19 @@ ms.locfileid: "119592894"
 
 В этом разделе содержатся следующие подразделы.
 
--   [Требования](#requirements)
+-   [Requirements](#requirements)
 -   [Загрузка образца](#downloading-the-sample)
 -   [Создание примера](#building-the-sample)
 -   [Запуск примера](#running-the-sample)
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
 | Продукт                                | Минимальная версия продукта |
 |----------------------------------------|-------------------------|
 | Windows                                | Windows Vista           |
-| Windows SDK | 7,0                     |
+| Windows SDK | 7.0                     |
 
 
 

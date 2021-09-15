@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f869cb40d8b85ac480ed336b03f2ff94010c0e4a51f35101aa414d1e55e039da
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b5b402e7eadce8a0d89856d99e84a53dd57a1a7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119651614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258944"
 ---
 # <a name="currentpositiontext"></a>куррентпоситионтекст
 
@@ -30,11 +30,11 @@ tabstop="true"
 justification="right"
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При этом будет создан **текстовый** элемент, в котором будет отображаться текущее время воспроизведения мультимедиа. Все свойства этого **текстового** элемента можно переопределить, явно указав их.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -44,7 +44,7 @@ justification="right"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 3ea9dda58f859e7c0a3ee9504c6602513157652588f8a746bb6753782ce7d69a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e1b72fed43acf1a294a1a997734becd65d9e3e33
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118255608"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344499"
 ---
 # <a name="jet_bkinfogenlow-property"></a>Свойство JET_BKINFO. Женлов
 
@@ -64,7 +64,7 @@ public int genLow { get; internal set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Структура JET_BKINFO](./jet-bkinfo-structure2.md)
 

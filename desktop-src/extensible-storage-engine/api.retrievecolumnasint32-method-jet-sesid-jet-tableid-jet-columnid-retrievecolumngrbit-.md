@@ -20,12 +20,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: bb1cdcb4fda8d291400043d9ab3833553cde5a2c5b9a91600f0dee9b51bdfc1c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5e9f963d298610fb36f6b1f9c9ff3a0bfbfa2501
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119947762"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344527"
 ---
 # <a name="apiretrievecolumnasint32-method-jet_sesid-jet_tableid-jet_columnid-retrievecolumngrbit"></a>Метод API. RetrieveColumnAsInt32 (JET_SESID, JET_TABLEID, JET_COLUMNID, Ретриевеколумнгрбит)
 
@@ -97,9 +97,9 @@ public static Nullable<int> RetrieveColumnAsInt32(
 Тип: [System. Nullable](/dotnet/api/system.nullable-1)\<[Int32](/dotnet/api/system.int32)\>  
 Данные, полученные из столбца в виде целого числа. Значение null, если столбец имеет значение null.  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс API](./api-class.md)
 

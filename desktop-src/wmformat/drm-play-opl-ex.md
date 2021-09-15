@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a89ca0c6b1cf33a422265fb177e1b1432a52fbd12b3f9fda658125682f3888ae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: edf85ee664b33df9c63c390a870401b100327f53
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117848443"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344695"
 ---
 # <a name="drm_play_opl_ex-structure"></a>\_Структура DRM Play \_ ОПЛ \_ ex
 
@@ -40,7 +40,7 @@ typedef struct DRM_PLAY_OPL_EX {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,7 +72,7 @@ typedef struct DRM_PLAY_OPL_EX {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта структура идентична структуре **DRM \_ Play \_ ОПЛ** , за исключением того, что она включает номер версии.
 

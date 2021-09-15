@@ -9,11 +9,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: b8511bf755f80f124071f658a65249243dc2f2af
-ms.sourcegitcommit: 6f8c895f4d43c4463f6f33fa8014c5de413ece1f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "105700815"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344611"
 ---
 # <a name="url"></a>Url
 
@@ -43,9 +43,9 @@ ms.locfileid: "105700815"
 -   [**\_ \_ URL-адрес WS соапудп**](/windows/desktop/api/WebServices/ns-webservices-ws_soapudp_url)
 -   [**\_URL-адрес WS**](/windows/desktop/api/WebServices/ns-webservices-ws_url)
 
- 
+ 
 
- 
+ 
 
 
 

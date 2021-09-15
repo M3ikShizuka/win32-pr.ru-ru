@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c3e614e241093a5b81a8b636410f0581aac277fc45925b55d741e4d3c9277d29
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 567c2e6b43679204f0e2d0f249c1b16dff4071a9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118579903"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258947"
 ---
 # <a name="currentbitrate-attribute"></a>Атрибут Куррентбитрате
 
@@ -28,7 +28,7 @@ ms.locfileid: "118579903"
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [Элементы видео](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 

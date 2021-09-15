@@ -15,12 +15,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bc272ed230a67811497f0eebb99624d74369c8c55419fba970f326fba502e8b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: bc3d67e0c71c95db49b633feeb3048cc9f104b2f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118747930"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248623"
 ---
 # <a name="mpclean_precheck_data-structure"></a>\_Структура данных ПРЕДПРОВЕРКИ мпклеан \_
 
@@ -38,7 +38,7 @@ typedef struct tagMPCLEAN_PRECHECK_DATA {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -72,7 +72,7 @@ typedef struct tagMPCLEAN_PRECHECK_DATA {
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ только классические приложения\]<br/>                                            |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ только классические приложения\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мпклиент. h</dt> </dl> |
 
 
 

@@ -1,17 +1,17 @@
 ---
 description: Это свойство представляет общее время между операциями открытия и сохранения, накопленными с момента создания документа. Измеряется в единицах 100 нс, а не миллисекундах. VT \_ FILETIME для обработчиков IPropertySetStorage (прежних версий).
 ms.assetid: 27d374ae-366c-4b2c-88a8-93e760db6fba
-title: System.Docумент. тоталедитингтиме
+title: System. Document. Тоталедитингтиме
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0f40ea0715492be71e9896699906ac9de953cb2993e05d11bd55f1f89b9e88f2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b135433713028d302ed4dac82b530a332917434
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119597944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248188"
 ---
-# <a name="systemdocumenttotaleditingtime"></a>System.Docумент. тоталедитингтиме
+# <a name="systemdocumenttotaleditingtime"></a>System. Document. Тоталедитингтиме
 
 Это свойство представляет общее время между операциями открытия и сохранения, накопленными с момента создания документа. Измеряется в единицах 100 нс, а не миллисекундах. VT \_ FILETIME для обработчиков IPropertySetStorage (прежних версий)
 

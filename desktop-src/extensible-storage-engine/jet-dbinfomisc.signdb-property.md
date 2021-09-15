@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: c4bec4a70cb461745bd8781784061e93e0c9914274e02fbc5f19d5cead7d9825
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f6bd589b01850631b01a51324ca987e7996ab17a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119833723"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248830"
 ---
 # <a name="jet_dbinfomiscsigndb-property"></a>Свойство JET_DBINFOMISC. Сигндб
 
@@ -62,9 +62,9 @@ public JET_SIGNATURE signDb { get; internal set; }
 
 Тип: [Microsoft.ISAM.ESENT.Interop.JET_SIGNATURE](./jet-signature-structure2.md)  
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_DBINFOMISC](./jet-dbinfomisc-class.md)
 

@@ -4,12 +4,12 @@ ms.assetid: affb4d7a-b8ef-432c-bcf4-18d90424f9b8
 title: Музыка
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 81963fd07cf46af2e7dc26a36ad45a70fb76ade2818b6faf87137d23183a74f2
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: cf318d63ca2c741d5e5e75edf72b7d022e06cdfc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119397764"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248341"
 ---
 # <a name="music"></a>Музыка
 
@@ -34,7 +34,7 @@ ms.locfileid: "119397764"
 | [System. Music. Дискнумбер](props-system-music-discnumber.md)<br/>                                  |                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | [System. Music. Дисплайартист](./props-system-music-displayartist.md)<br/>                     | Это свойство возвращает лучшее представление исполнителя альбома для определенного музыкального файла на основе сведений [System. Music. албумартист](./props-system-music-albumartist.md), [System. Music. исполнителя](./props-system-music-artist.md)и [System. Music. для компиляции](./props-system-music-iscompilation.md) .<br/>                                                                                            |
 | [System. Music. Жанр](./props-system-music-genre.md)<br/>                                     |                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| [System.Music.IniТиалкэй](./props-system-music-initialkey.md)<br/>                           |                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [System. Music. Инитиалкэй](./props-system-music-initialkey.md)<br/>                           |                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | [System. Music. компилятора](./props-system-music-iscompilation.md)<br/>                     | Указывает, является ли музыкальный файл частью компиляции.<br/>                                                                                                                                                                                                                                                                                                                                                        |
 | [System. Music. песен](./props-system-music-lyrics.md)<br/>                                   |                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | [System. Music. настроение](./props-system-music-mood.md)<br/>                                       |                                                                                                                                                                                                                                                                                                                                                                                                                              |

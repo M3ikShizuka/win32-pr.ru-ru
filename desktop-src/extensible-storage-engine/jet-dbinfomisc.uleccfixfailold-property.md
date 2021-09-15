@@ -26,12 +26,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: b39a744f8f62abe86f2784a2e51696b8d73aa11791f9671fc2ff60d47f06f0e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d4e9f863feba0ee1c2f29cb0c9141a87babf20ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118486069"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248806"
 ---
 # <a name="jet_dbinfomisculeccfixfailold-property"></a>Свойство JET_DBINFOMISC. Улеккфиксфаилолд
 
@@ -64,7 +64,7 @@ public int ulECCFixFailOld { get; internal set; }
 
 ## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс JET_DBINFOMISC](./jet-dbinfomisc-class.md)
 

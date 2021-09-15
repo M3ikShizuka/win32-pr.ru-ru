@@ -4,12 +4,12 @@ ms.assetid: 69e91003-d0e9-4295-be02-3a8a9487796c
 title: System. Девицеинтерфаце. Винусб. Усбвендорид
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: acd2d7b1e287e28d3abeda0cba01e8e4a535f333a601cd8fe6df21469815368d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 56f79c5ff9fbd4409cd207dd3ed08861af478fd7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119097985"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345062"
 ---
 # <a name="systemdeviceinterfacewinusbusbvendorid"></a>System. Девицеинтерфаце. Винусб. Усбвендорид
 
@@ -30,7 +30,7 @@ propertyDescription
       type = UInt16
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

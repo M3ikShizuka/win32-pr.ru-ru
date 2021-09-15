@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: a3a256274fe2170ad50c164f7bf6768f82e3266db7a4ea5e2c6c8e28edd083c2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 89be4edd43fc79c8a8938a3861c982068760bcf3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118579712"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127258776"
 ---
 # <a name="customslidervalue"></a>КУСТОМСЛИДЕР. Value
 
@@ -31,7 +31,7 @@ ms.locfileid: "118579712"
 
 Этот атрибут является **числом** для чтения и записи (**float**) со значением по умолчанию, равным атрибуту **min** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **Значение** должно быть больше или равно **минимальному** и меньше или равно **Max**. Если значение выходит за пределы диапазона, выдается предупреждение и значение не изменяется.
 

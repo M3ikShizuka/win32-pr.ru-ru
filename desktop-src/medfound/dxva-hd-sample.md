@@ -5,11 +5,11 @@ title: Пример ДКСВА-HD
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 71ae1945a98bc668aa12cc6cdf8d9e4693cbde27
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "103896570"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248539"
 ---
 # <a name="dxva-hd-sample"></a>Пример ДКСВА-HD
 
@@ -42,9 +42,9 @@ ms.locfileid: "103896570"
 
 ## <a name="downloading-the-sample"></a>Загрузка образца
 
-Этот пример доступен в [репозитории GitHub с классическими примерами Windows](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/multimedia/mediafoundation/DXVA_HD).
+этот пример доступен в [репозитории github для классических примеров Windows](https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/Win7Samples/multimedia/mediafoundation/DXVA_HD).
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

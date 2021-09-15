@@ -12,12 +12,12 @@ api_name:
 api_type:
 - Schema
 api_location: ''
-ms.openlocfilehash: 62556e58f8574dc196655c8f11ca0f2bb0a670d7210aa100f96875e574a8b1b7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a0105aa8c0c8bc777ab97f751bdb7b2d819dcdb2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118967633"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127344894"
 ---
 # <a name="flagtype-complex-type"></a>Сложный тип Флагтипе
 
@@ -27,7 +27,7 @@ ms.locfileid: "118967633"
 <xs:complexType name="FlagType" />
 ```
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

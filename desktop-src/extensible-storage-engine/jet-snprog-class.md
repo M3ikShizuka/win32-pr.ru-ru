@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 149aa1a4e6e7e1dd1aec065f0aec11511c02c9173f73867c22a440aae31fcc91
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a5e8e5b5134a5449ad243b0ddc331d4fbf4cafe2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117892686"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127248767"
 ---
 # <a name="jet_snprog-class"></a>Класс JET_SNPROG
 
@@ -63,9 +63,9 @@ public class JET_SNPROG : IEquatable<JET_SNPROG>
 
 Любые общедоступные статичные (общие в Visual Basic) члены этого типа являются потокобезопасными. Потокобезопасная работа с членами экземпляров типа не гарантируется.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Элементы JET_SNPROG](./jet-snprog-members.md)
 
