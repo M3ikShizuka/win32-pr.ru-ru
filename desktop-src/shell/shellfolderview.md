@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: a95d57edb7992c9511e34480190580d34ad42da23c64c4297f5e4ebb75a95e73
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 79eb172641cbd96e2ed0fa6631bc18718340628f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118452131"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579519"
 ---
 # <a name="shellfolderview-object"></a>Объект Шеллфолдервиев
 
@@ -62,7 +62,7 @@ ms.locfileid: "118452131"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **шеллфолдервиев** имеет следующие свойства.
 
@@ -74,7 +74,7 @@ ms.locfileid: "118452131"
 | [**фокуседитем**](shellfolderview-focuseditem.md)<br/> | Только для чтения<br/> | Возвращает объект [**FolderItem**](folderitem.md) , представляющий элемент, имеющий фокус ввода.<br/> |
 | [**Папка**](shellfolderview-folder.md)<br/>           | Только для чтения<br/> | Возвращает объект [**Folder**](folder.md) , представляющий представление.<br/>                                  |
 | [**Parent**](shellfolderview-parent.md)<br/>           | Только для чтения<br/> | Не реализован.<br/>                                                                                  |
-| [**Сценарий**](shellfolderview-script.md)<br/>           | Только для чтения<br/> | Не рекомендуется.<br/>                                                                                       |
+| [**Индекса**](shellfolderview-script.md)<br/>           | Только для чтения<br/> | Не рекомендуется.<br/>                                                                                       |
 | [**виевоптионс**](shellfolderview-viewoptions.md)<br/> | Только для чтения<br/> | Возвращает набор флагов, указывающих текущие параметры представления.<br/>                                |
 
 

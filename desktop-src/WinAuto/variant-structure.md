@@ -4,12 +4,12 @@ description: Большинство функций Active Accessibility Microsof
 ms.assetid: 774dfac8-e258-4266-b81e-072eb3961fb1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 063d1e17d998f3cb7d70a0a271e55f02628e7864164e00becb5a708af371e12c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cafc63388de27ae01b3e1ca478add6802ac6b85c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118563552"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579371"
 ---
 # <a name="variant-structure"></a>Структура варианта
 

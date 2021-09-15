@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f96d9c2652966ef4b35f4c07ec13d1ea5b6f92af641c2e86a1bf4e0b12ca4487
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 849eb4dde5ab11e98675a1581519aabbeeb1e8da
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118516610"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573990"
 ---
 # <a name="d3dx_float2_to_r16g16_float-function"></a>D3DX \_ FLOAT2 \_ to \_ R16G16 \_ float Function
 

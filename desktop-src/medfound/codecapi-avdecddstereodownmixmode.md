@@ -4,12 +4,12 @@ ms.assetid: 270893C6-8B44-4A4D-AE2B-2E58E260F649
 title: Свойство CODECAPI_AVDecDDStereoDownMixMode (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 81bba5cd5a75ecfbdbbd19ec7dbe063b06217322074559b8d24dae3073c244ac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: de7caaed1af804e22b3ec6085241746bdf01eb7d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118065062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574978"
 ---
 # <a name="codecapi_avdecddstereodownmixmode-property"></a>КОДЕКАПИ \_ авдекддстереодовнмиксмоде, свойство
 
@@ -27,7 +27,7 @@ ms.locfileid: "118065062"
 
 Значение этого свойства является членом перечисления [**еавдекддстереодовнмиксмоде**](/windows/win32/api/codecapi/ne-codecapi-eavdecddstereodownmixmode) .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут применяется, когда входные данные декодера являются звуком многоканального PCM, а выходные данные — стерео аудио.
 
@@ -43,7 +43,7 @@ ms.locfileid: "118065062"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

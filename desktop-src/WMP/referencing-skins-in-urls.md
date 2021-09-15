@@ -8,12 +8,12 @@ keywords:
 - URL-ссылки в обложках
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 02a39a1dac1c4a20f563b58e1b8605c35527784867d81af60985b2e8e1d16c04
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 75b33ac9a5f37dce242797ae93dc4e85b973c76b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117934121"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581334"
 ---
 # <a name="referencing-skins-in-urls"></a>Ссылки на обложки в URL-адресах
 

@@ -4,12 +4,12 @@ ms.assetid: cb9a28d9-f8c6-478e-ae43-2d30106edc7b
 title: Базовый анализ рукописного ввода — пример
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5ab307deac8ac58a741b0c7f332986b09074f4f5c6a8afa53f0156a94916bf16
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e94ac73ca9049169c6e406059665a66e8eaa6f3b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119660834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579495"
 ---
 # <a name="basic-ink-analysis-sample"></a>Базовый анализ рукописного ввода — пример
 

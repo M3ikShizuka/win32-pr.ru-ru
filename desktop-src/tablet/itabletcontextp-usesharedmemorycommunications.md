@@ -15,11 +15,11 @@ api_location:
 - Wisptis.exe
 - Wisptis.exe.dll
 ms.openlocfilehash: d7880e1d0377d9d0140a0c82509abd31182c724e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105713064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579462"
 ---
 # <a name="itabletcontextpusesharedmemorycommunications-method"></a>Метод Итаблетконтекстп:: Усешаредмеморикоммуникатионс
 
@@ -94,7 +94,7 @@ HRESULT UseSharedMemoryCommunications(
 
  
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Метод **усешаредмеморикоммуникатионс** используется как часть протокола общей памяти Tablet PC. Так как служба Висптис имеет высокий уровень целостности (IL), она может хранить и получать доступ к данным, хранящимся в общей памяти, без необходимости повышать свои привилегии.
 
@@ -117,7 +117,7 @@ HRESULT UseSharedMemoryCommunications(
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только классические приложения Windows XP Tablet PC Edition \[\]<br/>                          |
+| Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                          |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                              |
 | Библиотека<br/>                  | <dl> <dt>Wisptis.exe</dt> </dl> |
 

@@ -4,12 +4,12 @@ ms.assetid: 679661A7-1D31-43F3-A64E-16ADCB5414B0
 title: Свойство MFNETSOURCE_ENABLE_PRIVATEMODE (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: e3e2ff972aa42753bb92be33fd6bf893d0578f28bf0ad29889a1b5986ba1a77c
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 53aa0bde3bf76ded278e0e3ee37465adb717972a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120113544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579843"
 ---
 # <a name="mfnetsource_enable_privatemode-property"></a>МФНЕТСАУРЦЕ \_ включить \_ свойство приватемоде
 

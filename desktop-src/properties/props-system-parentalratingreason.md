@@ -4,12 +4,12 @@ ms.assetid: 0cd6b665-faf8-4fc5-9625-7d5edbdf7e2f
 title: System. Паренталратингреасон
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ea92839916d553566ff5c6bcb3f1d31cb857a9f7b5ab88007514f97ddc67f16d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ae8a527b9698bc07ce42533a75a5db487b7d11e3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118230364"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579690"
 ---
 # <a name="systemparentalratingreason"></a>System. Паренталратингреасон
 

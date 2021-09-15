@@ -10,11 +10,11 @@ api_name: ''
 api_type: ''
 api_location: ''
 ms.openlocfilehash: 01958791dccd7c836babedbe726233797eddb646
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122471330"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580462"
 ---
 # <a name="high-dpi-desktop-application-development-on-windows"></a>Разработка настольных приложений с высоким разрешением на Windows
 
@@ -98,12 +98,12 @@ ms.locfileid: "122471330"
 | Платформа и технология | Поддержка | Сценарий | Масштабирование DPI, обрабатываемое | Дополнительные материалы | 
 |------------------------|---------|------------|------------------------|-----------------|
 | Универсальная платформа Windows (UWP) | Полное | 1607 | Платформа пользовательского интерфейса | <a href="/windows/uwp/get-started/whats-a-uwp">Универсальная платформа Windows (UWP)</a> | 
-| Необработанные элементы управления Win32/Common Controls V6 (comctl32.dll) | <ul><li>Уведомления об изменении DPI, отправленные всем дескрипторам HWND</li><li>Графические ресурсы, рисуемые темами, правильно отображаются в общих элементах управления</li><li>Автоматическое масштабирование точек на дюйм для диалоговых окон</li></ul> | 1703 | Развертывание | <a href="https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/DPIAwarenessPerWindow">GitHub Следующий</a> | 
+| Необработанные элементы управления Win32/Common Controls V6 (comctl32.dll) | <ul><li>Уведомления об изменении DPI, отправленные всем дескрипторам HWND</li><li>Графические ресурсы, рисуемые темами, правильно отображаются в общих элементах управления</li><li>Автоматическое масштабирование точек на дюйм для диалоговых окон</li></ul> | 1703 | Приложение | <a href="https://github.com/Microsoft/Windows-classic-samples/tree/master/Samples/DPIAwarenessPerWindow">GitHub Следующий</a> | 
 | Windows Forms | Для некоторых элементов управления ограничено автоматическое масштабирование DPI для каждого монитора | 1703 | Платформа пользовательского интерфейса | <a href="/dotnet/framework/winforms/high-dpi-support-in-windows-forms">поддержка высокого DPI в Windows Forms</a> | 
 | Windows Presentation Foundation (WPF) | В собственных приложениях WPF масштабирование WPF, размещенное в других платформах, и другие платформы, размещенные в WPF, не масштабируются автоматически | 1607 | Платформа пользовательского интерфейса | <a href="https://github.com/Microsoft/WPF-Samples/tree/master/PerMonitorDPI">GitHub Следующий</a> | 
-| GDI | Нет | Недоступно | Развертывание | См. раздел <a href="https://blogs.windows.com/buildingapps/2017/05/19/improving-high-dpi-experience-gdi-based-desktop-apps/">масштабирование с высоким разрешением GDI</a> | 
-| GDI+ | Нет | Недоступно | Развертывание | См. раздел <a href="https://blogs.windows.com/buildingapps/2017/05/19/improving-high-dpi-experience-gdi-based-desktop-apps/">масштабирование с высоким разрешением GDI</a> | 
-| MFC | Нет | Недоступно | Развертывание | Недоступно | 
+| GDI | Нет | Недоступно | Приложение | См. раздел <a href="https://blogs.windows.com/buildingapps/2017/05/19/improving-high-dpi-experience-gdi-based-desktop-apps/">масштабирование с высоким разрешением GDI</a> | 
+| GDI+ | Нет | Недоступно | Приложение | См. раздел <a href="https://blogs.windows.com/buildingapps/2017/05/19/improving-high-dpi-experience-gdi-based-desktop-apps/">масштабирование с высоким разрешением GDI</a> | 
+| MFC | Нет | Недоступно | Приложение | Недоступно | 
 
 
 
@@ -277,7 +277,7 @@ break;
 
 
 
-| Операция                 | Windows 8.1                                  | Windows 10 (1607 и более ранних версий)                | Windows 10 (1703 и более поздние версии)                  |
+| Операция                 | Windows 8.1                                  | Windows 10 (1607 и более ранних версий)                | Windows 10 (1703 и более поздние версии)                  |
 |---------------------------|----------------------------------------------|----------------------------------------------|----------------------------------------------|
 | CreateWindow (in-proc)    | Недоступно                                          | **Дочерние наследуемые** (смешанный режим)              | **Дочерние наследуемые** (смешанный режим)              |
 | CreateWindow (Cross-proc) | **Принудительный сброс** (для процесса вызывающего объекта)       | **Дочерние наследуемые** (смешанный режим)              | **Принудительный сброс** (для процесса вызывающего объекта)       |

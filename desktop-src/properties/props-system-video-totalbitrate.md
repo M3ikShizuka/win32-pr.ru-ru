@@ -5,11 +5,11 @@ title: System. Video. Тоталбитрате
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: f89af8e54051c8c6b1c5a2a2408f7bb24a6ae2a9
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105710928"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579662"
 ---
 # <a name="systemvideototalbitrate"></a>System. Video. Тоталбитрате
 
@@ -31,11 +31,11 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

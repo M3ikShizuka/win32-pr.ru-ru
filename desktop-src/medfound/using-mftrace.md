@@ -5,11 +5,11 @@ title: Использование Мфтраце
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: d8416fbde708dd44858fe5df580945f326944a1f
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122469971"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579795"
 ---
 # <a name="using-mftrace"></a>Использование Мфтраце
 
@@ -100,7 +100,7 @@ mftrace.exe -c config.xml -o trace.etl
 mftrace.exe -o trace.txt trace.etl
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 По умолчанию Мфтраце создает только трассировки. Чтобы создать трассировки ETW или WPP, необходимо предоставить файл конфигурации. Файл конфигурации содержит имена поставщиков трассировки. Дополнительные сведения см. в разделе [Мфтраце Configuration File](mftrace-configuration-file.md).
 

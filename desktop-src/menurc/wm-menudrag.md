@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 22792c7606bb001b72b7c4751d14129bca02c5b4a5b337e0349a9a9a2120b62a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b67e83c41576a716d292187df4cb08fa803271c0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118971803"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574715"
 ---
 # <a name="wm_menudrag-message"></a>\_Сообщение МЕНУДРАГ WM
 
@@ -65,7 +65,7 @@ ms.locfileid: "118971803"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение может вызвать функцию [**DoDragDrop**](/windows/win32/api/ole2/nf-ole2-dodragdrop) в ответ на это сообщение.
 
@@ -93,7 +93,7 @@ ms.locfileid: "118971803"
 [**сетменуинфо**](/windows/desktop/api/Winuser/nf-winuser-setmenuinfo)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Меню](menus.md)

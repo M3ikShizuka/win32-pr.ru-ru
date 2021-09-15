@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: b62e6e82-429a-4d41-96d4-cba639b611f5
-ms.openlocfilehash: 6be928a7cae9d9349bb39fc3a27a49a16495a8609c8e1cb448de888ac190619b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d08c1360cb2a96fbc7b87daecb650bbf46aa6ad9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118047517"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574510"
 ---
 # <a name="shelluihelperaddchannel-method"></a>Шеллуихелпер. Аддчаннел, метод
 

@@ -4,12 +4,12 @@ description: Страницы свойств
 ms.assetid: e1288b96-c4a1-4016-96dd-1e0de51c34cd
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7b17a8e898d2a0ba887e37d390a8a7019e2adfe2444849a8f1276f9513083e6e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5a2777c1af66a18e17f53e575cde5422d4637e11
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119372934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575330"
 ---
 # <a name="property-pages"></a>Страницы свойств
 

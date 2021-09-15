@@ -4,12 +4,12 @@ ms.assetid: a2a64cac-0dc1-41b0-b59c-a477c7304ba1
 title: Атрибут MF_TOPONODE_MEDIASTART (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7efeed2bd34745ffda4e756c8b43894bd51fc287ded5cba0ecf0ffb323713754
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1ab00727cc328bfd6ba780050160fb21eecbb96f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118244425"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580906"
 ---
 # <a name="mf_toponode_mediastart-attribute"></a>\_Атрибут MF топоноде \_ медиастарт
 
@@ -52,11 +52,11 @@ ms.locfileid: "118244425"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

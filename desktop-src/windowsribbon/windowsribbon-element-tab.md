@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 349004f65713160acc75bdb6f77765ad9f0c3034
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122625960"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574366"
 ---
 # <a name="tab-element"></a>Элемент Tab
 
@@ -95,9 +95,9 @@ ms.locfileid: "122625960"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Обязательный.
+Обязательный элемент.
 
 Должен быть хотя бы один раз для каждого элемента [**Ribbon. Табуляторы**](windowsribbon-element-ribbon-tabs.md) или [**табграуп**](windowsribbon-element-tabgroup.md) .
 
@@ -200,7 +200,7 @@ ms.locfileid: "122625960"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

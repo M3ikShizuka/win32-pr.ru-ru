@@ -4,12 +4,12 @@ ms.assetid: 71fa9a99-83e4-4b27-9fd1-5a9dc3070820
 title: OPM_GET_CONNECTED_HDCP_DEVICE_INFORMATION (Опмапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d692680e6492a3dc5d92073baf069eefffde68841925ced9afd69dde4d5fcd97
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7561a348588b1244a6763eb447affa2b330e9c51
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118239897"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574839"
 ---
 # <a name="opm_get_connected_hdcp_device_information"></a>ОПМ \_ получить \_ \_ \_ сведения о подключенном устройстве HDCP \_
 
@@ -23,14 +23,14 @@ ms.locfileid: "118239897"
 | Требование | Значение |
 |--------------|---------------------------------------------------------------------------------------------------------|
 | GUID запроса | ОПМ \_ получить \_ \_ \_ сведения о подключенном устройстве HDCP \_                                                          |
-| Входные данные   | None                                                                                                    |
+| Входные данные   | Нет                                                                                                    |
 | Возвращать данные  | Структура [**\_ \_ \_ \_ сведений о подключенном устройстве HDCP ОПМ**](/windows/desktop/api/opmapi/ns-opmapi-opm_connected_hdcp_device_information) |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот запрос можно использовать только с *режимом эмуляции Копп*. Если интерфейс [**иопмвидеуутпут**](/windows/desktop/api/opmapi/nn-opmapi-iopmvideooutput) использует семантику исходящего Protection Manager (ОПМ), этот запрос состояния не поддерживается.
 
@@ -48,11 +48,11 @@ ms.locfileid: "118239897"
 |-------------------------------------|-------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Опмапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Опмапи. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 425dc1d56801bbbd6b73429d8d17024a78dffe47a045ec6b34d5cd45b752bcca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ce0bb59dd26bd8bb9723bcdff23bbc79ee810253
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118513859"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573839"
 ---
 # <a name="reference-for-hlsl"></a>Справочник по HLSL
 
@@ -29,7 +29,7 @@ ms.locfileid: "118513859"
 -   [Приложение (DirectX HLSL)](dx-graphics-hlsl-appendix.md) — приложение включено для полноты. Он включает список ключевых слов и зарезервированных слов; Эти слова нельзя использовать в качестве идентификаторов в программах. Он также содержит список грамматики языка для справки.
 -   [**HLSL Errors and**](hlsl-errors-and-warnings.md) Warnings — содержит коды ошибок и предупреждений, которые может возвращать шейдер.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

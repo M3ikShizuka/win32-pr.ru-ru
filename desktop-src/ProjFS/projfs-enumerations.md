@@ -4,12 +4,12 @@ description: Следующие перечисления объявляются 
 ms.assetid: <GUID-GOES-HERE>
 ms.date: 01/17/2020
 ms.topic: article
-ms.openlocfilehash: b04404c855bba24b40a681d570532213235b2c833844766cd42ba699c12f133b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab6650cb5f4fdeb956c0f5c748c88aa93dfa4a25
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120031124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580210"
 ---
 # <a name="projfs-enumerations"></a>Перечисления Прожфс
 

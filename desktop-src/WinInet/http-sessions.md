@@ -4,12 +4,12 @@ description: Доступ к ресурсам WWW осуществляется �
 ms.assetid: 0f307e28-9c38-41e7-9795-7eef08e99a3c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ab6e151a726b0d947636818fea9de7946f250ded5adfcd7f145df8945f07b5d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 85b0b4d30bc86c588495a55ed4867a4084c43a09
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119758964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580162"
 ---
 # <a name="http-sessions"></a>HTTP-сеансы
 

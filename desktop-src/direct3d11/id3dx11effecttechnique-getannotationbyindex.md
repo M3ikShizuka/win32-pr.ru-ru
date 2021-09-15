@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ff7de800e05dfb6731340ad7255019d4017eefb0cc88f9069e8c4aae4f327071
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4e30712ba38f1360a992a8e409c249a746cca036
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118532572"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581227"
 ---
 # <a name="id3dx11effecttechniquegetannotationbyindex-method"></a>Метод ID3DX11EffectTechnique:: Жетаннотатионбиндекс
 
@@ -67,7 +67,7 @@ ID3DX11EffectVariable* GetAnnotationByIndex(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -78,7 +78,7 @@ ID3DX11EffectVariable* GetAnnotationByIndex(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 6ae31548-4d78-4e38-9cfc-01b611a6022d
 title: Атрибут MF_MT_AUDIO_SAMPLES_PER_BLOCK (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fa3de2a07811c591cc64289d185d6ff0c7dcab2cd116df7bb8140dc1298f541a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e7c453fa4daeaa310b5e41add44b63b0fb45372d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119955874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574926"
 ---
 # <a name="mf_mt_audio_samples_per_block-attribute"></a>\_ \_ Звуковые образцы MF MT \_ \_ для каждого \_ атрибута блока
 
@@ -19,13 +19,13 @@ ms.locfileid: "119955874"
 
 **UINT32**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут соответствует элементу **всамплесперблокк** структуры [**вавеформатекстенсибле**](/previous-versions/windows/desktop/legacy/dd390971(v=vs.85)) .
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119955874"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

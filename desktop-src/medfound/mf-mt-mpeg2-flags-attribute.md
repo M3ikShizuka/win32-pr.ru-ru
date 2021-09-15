@@ -4,12 +4,12 @@ ms.assetid: 2e1bf3e3-c005-418b-b9fd-1d43c42dad6f
 title: Атрибут MF_MT_MPEG2_FLAGS (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0a8cd73616edff4e9b35f7c082b9bdec3b8932a5bd5ce862a7c62d77f9041b9e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f2ef0a0def9c3e5413ec9b9bf7568fcbe9add851
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119104430"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580359"
 ---
 # <a name="mf_mt_mpeg2_flags-attribute"></a>\_ \_ \_ Атрибут флагов MF MT MPEG2
 
@@ -33,7 +33,7 @@ ms.locfileid: "119104430"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Приложения UWP для классических приложений Vista \|\]<br/>                              |
 | Минимальная версия сервера<br/> | Windows \[Приложения UWP для классических приложений сервера 2008 \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

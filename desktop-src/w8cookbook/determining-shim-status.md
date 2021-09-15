@@ -4,12 +4,12 @@ description: Определение состояния оболочки совм
 ms.assetid: 8D0B633F-9117-4F90-BF8C-AC5F57FCD30B
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: fcac24017dc4bc4de1f9eddb1919cc8190ccf7d98cda2f127428f1d227ef1d42
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40b830cbb4579aa2e523dfe2ec1129ed9cd10f37
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117672062"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575651"
 ---
 # <a name="determining-shim-status"></a>Определение состояния оболочки совместимости
 

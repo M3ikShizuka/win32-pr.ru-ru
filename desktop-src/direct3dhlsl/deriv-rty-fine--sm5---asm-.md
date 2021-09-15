@@ -4,12 +4,12 @@ description: Вычисление частоты изменения компон
 ms.assetid: 7C5769A6-443C-4208-BD09-3DF3C5902624
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 331ec5c887b221533f7d7d420530d009f32b203151b681b8c187bfb950462e65
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97f0274fd04ae88ee412c95947691628754ba197
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119625924"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573862"
 ---
 # <a name="deriv_rty_fine-sm5---asm"></a>наследование \_ РТИ \_ прекрасно (SM5-ASM)
 
@@ -35,7 +35,7 @@ ms.locfileid: "119625924"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Дополнительные сведения см. в разделе [наследование \_ RTX \_ прекрасно.](deriv-rtx-fine--sm5---asm-.md)
 
@@ -43,7 +43,7 @@ ms.locfileid: "119625924"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 |        |      |        |          | X     |         |
 
@@ -59,7 +59,7 @@ ms.locfileid: "119625924"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -70,7 +70,7 @@ ms.locfileid: "119625924"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

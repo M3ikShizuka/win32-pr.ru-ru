@@ -4,12 +4,12 @@ ms.assetid: 42E7DB19-9FB9-4226-B0B5-97AD6B9C0E12
 title: Свойство CODECAPI_AVEncSliceControlSize (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: d068d8b2c5fc15fdb82c3ffe068e6926d28228a19367114067e02ebc44b03726
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9e4c3e58fa34922941ea564d42e449cefd798ad2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035352"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574966"
 ---
 # <a name="codecapi_avencslicecontrolsize-property"></a>КОДЕКАПИ \_ авенкслицеконтролсизе, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "119035352"
 
 **КОДЕКАПИ \_ авенкслицеконтролсизе**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 **Кодировщики H. 264/AVC:**
 

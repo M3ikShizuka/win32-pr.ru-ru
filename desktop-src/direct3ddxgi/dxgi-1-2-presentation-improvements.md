@@ -4,12 +4,12 @@ description: DXGI 1,2 поддерживает новую цепочку пер�
 ms.assetid: 22236FBD-E881-49B5-8AE9-96FB526DFEF8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 12f191af4a94b1379e2539b8d544163467fe4dc49141f244e8dcc1f13a3e36af
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1a3abbb784de82f5bf647a4b66503497edcd4f89
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119984223"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574066"
 ---
 # <a name="flip-model-dirty-rectangles-scrolled-areas"></a>Перелистывание моделей, "грязных" прямоугольников, прокручиваемых областей
 

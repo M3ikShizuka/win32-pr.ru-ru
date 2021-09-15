@@ -17,12 +17,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 85adc4a022c0f897a2e228aab670ccae60de0ec256e5f88e033991b137863fe1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f4fcbc8f7c1bc34b0da42dd08c255a04a6d2fc83
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119565874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581246"
 ---
 # <a name="id3dx11effectshadervariablegetpatchconstantsignatureelementdesc-method"></a>Метод ID3DX11EffectShaderVariable:: Жетпатчконстантсигнатурилементдеск
 
@@ -85,7 +85,7 @@ HRESULT GetPatchConstantSignatureElementDesc(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -96,7 +96,7 @@ HRESULT GetPatchConstantSignatureElementDesc(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

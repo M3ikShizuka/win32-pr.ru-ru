@@ -4,12 +4,12 @@ ms.assetid: 68332106-d1fe-467b-8baa-1e592b9cc243
 title: Атрибут MF_TOPONODE_DRAIN (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 26aa3d813bf92dde1bd22ecbb5615ba26425b381453154239a596193a885f4fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 679b87d626738b82f4504673392bd0fe159e2722
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117691189"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579863"
 ---
 # <a name="mf_toponode_drain-attribute"></a>\_ \_ Атрибут слива MF топоноде
 
@@ -41,7 +41,7 @@ ms.locfileid: "117691189"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: ccecc1e6-2d30-4e89-849f-c3acad97f312
 title: Атрибут MF_TOPONODE_WORKQUEUE_MMCSS_TASKID (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0bf75dc911c9d00cab2d21d937ef16a43b38cc4271299c6fae4f2ed7381ec63a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 53af119c58d725d42ec5737ffd9bf96286a65ac1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118739632"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579846"
 ---
 # <a name="mf_toponode_workqueue_mmcss_taskid-attribute"></a>\_Атрибут MF топоноде \_ ворккуеуе \_ MMCSS \_
 
@@ -34,7 +34,7 @@ ms.locfileid: "118739632"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ ms.locfileid: "118739632"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

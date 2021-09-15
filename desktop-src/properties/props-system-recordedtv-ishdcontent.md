@@ -5,11 +5,11 @@ title: System. Рекордедтв. Ишдконтент
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: e86d5651acc6a222871097fd4dda9773a46a0597
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108106962"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574594"
 ---
 # <a name="systemrecordedtvishdcontent"></a>System. Рекордедтв. Ишдконтент
 
@@ -42,11 +42,11 @@ propertyDescription
       type = Boolean
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

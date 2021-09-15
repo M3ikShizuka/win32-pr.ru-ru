@@ -4,12 +4,12 @@ description: Расширенное хранилище теперь являет
 ms.assetid: 8A6B6194-5867-4B76-BD7B-152FD8A7DD77
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3777d4df386b071166fcfa17a60654c62e039d9137f73deaf2d85d54e2519e1e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f7601ee35e6d4be35a39874dd85650f051c1c718
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119028852"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575650"
 ---
 # <a name="enhanced-storage-is-now-optional-for-winpe-and-server-sku"></a>Расширенное хранилище теперь является необязательным для WINPE и SKU сервера.
 

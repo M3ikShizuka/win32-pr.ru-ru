@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Wia.h
-ms.openlocfilehash: 4c9738afe60d79b73149c9dd7dda8c3bbd1017c3b41d023b47160b624bcd7c8b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2fea4c4b9a2dd909b7ec49097ee94664b47f7e47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119450421"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575639"
 ---
 # <a name="iwiaitem2getextension-method"></a>Метод IWiaItem2:: Extension
 
@@ -95,7 +95,7 @@ HRESULT GetExtension(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение вызывает этот метод, чтобы создать объект расширения, реализующий один из интерфейсов расширения драйвера WIA 2,0. **IWiaItem2:: Extension** сохраняет адрес интерфейса расширения объекта расширения в параметре *риидекстенсионинтерфаце* . Затем приложение использует указатель интерфейса для вызова его методов.
 

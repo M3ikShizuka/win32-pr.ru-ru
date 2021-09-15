@@ -4,12 +4,12 @@ ms.assetid: 3dd4f6f0-2305-4470-bbd4-7737fa2d8eae
 title: OPM_GET_ACTUAL_PROTECTION_LEVEL (Опмапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 2ed5d895c037fedfa97bbafab8331d685af9a7f1ce81489b8d600bd903aa2a17
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 960d704fd44ca779f128795b26603698bb0ad622
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119101923"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574843"
 ---
 # <a name="opm_get_actual_protection_level"></a>ОПМ \_ получить \_ фактический \_ \_ уровень защиты
 
@@ -27,7 +27,7 @@ ms.locfileid: "119101923"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Глобальный уровень защиты — это уровень защиты, применяемый в данный момент к соединителю, независимо от того, каким способом был назначен драйвер графики для применения защиты. Например, приложение может установить уровень защиты ACP, вызвав функцию **чанжедисплайсеттингсекс** . В этом случае уровень глобальной защиты будет отражать этот параметр, даже если он не был запрошен с помощью Output Protection Manager (ОПМ).
 
@@ -56,7 +56,7 @@ ms.locfileid: "119101923"
 |-------------------------------------|-------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                |
-| Header<br/>                   | <dl> <dt>Опмапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Опмапи. h</dt> </dl> |
 
 
 

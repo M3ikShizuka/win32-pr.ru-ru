@@ -4,12 +4,12 @@ ms.assetid: a032fcf4-2584-4047-adbd-d94d4fc4e841
 title: Атрибут MF_MT_AAC_PAYLOAD_TYPE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6c4c7852e5719f2293e21f7f37c761c39a14dca132113c6b9224038c640e3d2b
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: bd3edba98bdac54b12fb6e3e44fb67373f7fce6a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119940684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579902"
 ---
 # <a name="mf_mt_aac_payload_type-attribute"></a>\_ \_ \_ Атрибут типа полезных данных MF MT AAC \_
 
@@ -52,7 +52,7 @@ ms.locfileid: "119940684"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -62,7 +62,7 @@ ms.locfileid: "119940684"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

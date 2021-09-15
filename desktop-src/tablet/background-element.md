@@ -5,11 +5,11 @@ title: Элемент Background
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3585b8ca37fe86bd1c687601975ea0ad189d5746
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122473900"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579507"
 ---
 # <a name="background-element"></a>Элемент Background
 
@@ -36,7 +36,7 @@ ms.locfileid: "122473900"
 
 | attribute | Тип | Обязательно | Описание | Возможные значения | 
 |-----------|------|----------|-------------|-----------------|
-| <strong>Стиль</strong> | <strong>xs:string</strong> | Обязательно | Задает стиль фона. | <ul><li>None</li><li>Сплошная</li></ul> | 
+| <strong>Стиль</strong> | <strong>xs:string</strong> | Обязательно | Задает стиль фона. | <ul><li>Нет</li><li>Сплошная</li></ul> | 
 | <strong>Цвет</strong> | <a href="colortype-simple-type.md"><strong>Колортипе</strong></a> simpleType | Необязательно | Указывает цвет фона. | См. <a href="colortype-simple-type.md"><strong>колортипе</strong></a> simpleType. | 
 
 

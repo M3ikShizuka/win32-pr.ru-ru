@@ -3,12 +3,12 @@ description: Расширение буфера обмена с помощью п
 title: Создание обработчиков данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f0a3761b4dc8ce3e7d50d967d2267971537d3609e7a7cf76785623734558adac
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 33ecc08769068d975c1fa16ef1385f362c67e43c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119715054"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579570"
 ---
 # <a name="how-to-create-data-handlers"></a>Создание обработчиков данных
 
@@ -20,7 +20,7 @@ ms.locfileid: "119715054"
 -   [Регистрация обработчиков данных](#step-2-registering-data-handlers)
 -   [Связанные темы](#related-topics)
 
-## <a name="instructions"></a>Инструкции
+## <a name="instructions"></a>Instructions
 
 ### <a name="step-1-implementing-data-handlers"></a>Шаг 1. Реализация обработчиков данных
 

@@ -4,12 +4,12 @@ ms.assetid: b02b38bd-f3dd-4bf8-a36e-44ff9fbbe550
 title: Функция Енкриптмессаже (Schannel)
 ms.topic: reference
 ms.date: 07/25/2019
-ms.openlocfilehash: de792e543a8cb67bd6b608d79832fd31a68267fc297a85e0e178d268bbc069d6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3075b2fe7e5b4167a5a8527a16009282b2fca1b9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119008292"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575394"
 ---
 # <a name="encryptmessage-schannel-function"></a>Функция Енкриптмессаже (Schannel)
 
@@ -77,7 +77,7 @@ SECURITY_STATUS SEC_Entry EncryptMessage(
 | <dl> <dt>**в секунду \_ E \_ Недопустимый \_ токен**</dt> </dl>          | Не \_ найден буфер типа данных pvbuffer.<br/>                                                                                                        |
 | <dl> <dt>**с \_ е \_ КОП \_ не \_ поддерживается**</dt> </dl>     | [*Контекст безопасности*](../secgloss/s-gly.md)не поддерживает ни конфиденциальность, ни [*целостность*](../secgloss/i-gly.md) .<br/> |
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Функция **енкриптмессаже (Schannel)** шифрует сообщение на основе сообщения и [*ключа сеанса*](../secgloss/s-gly.md) из [*контекста безопасности*](../secgloss/s-gly.md).
 
@@ -101,7 +101,7 @@ SECURITY_STATUS SEC_Entry EncryptMessage(
 
 **Windows XP/2000:** Эта функция также называлась **сеалмессаже**. Теперь приложения должны использовать только **енкриптмессаже (Schannel)** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------|
@@ -111,7 +111,7 @@ SECURITY_STATUS SEC_Entry EncryptMessage(
 | Библиотека                  | Secur32. lib                               |
 | DLL                      | Secur32.dll                               |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 - [Функции SSPI](authentication-functions.md#sspi-functions)
 - [**AcceptSecurityContext (Schannel)**](acceptsecuritycontext--schannel.md)

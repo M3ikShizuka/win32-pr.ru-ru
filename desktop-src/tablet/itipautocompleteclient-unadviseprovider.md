@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - tiptsf.dll
-ms.openlocfilehash: d4f573e1dab88e8556dc8c6011173cd3a2284a87d9f98ac6d05cea13cef65ab8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1100ebb700ef2fb769a13f9b62aacf5c1d007e0d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119712104"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579442"
 ---
 # <a name="itipautocompleteclientunadviseprovider-method"></a>Метод Итипаутокомплетеклиент:: Унадвисепровидер
 
@@ -69,7 +69,7 @@ HRESULT UnadviseProvider(
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -82,7 +82,7 @@ HRESULT UnadviseProvider(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

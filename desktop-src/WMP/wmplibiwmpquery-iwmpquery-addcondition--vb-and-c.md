@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fe85999c60364827d483f81d14ff88602c9b2831c16e7cff8a3e17076b77671d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9de3015ef0389fef82934cbd8e9326b6f9ec2307
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117745709"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580167"
 ---
 # <a name="iwmpqueryaddcondition-method"></a>Метод Ивмпкуери:: Аддкондитион
 
@@ -94,7 +94,7 @@ Implements IWMPQuery.addCondition
 
 
 
-| Строковый тип              | Применяется к     |
+| Строка              | Применяется к     |
 |---------------------|----------------|
 | BeginsWith          | Строки        |
 | Содержит            | Строки        |

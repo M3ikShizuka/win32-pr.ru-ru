@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - tiptsf.dll
-ms.openlocfilehash: 2afc5fc264df4d38e85dfa3374714b06908eee8ec1c5517b49dc32cbcbd44f99
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 950358ae28d1cb68af803ed6b7f520f1bbad8c03
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118716455"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579430"
 ---
 # <a name="itipautocompleteprovidershow-method"></a>Метод Итипаутокомплетепровидер:: «показывать»
 
@@ -73,7 +73,7 @@ HRESULT Show(
 |-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows XP Tablet PC Edition \[ только классические приложения\]<br/>                                                                   |
 | Минимальная версия сервера<br/> | Ни одна версия не поддерживается<br/>                                                                                                       |
-| Header<br/>                   | <dl> <dt>Типаутокомплете. h (также требуется Пенинпутпанел \_ i. c)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Типаутокомплете. h (также требуется Пенинпутпанел \_ i. c)</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Tiptsf.dll</dt> </dl>                                           |
 
 

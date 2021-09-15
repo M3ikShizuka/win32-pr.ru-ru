@@ -4,12 +4,12 @@ ms.assetid: b2cd1d37-9993-4990-83b7-b147a109e4af
 title: Событие WPCEVENT_IM_INVITATION (Впцевент. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f29b1adc556e29e03f7c8a189567b98055187f80d1574e201c54e3af0c1c0aca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 87c9d7e90eaa901b5e18a072e03e3112ee8c2934
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119951394"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574675"
 ---
 # <a name="wpcevent_im_invitation-event"></a>\_ \_ Событие приглашения впцевент IM
 

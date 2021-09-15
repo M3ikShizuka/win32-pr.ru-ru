@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.jet_
 ms:contentKeyID: 55103517
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: f61b7a90efa4ee0bd5843bdb72317c9c9c3deeaca9205447fd8bf2ebd6b9b7b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 10d1b16f194a6e6f0c11882d43441ae60f8434d1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119039352"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581146"
 ---
 # <a name="jet_columnlist-members"></a>Элементы JET_COLUMNLIST
 
@@ -154,7 +154,7 @@ ms.locfileid: "119039352"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

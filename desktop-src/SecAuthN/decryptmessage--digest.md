@@ -5,11 +5,11 @@ title: Функция Декриптмессаже (Digest)
 ms.topic: reference
 ms.date: 07/25/2019
 ms.openlocfilehash: f87828263766643a10cf5400e38cabe9d3096403
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122480870"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581342"
 ---
 # <a name="decryptmessage-digest-function"></a>Функция Декриптмессаже (Digest)
 
@@ -78,7 +78,7 @@ SECURITY_STATUS SEC_ENTRY DecryptMessage(
 | **с \_ не \_ \_ по \_ порядку**       | Сообщение не было получено в правильной последовательности.                                                                                                                        |
 | **с \_ е \_ КОП \_ не \_ поддерживается**     | [*Контекст безопасности*](../secgloss/s-gly.md)не поддерживает ни конфиденциальность, ни [*целостность*](../secgloss/i-gly.md) . Используется с дайджест-SSP.                           |
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Иногда приложение считывает данные от удаленной стороны, пытается расшифровать их с помощью **декриптмессаже (Digest)** и обнаружит, что **декриптмессаже (дайджест)** прошел проверку, но выходные буферы пусты. Это нормальное поведение, и приложения должны уметь работать с ним.
 
@@ -94,7 +94,7 @@ SECURITY_STATUS SEC_ENTRY DecryptMessage(
 | Библиотека                  | Secur32. lib                               |
 | DLL                      | Secur32.dll                               |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 - [Функции SSPI](authentication-functions.md#sspi-functions)
 - [**Енкриптмессаже (дайджест)**](encryptmessage--digest.md)

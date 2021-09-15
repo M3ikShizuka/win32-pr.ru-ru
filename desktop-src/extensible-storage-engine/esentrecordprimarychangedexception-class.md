@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2eecb185d1832896ef5b3631968c35b3c7d6f1ba3cc656e5e29065eabc7adfd4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 06fe56bb34c20ce45c99999526a3db279f72f085
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118079229"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580075"
 ---
 # <a name="esentrecordprimarychangedexception-class"></a>Класс Есентрекордпримаричанжедексцептион
 

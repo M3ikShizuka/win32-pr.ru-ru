@@ -4,12 +4,12 @@ ms.assetid: 478cc11e-afbd-411a-ab84-b8ca7c3aa503
 title: Событие WPCEVENT_MEDIA_PLAYBACK (Впцевент. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 036f88b657ea53a0d1a44679cc55c5cd109f9d16cada16f1812d301b472ef93b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cfdf4e884cc0e87f579d245676f78232a5ae0177
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119951143"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574670"
 ---
 # <a name="wpcevent_media_playback-event"></a>\_ \_ Событие воспроизведения мультимедиа впцевент
 
@@ -54,7 +54,7 @@ const EVENT_DESCRIPTOR WPCEVENT_MEDIA_PLAYBACK = {0x6, 0x0, 0x10, 0x4, 0x16, 0x6
 
 </dd> <dt>
 
-*Title* 
+*Заголовок* 
 </dt> <dd>
 
 Метаданные заголовка для содержимого.
@@ -75,7 +75,7 @@ const EVENT_DESCRIPTOR WPCEVENT_MEDIA_PLAYBACK = {0x6, 0x0, 0x10, 0x4, 0x16, 0x6
 
 </dd> <dt>
 
-*Явная* 
+*Явное* 
 </dt> <dd>
 
 Значение [**\_ \_ явного перечисления мультимедиа WPC**](/windows/win32/api/wpcevent/ne-wpcevent-wpc_media_explicit) , которое указывает сведения о явной оценке файла мультимедиа.
@@ -89,7 +89,7 @@ const EVENT_DESCRIPTOR WPCEVENT_MEDIA_PLAYBACK = {0x6, 0x0, 0x10, 0x4, 0x16, 0x6
 
 </dd> </dl>
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -101,7 +101,7 @@ const EVENT_DESCRIPTOR WPCEVENT_MEDIA_PLAYBACK = {0x6, 0x0, 0x10, 0x4, 0x16, 0x6
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

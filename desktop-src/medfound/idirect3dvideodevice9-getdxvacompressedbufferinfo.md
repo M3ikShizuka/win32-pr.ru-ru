@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - dxva.h
-ms.openlocfilehash: efb96ec457cdb81f89982947bf1b9bc40543789b2e9ac253d83c81727f1efae5
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 2bd2dcdd931ac8778e4f1c11f1479fe54e23d1b3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119942294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579990"
 ---
 # <a name="idirect3dvideodevice9getdxvacompressedbufferinfo-method"></a>Метод IDirect3DVideoDevice9:: Жетдксвакомпресседбуфферинфо
 
@@ -80,7 +80,7 @@ HRESULT GetDXVACompressedBufferInfo(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -92,7 +92,7 @@ HRESULT GetDXVACompressedBufferInfo(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

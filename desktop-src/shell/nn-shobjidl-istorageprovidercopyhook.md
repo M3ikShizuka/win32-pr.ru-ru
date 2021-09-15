@@ -12,12 +12,12 @@ api_type:
 - COM
 api_location:
 - shobjidl.h
-ms.openlocfilehash: aa26a329bd80295a6a46a1bb11d1dc651baf1ea71975576ed704b29a7fee8b57
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 52f2a7fb7c8d7b37fc27fd1e91c93d716bc92086
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968873"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574527"
 ---
 # <a name="istorageprovidercopyhook-interface"></a>Интерфейс IStorageProviderCopyHook
 
@@ -40,7 +40,7 @@ ms.locfileid: "118968873"
 | [**копикаллбакк**](nf-shobjidl-istorageprovidercopyhook-copycallback.md)               |  Определяет, будет ли оболочка разрешать перемещение, копирование, удаление или переименование папки в корне синхронизации поставщика облачных служб.                                                           |
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|

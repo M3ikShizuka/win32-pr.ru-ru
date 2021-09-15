@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Wisptis.exe
 - Wisptis.exe.dll
-ms.openlocfilehash: a8ce5d4dde7f3fd678e4ac748a0f148750344a1e5e8da9f6481ad25eafa016a9
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 81e8c653dd12600ae02fe7e6038de6e6a38786e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119712234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579463"
 ---
 # <a name="itabletcontextpusenamedsharedmemorycommunications-method"></a>Метод Итаблетконтекстп:: Усенамедшаредмеморикоммуникатионс
 

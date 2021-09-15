@@ -12,12 +12,12 @@ api_type:
 - COM
 api_location:
 - shobjidl.h
-ms.openlocfilehash: 26fe9079e7fdf53809f8c0763fa38f271536f1339d16647936fb141f8d213be5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c7df9296f2261e3907702067ca36265095102f34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117677982"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574530"
 ---
 # <a name="istorageprovidercopyhookcopycallback-method"></a>Метод Исторажепровидеркопихук:: Копикаллбакк
 
@@ -125,18 +125,18 @@ HRESULT CopyCallback(
 
 Возвращает **S_OK** в случае успеха или код ошибки в противном случае.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Оболочка вызывает обработчик ловушки копирования поставщика облачных служб для каждой папки в зарегистрированном корне синхронизации. чтобы зарегистрировать обработчик события копирования для облачных папок, установите значение **копихук** в разделе **HKEY_LOCAL_MACHINE/софтваре/микрософт/Windows/куррентверсион/експлорер/синкрутманажер/{синкрутид}** в качестве значения идентификатора CLSID объекта-ловушки копирования.
 
 При вызове метода **Копикаллбакк** оболочка инициализирует интерфейс [исторажепровидеркопихук](nn-shobjidl-istorageprovidercopyhook.md) напрямую без использования интерфейса [ишеллекстинит](/windows/win32/api/shobjidl_core/nn-shobjidl_core-ishellextinit) First.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |-------------------------------------|-----------------------------------------------------------------------------------------|
 | Минимальная версия клиента | Windows 10 Предварительная версия сборки 19624                                |
-| Header                   | shobjidl. h   |
+| Заголовок                   | shobjidl. h   |
 
 ## <a name="see-also"></a>См. также раздел
 

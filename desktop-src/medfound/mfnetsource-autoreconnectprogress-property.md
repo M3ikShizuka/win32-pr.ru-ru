@@ -4,12 +4,12 @@ ms.assetid: e3410e68-6358-4f00-8039-833a4ccdf7fa
 title: Свойство MFNETSOURCE_AUTORECONNECTPROGRESS (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7cfbf0bac147b3608145d3ef38eb328a44de1c064899a5e7800acbadfadcf709
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 05ade09bd425988cb0a64b258ff0887f8e79d4c4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118243878"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580319"
 ---
 # <a name="mfnetsource_autoreconnectprogress-property"></a>МФНЕТСАУРЦЕ \_ аутореконнектпрогресс, свойство
 
@@ -45,11 +45,11 @@ VT \_ I4
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                     |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                               |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Справочные сведения по интерфейсу п�
 ms.assetid: <GUID-GOES-HERE>
 ms.date: 01/17/2020
 ms.topic: article
-ms.openlocfilehash: fd6faa744c71757a9072e2546ac86fd6fae3374db2c8332aab90dbdf061e724c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cf48523890aa767beeabf35c7dd8413a4b1c20ad
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120030993"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580194"
 ---
 # <a name="windows-projected-file-system-projfs-api-reference"></a>Windows Справочник по API проектируемой файловой системы (Прожфс)
 

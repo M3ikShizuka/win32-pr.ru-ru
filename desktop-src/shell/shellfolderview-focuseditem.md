@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Shell32.dll
 ms.openlocfilehash: 4f661f555f1492a3323fa3749a8dffd6f00f411d
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108104012"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579534"
 ---
 # <a name="shellfolderviewfocuseditem-property"></a>Шеллфолдервиев. Фокуседитем, свойство
 
@@ -45,7 +45,7 @@ objFocusedItem = ShellFolderView.FocusedItem
 
 ## <a name="examples"></a>Примеры
 
-В следующем примере показано правильное использование этого метода в JScript Embedded в HTML.
+в следующем примере показано правильное использование этого метода в JScript, внедренном в HTML.
 
 
 ```JScript
@@ -99,7 +99,7 @@ objFocusedItem = ShellFolderView.FocusedItem
 
 | Требование | Значение |
 |-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ классических приложений Windows XP\]<br/>                                         |
+| Минимальная версия клиента<br/> | Windows 2000 Professional, только для \[ настольных приложений Windows XP\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                           |
 | Заголовок<br/>                   | <dl> <dt>Шлдисп. h</dt> </dl>                           |
 | IDL<br/>                      | <dl> <dt>Шлдисп. idl</dt> </dl>                         |

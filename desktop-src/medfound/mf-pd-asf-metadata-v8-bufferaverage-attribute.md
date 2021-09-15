@@ -4,12 +4,12 @@ ms.assetid: 508d8670-5f5f-422b-9fa1-150115e2dbb8
 title: Атрибут MF_PD_ASF_METADATA_V8_BUFFERAVERAGE (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6ac9328d0b176df23b103c49890ffa7646ae8c02e7205df95fecc5a64e5eebc4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d3f1efcb464ee62a1f3838c1a684e3c87dc58227
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119955414"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579871"
 ---
 # <a name="mf_pd_asf_metadata_v8_bufferaverage-attribute"></a>MF \_ PD \_ ASF \_ метаданные \_ V8 \_ буфферавераже Attribute
 

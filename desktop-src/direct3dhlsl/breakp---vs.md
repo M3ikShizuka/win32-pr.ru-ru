@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 8a768acaecaa77a42990b34c50cd8eccb24d61353550751f3ed830e7844d7624
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: dbd0d5e20040bc2d353287eb4243c9e9d6d21dc8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118794318"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574018"
 ---
 # <a name="breakp---vs"></a>бреакп — VS
 
@@ -37,7 +37,7 @@ ms.locfileid: "118794318"
 -   P0 — это регистр предикатов. См. раздел [Регистрация предиката](dx9-graphics-reference-asm-vs-registers-predicate.md).
 -   {x \| y \| z \| w} — это обязательная репликация свиззле в P0.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

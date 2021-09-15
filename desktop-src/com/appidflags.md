@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: cdad2b80625d6a60460d43f242d7897e0ae7eb40
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369538"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574142"
 ---
 # <a name="appidflags"></a>аппидфлагс
 
@@ -25,7 +25,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
       AppIDFlags = flags
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это значение **reg \_ DWORD** .
 
@@ -81,7 +81,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 
 флаг **аппидрегфлагс \_ для \_ активации \_ RPC \_ AT \_ идентифицирован** поддерживается в Windows 7 и более поздних версиях Windows.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

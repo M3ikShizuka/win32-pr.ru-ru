@@ -4,12 +4,12 @@ ms.assetid: 7ec6004f-c71b-413f-b2fd-dc03a5bf8c57
 title: Атрибут MF_SD_ASF_STREAMBITRATES_BITRATE (Вмконтаинер. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4190ed64a1d241e17a4fad1481977a27dd62ba0f293f686b55a45f417e89d3d4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b5132ba69f88ce3c0f62160e88d11a6b794b2f5e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119605174"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580339"
 ---
 # <a name="mf_sd_asf_streambitrates_bitrate-attribute"></a>Атрибут скорости MF \_ SD \_ ASF \_ стреамбитратес \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "119605174"
 
 Значение атрибута равно значению поля среднего бита скорости в объекте свойств частоты разрядов потока.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -37,7 +37,7 @@ ms.locfileid: "119605174"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 9bae89b7-8f54-42ec-a240-998c97e26d25
 title: Проблемы с автопрокси в WinHTTP
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cc07ca7320fee028431ff0d89be78ee0b2dc4bb63e8191386808f0936c8a1518
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 22c6edbf56ec1ffc4dfac930a5d4858429cc6447
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119052092"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580674"
 ---
 # <a name="autoproxy-issues-in-winhttp"></a>Проблемы с автопрокси в WinHTTP
 

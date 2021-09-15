@@ -13,12 +13,12 @@ api_location:
 topic_type:
 - APIRef
 - kbSyntax
-ms.openlocfilehash: 046119c93ec6a80fcfcedbd562d04665d5642fd832f2385bab914cc732499e5a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 8a3968b9001d74721938190369e6b52cf2368835
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120111474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574542"
 ---
 # <a name="ncm_displayerrortip-message"></a>\_Сообщение НКМ дисплайеррортип
 
@@ -51,7 +51,7 @@ NCM_DISPLAYERRORTIP
 
 Если это сообщение завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Отправка этого сообщения для вывода сообщения об ошибке, когда адрес, введенный в элементе управления, не проверяется по разрешенным типам сетевых адресов, заданным с помощью сообщения [**НКМ \_ сеталловтипе**](ncm-setallowtype.md) . Чтобы проверить адрес, используйте сообщение [**НКМ \_**](ncm-getaddress.md) .
 
@@ -67,7 +67,7 @@ NCM_DISPLAYERRORTIP
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

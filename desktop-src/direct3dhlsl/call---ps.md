@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 7ae1b8a19178b0a6633a98472814e225e9ac2f7de9e3e2f016720f2f5b1a9b3a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 27be29c478afdf92c29fefd16a82319e0899d2ec
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118794088"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574014"
 ---
 # <a name="call---ps"></a>Call-PS
 
@@ -35,7 +35,7 @@ ms.locfileid: "118794088"
 
 -   l \# — [Метка-PS](label---ps.md) , помечающая начало подпрограммы для вызова.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

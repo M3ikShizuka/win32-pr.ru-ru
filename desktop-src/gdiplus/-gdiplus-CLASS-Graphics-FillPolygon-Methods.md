@@ -5,11 +5,11 @@ title: Методы Graphics. Филлполигон (Гдиплусграфик
 ms.date: 07/02/2019
 ms.topic: reference
 ms.openlocfilehash: a4503a30cea19f0febb35c406aad5bf2626cfecf
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104998978"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580482"
 ---
 # <a name="graphicsfillpolygon-methods"></a>Методы Graphics. Филлполигон
 
@@ -34,7 +34,7 @@ ms.locfileid: "104998978"
 
 | Требование | Значение |
 |-------------------|----------------------------------------------------------------------------------------------|
-| Header<br/> | <dl> <dt>Гдиплусграфикс. h</dt> </dl> |
+| Заголовок<br/> | <dl> <dt>Гдиплусграфикс. h</dt> </dl> |
 
 
 

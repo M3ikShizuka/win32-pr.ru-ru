@@ -4,12 +4,12 @@ description: Предоставляет уникальное обозначен�
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 09/09/2019
-ms.openlocfilehash: 31ff8eb22a234020e0da5b5ebb5799d5ddb0c8d1dca7bc094394f79a5ceb0c0a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 95d2d420502a5d92af64c902ffa82c709639d872
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118925951"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580186"
 ---
 # <a name="uuid-structure"></a>Структура UUID
 

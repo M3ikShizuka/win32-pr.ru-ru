@@ -5,11 +5,11 @@ title: Функция Енкриптмессаже (NTLM)
 ms.topic: reference
 ms.date: 07/25/2019
 ms.openlocfilehash: 5c36ce31793a7dc889b6dec40acac7606cc38bf3
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122480810"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575395"
 ---
 # <a name="encryptmessage-ntlm-function"></a>Функция Енкриптмессаже (NTLM)
 
@@ -107,7 +107,7 @@ SECURITY_STATUS SEC_Entry EncryptMessage(
 | Библиотека                  | Secur32. lib                               |
 | DLL                      | Secur32.dll                               |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 - [Функции SSPI](authentication-functions.md#sspi-functions)
 - [**AcceptSecurityContext (NTLM)**](acceptsecuritycontext--ntlm.md)

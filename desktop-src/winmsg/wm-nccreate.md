@@ -4,12 +4,12 @@ ms.assetid: 5dd0eda3-83a6-4077-a7a3-e371c9413b0f
 title: Сообщение WM_NCCREATE (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 84fa5638ef1b97365d202f2049fc79712d0ed3eec167825110f7c7967ce4605c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e8757cbdeba49d54f6e5d842a5b40c7f7ae61cac
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118200060"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574339"
 ---
 # <a name="wm_nccreate-message"></a>\_Сообщение НККРЕАТЕ WM
 
@@ -82,7 +82,7 @@ ms.locfileid: "118200060"
 [**\_Создание WM**](wm-create.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

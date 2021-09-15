@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7ab830bf6fe077c64dc864eeb064fc9fa5e1208b42e5cef233eb581d79d8f72a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a45eb5e0825bd8487396ed850c9d79665e5f1044
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118532992"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581234"
 ---
 # <a name="id3dx11effectstringvariable-interface"></a>Интерфейс ID3DX11EffectStringVariable
 
@@ -55,7 +55,7 @@ ms.locfileid: "118532992"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -66,7 +66,7 @@ ms.locfileid: "118532992"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

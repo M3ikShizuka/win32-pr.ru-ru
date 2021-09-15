@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Shell32.dll
-ms.openlocfilehash: 3c49389700494c646976ee7df5e67782b110fc085f4328cb139b9604523c8622
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e336034e7d5037b8037c6fd0ef549fe5f87da312
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118968433"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579522"
 ---
 # <a name="shellfolderviewviewoptions-property"></a>Шеллфолдервиев. Виевоптионс, свойство
 

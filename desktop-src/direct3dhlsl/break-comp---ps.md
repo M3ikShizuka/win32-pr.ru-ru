@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: 2fa79b7aa50bc734ddc1f9fb1fd54e4130c48518dd47ed429b4177b8fb867d95
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 5088312a16102153ad78afffdcd9ea1275d34e0d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118794469"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574030"
 ---
 # <a name="break_comp---ps"></a>Останов \_ comp-PS
 
@@ -37,7 +37,7 @@ ms.locfileid: "118794469"
 
     | Синтаксис | Сравнение            |
     |--------|-----------------------|
-    | \_gt   | Больше чем          |
+    | \_gt   | Больше          |
     | \_светл   | Меньше чем             |
     | \_GE   | Больше или равно |
     | \_Le   | Меньше или равно    |
@@ -51,7 +51,7 @@ ms.locfileid: "118794469"
 -   src0 является исходным регистром. При выборе одного компонента требуется репликация свиззле.
 -   src1 является исходным регистром. При выборе одного компонента требуется репликация свиззле.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта инструкция поддерживается в следующих версиях.
 

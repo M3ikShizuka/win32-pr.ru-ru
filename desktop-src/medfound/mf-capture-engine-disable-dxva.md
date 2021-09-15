@@ -4,12 +4,12 @@ ms.assetid: 9F677E6E-0DCD-456F-8A00-1C11011BAA13
 title: Атрибут MF_CAPTURE_ENGINE_DISABLE_DXVA (Mfcaptureengine. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4c722b70e1707e6ad5d14b7afca0da2c8d1a63b3a132345e727de1f37023916a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4d2ce31ed55e151e7254168e5e6bcce0c5460e88
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119941014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580414"
 ---
 # <a name="mf_capture_engine_disable_dxva-attribute"></a>\_Ключ записи \_ MF \_ Отключить \_ атрибут дксва
 
@@ -33,7 +33,7 @@ ms.locfileid: "119941014"
 
 Значение этого атрибута по умолчанию равно **false**, означающее, что при наличии включен декодирование дксва.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "119941014"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 0a13fc08-2bbe-46d8-a076-6165cca6ea36
 title: Событие Меконтентпротектионмессаже (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 0316767025fe4446909146b92cfcea8abcc3e0511990c19485a50c94dbc3fa59
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a4f96ac75711559881232ced4cec6bfca2bc030c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120013834"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579950"
 ---
 # <a name="mecontentprotectionmessage-event"></a>Событие Меконтентпротектионмессаже
 
@@ -35,7 +35,7 @@ ms.locfileid: "120013834"
 
 Данные и атрибуты события зависят от используемой системы защиты содержимого.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -47,7 +47,7 @@ ms.locfileid: "120013834"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

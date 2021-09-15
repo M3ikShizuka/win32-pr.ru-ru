@@ -5,12 +5,12 @@ ms.tgt_platform: multiple
 title: Перечисление WMI
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 417e5ea2ae1a1216c567a1ddf257c34796b4344a807d323ad4ad7165f1707098
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d94f4a1fcff06423bad9d2bf5570ec1b9705fdef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117924700"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127575342"
 ---
 # <a name="enumerating-wmi"></a>Перечисление WMI
 
@@ -251,7 +251,7 @@ Console.ReadLine();
 
 ## <a name="enumerating-wmi-using-vbscript"></a>Перечисление WMI с помощью VBScript
 
-Если вы не узнаете путь к объекту для конкретного экземпляра или хотите получить все экземпляры для конкретного класса, используйте метод [**SwbemServices. инстанцесоф**](swbemservices-instancesof.md) , чтобы вернуть перечисление [**SWbemObjectSet**](swbemobjectset.md) для всех экземпляров класса. Кроме того, можно запросить WMI с помощью [**SWbemServices.Exeккуери**](swbemservices-execquery.md) , чтобы получить тот же набор объектов.
+Если вы не узнаете путь к объекту для конкретного экземпляра или хотите получить все экземпляры для конкретного класса, используйте метод [**SwbemServices. инстанцесоф**](swbemservices-instancesof.md) , чтобы вернуть перечисление [**SWbemObjectSet**](swbemobjectset.md) для всех экземпляров класса. Кроме того, можно запросить WMI с помощью [**SwbemServices. ExecQuery**](swbemservices-execquery.md) , чтобы получить тот же набор объектов.
 
 Следующая процедура описывает, как перечислить экземпляры класса с помощью VBScript.
 

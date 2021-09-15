@@ -4,12 +4,12 @@ ms.assetid: c31444df-8717-4ca8-a9ec-72cbb0ee4125
 title: Шаг 7. Завершение сеанса мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aa1eec6e798ee260c83fc1532c2012aed8a53625b12195848ac00fcdcf8fae3b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ae9fd11cde51b06d932b212f4effabf315deecb7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119721953"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574754"
 ---
 # <a name="step-7-shut-down-the-media-session"></a>Шаг 7. Завершение сеанса мультимедиа
 

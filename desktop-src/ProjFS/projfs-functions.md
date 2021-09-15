@@ -4,12 +4,12 @@ description: Следующие функции объявляются в про�
 ms.assetid: <GUID-GOES-HERE>
 ms.date: 01/17/2020
 ms.topic: article
-ms.openlocfilehash: 47e4371a7d00ca6564223f7415a69ee0308bf8757041b49f5df9f214e6c978b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 40f3f2aec8e52d2caafdcf1554d0871e9bb185de
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117792611"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580199"
 ---
 # <a name="projfs-functions"></a>Функции Прожфс
 

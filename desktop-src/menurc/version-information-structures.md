@@ -4,18 +4,18 @@ description: Структуры сведений о версии
 ms.assetid: 44252d74-abb6-4ff3-9d4c-969bbc25439e
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 76186b793f7856f0fc9e8d39d9ab01ed7efd6c6282dcf25c35b3634d376090aa
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ababc1e22c01670af10ad09730e7aa0ae89551d6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119662784"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574719"
 ---
 # <a name="version-information-structures"></a>Структуры сведений о версии
 
-## <a name="in-this-section"></a>В этом разделе
+## <a name="in-this-section"></a>в этом разделе
 
--   [**Строковый тип**](string-str.md)
+-   [**String**](string-str.md)
 -   [**стрингфилеинфо**](stringfileinfo.md)
 -   [**StringTable**](stringtable.md)
 -   [**Var**](var-str.md)

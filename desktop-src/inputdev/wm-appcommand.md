@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 667b2974015edd8b8d3ac0505f4eb4d6c64d1da5b82737ec7d9bb89cc3e8776e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: d7f5e71f9a443e12ea56cb8ca23daea148da92aa
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118248008"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580026"
 ---
 # <a name="wm_appcommand-message"></a>\_Сообщение АППКОММАНД WM
 
@@ -210,7 +210,7 @@ dwKeys = GET_KEYSTATE_LPARAM(lParam);
 [**WM \_ нкксбуттонуп**](wm-ncxbuttonup.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

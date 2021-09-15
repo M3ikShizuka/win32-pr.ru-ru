@@ -5,11 +5,11 @@ ms.assetid: e8a0286d-1831-454f-8549-1957fd794809
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: a2f0fdcd327bf05c0019a03ad171d41c1f1d95a1
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369454"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574114"
 ---
 # <a name="choosing-the-threading-model"></a>Выбор потоковой модели
 
@@ -17,7 +17,7 @@ ms.locfileid: "124369454"
 
 Проще поддерживать потоковое подразделение в однопотоковых апартаментах, так как COM обеспечивает синхронизацию на основе каждого вызова. Поддержка свободной потоковой реализации сложнее, поскольку объект должен реализовывать синхронизацию. Однако отклики на клиенты могут быть лучше, так как синхронизация может быть реализована для небольших разделов кода.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

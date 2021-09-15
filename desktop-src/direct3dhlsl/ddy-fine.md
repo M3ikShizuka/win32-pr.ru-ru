@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 9b59f7ac500658570b19bf932e3abb042f9ecd8e27b63458c25032704c9ba4e8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2a4cb297180a4988cb049ccebfa4f82571c4655c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118285887"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573879"
 ---
 # <a name="ddy_fine-function"></a>ДДИ, \_ функция
 
@@ -51,7 +51,7 @@ float ddy_fine(
 
 Частичная точность, производная от *value*.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Также доступны следующие перегруженные версии:
 

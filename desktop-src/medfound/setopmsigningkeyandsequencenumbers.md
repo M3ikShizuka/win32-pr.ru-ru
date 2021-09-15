@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - gdi32.dll
-ms.openlocfilehash: 7096b45d722ecbd3d70048a3e6de8cd6de260741abdb610f52a0694ca5ee6200
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: cbd088b83acd4e93cc186e6c7b5635ad1e3d8346
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119953214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574799"
 ---
 # <a name="setopmsigningkeyandsequencenumbers-function"></a>Функция Сетопмсигнингкэйандсекуенценумберс
 
@@ -63,13 +63,13 @@ NTSTATUS WINAPI SetOPMSigningKeyAndSequenceNumbers(
 
 Если метод завершается успешно, возвращается **состояние \_ Success**. В противном случае возвращается код ошибки **NTSTATUS** .
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложения должны вызывать метод [**иопмвидеуутпут:: финишинитиализатион**](/windows/desktop/api/opmapi/nf-opmapi-iopmvideooutput-finishinitialization) вместо вызова этой функции.
 
 Эта функция не имеет связанной библиотеки импорта. Для вызова этой функции необходимо использовать функции [**LoadLibrary**](/windows/win32/api/libloaderapi/nf-libloaderapi-loadlibrarya) и [**GetProcAddress**](/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) для динамической привязки к Gdi32.dll.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -81,7 +81,7 @@ NTSTATUS WINAPI SetOPMSigningKeyAndSequenceNumbers(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -15,11 +15,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 050bc00a7ab19e22e0fe4ea1f35271707180d4d4
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "104135639"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580022"
 ---
 # <a name="wm_capturechanged-message"></a>\_Сообщение КАПТУРЕЧАНЖЕД WM
 
@@ -56,7 +56,7 @@ ms.locfileid: "104135639"
 
 Приложение должно вернуть нуль, если оно обрабатывает это сообщение.
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Окно получает это сообщение, даже если оно вызывает [**релеасекаптуре**](/windows/win32/api/winuser/nf-winuser-releasecapture) . Приложение не должно пытаться установить захват мыши в ответ на это сообщение.
 
@@ -70,7 +70,7 @@ ms.locfileid: "104135639"
 |-------------------------------------|----------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 2000 Professional \[только классические приложения\]<br/>                                               |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                                                     |
-| Заголовок<br/>                   | <dl> <dt>Winuser. h (включение Windows. h)</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Winuser. h (включает Windows. h)</dt> </dl> |
 
 
 
@@ -87,7 +87,7 @@ ms.locfileid: "104135639"
 [**сеткаптуре**](/windows/win32/api/winuser/nf-winuser-setcapture)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

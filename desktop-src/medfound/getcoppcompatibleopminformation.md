@@ -14,11 +14,11 @@ api_type:
 api_location:
 - gdi32.dll
 ms.openlocfilehash: 7e5eac24dfcf08e45ce414090835792e594d7c37
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104262787"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580003"
 ---
 # <a name="getcoppcompatibleopminformation-function"></a>Функция Жеткоппкомпатиблеопминформатион
 
@@ -71,7 +71,7 @@ NTSTATUS WINAPI GetCOPPCompatibleOPMInformation(
 
 Если метод завершается успешно, возвращается **состояние \_ Success**. В противном случае возвращается код ошибки **NTSTATUS** .
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Приложения должны вызывать метод [**иопмвидеуутпут:: коппкомпатиблежетинформатион**](/windows/desktop/api/opmapi/nf-opmapi-iopmvideooutput-coppcompatiblegetinformation) вместо вызова этой функции.
 
@@ -85,8 +85,8 @@ NTSTATUS WINAPI GetCOPPCompatibleOPMInformation(
 
 | Требование | Значение |
 |-------------------------------------|--------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | Только для \[ классических приложений Windows Vista\]<br/>                                       |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server 2008\]<br/>                                 |
+| Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                       |
+| Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                 |
 | DLL<br/>                      | <dl> <dt>Gdi32.dll</dt> </dl> |
 
 

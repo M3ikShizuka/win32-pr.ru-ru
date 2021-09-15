@@ -4,12 +4,12 @@ ms.assetid: cd98266a-bc62-43da-b4d7-3561447d634f
 title: Использование приемника мультимедиа Евр
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4ced80b4f9ee17093a00436a26f3f142281907597191791712fd6900520926ff
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 84f8c666e88b495ad2d2e53fb1de10364f91636f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119826294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579790"
 ---
 # <a name="using-the-evr-media-sink"></a>Использование приемника мультимедиа Евр
 

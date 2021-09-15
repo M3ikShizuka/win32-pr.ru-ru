@@ -13,12 +13,12 @@ api_type:
 - HeaderDef
 api_location:
 - Wiadef.h
-ms.openlocfilehash: 2b4e89f47737788fa9ebf238f06f6420eafbc31d7b27ab7933372d0716fb6588
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 8da33f0b257168712f1b16fb7f940df5db862d3f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119812954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574406"
 ---
 # <a name="wia_raw_header-structure"></a>\_Структура заголовка необработанного WIA \_
 
@@ -53,7 +53,7 @@ typedef struct _WIA_RAW_HEADER {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -68,7 +68,7 @@ typedef struct _WIA_RAW_HEADER {
 
 </dd> <dt>
 
-**Version**
+**Версия**
 </dt> <dd>
 
 Тип: **DWORD**
@@ -266,7 +266,7 @@ typedef struct _WIA_RAW_HEADER {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Так как это не формат файла, используйте пустую строку для \_ \_ Свойства расширения файла WIA IPA \_ .
 
@@ -276,7 +276,7 @@ typedef struct _WIA_RAW_HEADER {
 
 **Палеттесизе** — байт, а не число записей в палитре.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

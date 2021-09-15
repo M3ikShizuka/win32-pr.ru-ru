@@ -5,11 +5,11 @@ title: Настройка состояний ДКСВА-HD
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 91766e3eb10399d908ab361e13db4b94fe07b653
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108092702"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574791"
 ---
 # <a name="setting-dxva-hd-states"></a>Настройка состояний ДКСВА-HD
 
@@ -143,7 +143,7 @@ HRESULT SetDXVAHDStates(HWND hwnd, D3DFORMAT inputFormat)
 
 
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

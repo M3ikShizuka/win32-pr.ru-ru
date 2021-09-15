@@ -4,12 +4,12 @@ ms.assetid: bd71f542-36d9-4dfc-b402-35ee8e574731
 title: Свойство MFPKEY_COLOR_SATURATION (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: b357521327bc913a0ace6b630cb9f2a27b553c3dfc8303e1a6bd9af218c5b743
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 496b1f017ceff6ab4bd01ce01ccfd5da0759befc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119954404"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579838"
 ---
 # <a name="mfpkey_color_saturation-property"></a>\_ \_ Свойство насыщенности цвета мфпкэй
 

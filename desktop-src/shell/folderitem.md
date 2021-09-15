@@ -13,12 +13,12 @@ api_type:
 api_location:
 - Shell32.dll
 ms.assetid: 38c0e049-2f9f-43bc-8bf2-1b7becf16e66
-ms.openlocfilehash: f6744441c051d65bd24f2db888f9bc8d71e66cedcf50c097094beee8ae5a96a3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a8b9309e7bd1c8cbcc05360c076db085d0f8b991
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119715374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579587"
 ---
 # <a name="folderitem-object"></a>Объект FolderItem
 
@@ -46,13 +46,13 @@ ms.locfileid: "119715374"
 
  
 
-### <a name="properties"></a>Свойства
+### <a name="properties"></a>Элемент Property
 
 Объект **FolderItem** имеет следующие свойства.
 
 
 
-| Свойство                                                   | Тип доступа           | Описание                                                                                                                                                                                                        |
+| Свойство.                                                   | Тип доступа           | Описание                                                                                                                                                                                                        |
 |:-----------------------------------------------------------|:----------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**Приложение**](folderitem-application.md)<br/>   | Только для чтения<br/>  | Содержит объект [**приложения**](folderitem-application.md) для элемента папки.<br/>                                                                                                                   |
 | [**GetFolder**](folderitem-getfolder.md)<br/>       | Только для чтения<br/>  | Содержит объект [**папки**](folder.md) элемента, если элемент является папкой.<br/>                                                                                                                           |
@@ -62,7 +62,7 @@ ms.locfileid: "119715374"
 | [**IsFolder**](folderitem-isfolder.md)<br/>         | Только для чтения<br/>  | Указывает, является ли элемент папкой.<br/>                                                                                                                                                                      |
 | [**Ссылка**](folderitem-islink.md)<br/>             | Только для чтения<br/>  | Указывает, является ли элемент ярлыком.<br/>                                                                                                                                                               |
 | [**ModifyDate**](folderitem-modifydate.md)<br/>     | Чтение/запись<br/> | Задает или возвращает дату и время последнего изменения файла. [**ModifyDate**](folderitem-modifydate.md) можно использовать для получения даты и времени последнего изменения папки, но не может установить ее.<br/> |
-| [**Имя**](folderitem-name.md)<br/>                 | Чтение/запись<br/> | Возвращает или задает имя элемента.<br/>                                                                                                                                                                           |
+| [**Безымян**](folderitem-name.md)<br/>                 | Чтение/запись<br/> | Возвращает или задает имя элемента.<br/>                                                                                                                                                                           |
 | [**Parent**](folderitem-parent.md)<br/>             | Только для чтения<br/>  | Возвращает объект, представляющий родительский элемент для элемента.<br/>                                                                                                                                                  |
 | [**Путь**](folderitem-path.md)<br/>                 | Только для чтения<br/>  | Содержит полный путь и имя элемента.<br/>                                                                                                                                                                 |
 | [**Размер**](folderitem-size.md)<br/>                 | Только для чтения<br/>  | Содержит размер элемента.<br/>                                                                                                                                                                               |
@@ -72,7 +72,7 @@ ms.locfileid: "119715374"
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

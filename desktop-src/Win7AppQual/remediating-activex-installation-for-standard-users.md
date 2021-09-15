@@ -4,12 +4,12 @@ ms.assetid: 4199521A-58E6-4475-9B95-A724AB52969A
 title: устранение проблем с совместимостью ActiveX установки для обычных пользователей
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: d31dbcf8dfddd7e35a8a446f4b73dd1e5324cbe4695590511fa1cb220700b2c6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e88b26ebd0c6e4887a8a304aeab725b176ee04a0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118994774"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580687"
 ---
 # <a name="fixing-activex-installation-compatibility-issues-for-standard-users"></a>устранение проблем с совместимостью ActiveX установки для обычных пользователей
 

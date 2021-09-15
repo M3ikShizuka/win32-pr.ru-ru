@@ -4,12 +4,12 @@ ms.assetid: d2d5825e-02a5-44b8-8615-55b7259d24ba
 title: Сообщение WM_NCCALCSIZE (Winuser. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6f0a73b469a920bcba79cc19670a7b9536c1bac9e0b0ffcab7ddf5930b984dae
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4b7d63fea3ad0a80bba686d8d86aa5354f0bb45b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118200080"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574338"
 ---
 # <a name="wm_nccalcsize-message"></a>\_Сообщение НККАЛКСИЗЕ WM
 
@@ -73,7 +73,7 @@ ms.locfileid: "118200080"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Окно может быть перерисовано в зависимости от того, задан ли стиль класса [CS \_ ХРЕДРАВ](about-window-classes.md) или CS \_ вредрав. Это обратно совместимая по умолчанию обработка этого сообщения с помощью функции [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) (в дополнение к обычным вычислениям клиентского прямоугольника, описанным в предыдущей таблице).
 
@@ -112,7 +112,7 @@ ms.locfileid: "118200080"
 [**\_Параметры нккалксизе**](/windows/win32/api/winuser/ns-winuser-nccalcsize_params)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Windows](windows.md)

@@ -7,12 +7,12 @@ keywords:
 - программное пространство виртуального адресного пространства 64-разрядное Windows
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: cb2e673befb66c45501558effb37f3d04ee1a99199010f8cca89abb2cb31c6d1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 91e4aa6eb67ebf931d1152b3a1101df2757e899b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118113374"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581299"
 ---
 # <a name="virtual-address-space-programming-guide-for-64-bit-windows"></a>Виртуальное адресное пространство (руководством по программированию для 64-разрядных Windows)
 

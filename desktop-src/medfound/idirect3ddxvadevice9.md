@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - dxva.h
-ms.openlocfilehash: c210492de77daffe6f67056ccc888aff49e950a16f0440010f46a2c5136a0d60
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 192f47b8161893f9517bc976452eb8836da4bb53
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119958224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127581062"
 ---
 # <a name="idirect3ddxvadevice9-interface"></a>Интерфейс IDirect3DDXVADevice9
 
@@ -40,7 +40,7 @@ ms.locfileid: "119958224"
 |:--------------------------------------------------------|:----------------------------------------------------------------------|
 | [**бегинфраме**](idirect3ddxvadevice9-beginframe.md)   | Начинает обработку для создания декодированного изображения.<br/>         |
 | [**ендфраме**](idirect3ddxvadevice9-endframe.md)       | Завершает обработку для создания декодированного изображения.<br/>           |
-| [**Работать**](idirect3ddxvadevice9-execute.md)         | Выполняет операцию декодирования ДКСВА. <br/>                       |
+| [**Execute**](idirect3ddxvadevice9-execute.md)         | Выполняет операцию декодирования ДКСВА. <br/>                       |
 | [**QueryStatus**](idirect3ddxvadevice9-querystatus.md) | Запрашивает состояние чтения/записи для области декодирования ДКСВА. <br/> |
 
 

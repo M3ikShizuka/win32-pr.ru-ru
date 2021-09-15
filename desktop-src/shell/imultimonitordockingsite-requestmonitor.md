@@ -12,12 +12,12 @@ api_type:
 - COM
 api_location: ''
 ms.assetid: 9aa6eb20-de39-41f7-a17e-183f4088f972
-ms.openlocfilehash: 9e5eeb2b99455d81bae36f1c5f26ed38126122bb58a5b8964a47cfb205f71ce7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7f219e5fd62fb4f85fd206501e6a53ac3927195a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119942904"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579562"
 ---
 # <a name="imultimonitordockingsiterequestmonitor-method"></a>Метод Имултимонитордоккингсите:: Рекуестмонитор
 
@@ -63,7 +63,7 @@ HRESULT RequestMonitor(
 
 Если этот метод завершается успешно, возвращается значение **S \_ ОК**. В противном случае возвращается код ошибки **HRESULT** .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

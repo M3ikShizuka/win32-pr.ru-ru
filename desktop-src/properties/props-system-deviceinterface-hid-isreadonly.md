@@ -4,12 +4,12 @@ ms.assetid: cfac4094-94ee-47db-ba0d-cfb51a6d91a1
 title: System. Девицеинтерфаце. HID. IsReadOnly
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 38c2be1f6b4b152936ae54ef1135909e128059868d55776267fe939e79ef3d63
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e1aa4cc3f49001cd827a88acd0a4761beeb38f30
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118728745"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574630"
 ---
 # <a name="systemdeviceinterfacehidisreadonly"></a>System. Девицеинтерфаце. HID. IsReadOnly
 
@@ -31,7 +31,7 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

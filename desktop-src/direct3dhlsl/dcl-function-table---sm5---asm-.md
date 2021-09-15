@@ -4,12 +4,12 @@ description: Объявите таблицу функций.
 ms.assetid: 3693A03F-5E4B-40E8-B436-2FE3462C8DB8
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 549653ee7316a664b628d5cdc692c091bdf042ad24e89b983c0fd3aac8a67ba8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0710f53171ad2a86097dca96afb2756b1b067fef
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119490894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127573954"
 ---
 # <a name="dcl_function_table-sm5---asm"></a>\_Таблица функций дкл \_ (SM5-ASM)
 
@@ -34,7 +34,7 @@ ms.locfileid: "119490894"
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Эта функция объявляет таблицу функций как набор частей тела функции, объявленных ранее.
 
@@ -48,7 +48,7 @@ ms.locfileid: "119490894"
 
 
 
-| Вершина | Поверхности | Домен | Геометрия | Пиксель | Вычисления |
+| Вершина | Поверхности | Домен | Geometry | Пиксель | Вычисления |
 |--------|------|--------|----------|-------|---------|
 | X      | X    | X      | X        | X     | X       |
 
@@ -64,7 +64,7 @@ ms.locfileid: "119490894"
 
 | Модель шейдера                                              | Поддерживается |
 |-----------------------------------------------------------|-----------|
-| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | Да       |
+| [Модель шейдера 5](d3d11-graphics-reference-sm5.md)        | да       |
 | [Модель шейдера 4,1](dx-graphics-hlsl-sm4.md)              | Нет        |
 | [Модель шейдера 4](dx-graphics-hlsl-sm4.md)                | Нет        |
 | [Модель шейдера 3 (DirectX HLSL)](dx-graphics-hlsl-sm3.md) | Нет        |
@@ -75,7 +75,7 @@ ms.locfileid: "119490894"
 
  
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

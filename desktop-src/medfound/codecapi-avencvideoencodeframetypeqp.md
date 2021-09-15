@@ -4,12 +4,12 @@ ms.assetid: 6331033F-7EEB-41B3-B166-29686D4AADB6
 title: Свойство CODECAPI_AVEncVideoEncodeFrameTypeQP (Кодекапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 7e9ebd4a25f3779ce1c721eb3cb1188b487be4d313ae5dbeb02dd41e494f4c17
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 76e68e0cb6cbdc076dbf523f3ae9dfd7b5870f47
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118743865"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574962"
 ---
 # <a name="codecapi_avencvideoencodeframetypeqp-property"></a>КОДЕКАПИ \_ авенквидеоенкодефраметипекп, свойство
 
@@ -23,7 +23,7 @@ ms.locfileid: "118743865"
 
 **КОДЕКАПИ \_ авенквидеоенкодефраметипекп**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для кодировщиков, поддерживающих настройку параметра дискретизация (QP) для различных типов кадров (I, P, B), они должны предоставлять этот API в дополнение к [кодекапи \_ авенквидеоенкодекп](codecapi-avencvideoencodeqp.md). Если кодировщик поддерживает только один компонент QP для всех типов кадров, он должен поддерживать только КОДЕКАПИ \_ авенквидеоенкодекп.
 
@@ -48,7 +48,7 @@ ms.locfileid: "118743865"
 
 [Кодекапи \_ Авенквидеомакскп](codecapi-avencvideomaxqp.md) и [кодекапи \_ авенквидеоминкп](codecapi-avencvideominqp.md) должны использоваться для определения и ограничения диапазона QP для QPs всех типов изображений, I, P и B.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -56,7 +56,7 @@ ms.locfileid: "118743865"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8.1 \[ приложения UWP для классических приложений \|\]<br/>                                   |
 | Минимальная версия сервера<br/> | Windows Server 2012 Приложения универсального \[ приложения UWP для настольных приложений \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Кодекапи. h</dt> </dl> |
 
 
 

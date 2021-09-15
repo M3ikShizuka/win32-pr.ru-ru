@@ -4,12 +4,12 @@ ms.assetid: a20c2e6c-e9d9-438f-a57a-e3080587c11c
 title: Настройка диспетчера учетных данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 3982d3f99cc0d3eb4aab2a0261f0e6b81cdc8a5abb408fc97834950b82b4206f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0c98d9d9572438a63f93f916a0084f8a33a7bca5
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118057948"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127574794"
 ---
 # <a name="setting-a-credential-manager"></a>Настройка диспетчера учетных данных
 

@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - mfmediaengine.h
-ms.openlocfilehash: 29937a939dd8d087e1a70224950ddd8d14eea8989127dc9f33c2747468db4b5d
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9018d76ce13bf441ea98134eb751f9e472f6bca8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118062973"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127580438"
 ---
 # <a name="imfmediasourceextensionsetendofstream-method"></a>Метод Имфмедиасаурцеекстенсион:: Сетендофстреам
 
@@ -62,7 +62,7 @@ HRESULT SetEndOfStream(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

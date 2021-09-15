@@ -4,12 +4,12 @@ ms.assetid: dc532791-39e1-4acb-9e62-21d8f25be870
 title: Атрибут MF_MT_AM_FORMAT_TYPE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eff59e148f7532cc07e47acf033de91b5eaeb8969f0c39376850738fd54e758e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 18a8faf88128075e5c5b51c1b5ace39329d4e1fe
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973633"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127579895"
 ---
 # <a name="mf_mt_am_format_type-attribute"></a>MF \_ MT \_ , \_ Формат: \_ атрибут типа
 
@@ -29,7 +29,7 @@ ms.locfileid: "118973633"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118973633"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
