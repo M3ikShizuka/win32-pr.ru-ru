@@ -5,11 +5,11 @@ title: System. photo. Експосуребиасденоминатор
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 35dc4e9eed7118f4370bc618471e6ffe419089d3
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105692994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460659"
 ---
 # <a name="systemphotoexposurebiasdenominator"></a>System. photo. Експосуребиасденоминатор
 
@@ -30,11 +30,11 @@ propertyDescription
       type = Int32
 ```
 
-## <a name="remarks"></a>Комментарии
+## <a name="remarks"></a>Remarks
 
 Значения PKEY определены в списке PKEY. h.
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

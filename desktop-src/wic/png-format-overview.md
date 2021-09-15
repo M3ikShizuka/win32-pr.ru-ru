@@ -4,12 +4,12 @@ ms.assetid: 703217EA-70C8-4F86-B8DF-95468C78C8DA
 title: Общие сведения о формате PNG
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 4f3d74282f8c14fd94b3661430402a808b04ceb9cf0a061a1648f7a912af5636
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4bb00b7530a22fcdbcce112053431ace5e553383
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119086758"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458495"
 ---
 # <a name="png-format-overview"></a>Общие сведения о формате PNG
 

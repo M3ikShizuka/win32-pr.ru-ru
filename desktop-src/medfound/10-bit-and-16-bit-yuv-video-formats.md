@@ -4,12 +4,12 @@ ms.assetid: fcaaaa6f-f886-4f6e-9c3c-e513ccc90d37
 title: 10-битные и 16-битные видеоформаты YUV
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 09652929257c071bd735e1d6c7ec36e1767d904da7d2364ac3e30c61c81f342f
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6bbc357653848cd51ce6f56ebd8a1da3e5f60403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118065744"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459465"
 ---
 # <a name="10-bit-and-16-bit-yuv-video-formats"></a>10-битные и 16-битные видеоформаты YUV
 

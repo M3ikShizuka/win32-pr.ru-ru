@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 287acd4365119af0f1e902b20070837c243cc10740bbf6b4e5b76590ea8a7a76
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 33d7c5275d6ec4146be288d287ed94e34c4d179b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119586244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458963"
 ---
 # <a name="drm_lasignaturecert"></a>\_ЛАСИГНАТУРЕЦЕРТ DRM
 
@@ -31,11 +31,11 @@ g \_ всзвмдрм \_ ласигнатурецерт
 
 **\_Строка типа \_ ВМТ**
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Это свойство можно задать с помощью метода [**ивмдрмвритер:: сетдрматтрибуте**](/previous-versions/windows/desktop/api/Wmsdkidl/nf-wmsdkidl-iwmdrmwriter-setdrmattribute) . Он недоступен для объекта Reader.
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

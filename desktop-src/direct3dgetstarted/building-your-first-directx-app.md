@@ -6,12 +6,12 @@ keywords:
 - Приложение DirectX, начало работы
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 73d134b356dc2033f8f9d4a943e7405f0fe41111896a07ce4c3ffd62bbf3cab5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: da5e3afed57244789c0e3e06ab71ec39e581305c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118288755"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127345938"
 ---
 # <a name="create-your-first-windows-app-using-directx"></a>создание первого Windows приложения с помощью DirectX
 

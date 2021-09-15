@@ -4,12 +4,12 @@ ms.assetid: e29d0893-8561-4a8c-99e2-168186becd82
 title: Атрибут MF_MT_IMAGE_LOSS_TOLERANT (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5fdf5b2633586cf4b73279a636119ac4770a5321d6bc22b5b961fa85881019b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: eea33f9f5f49725d164bd26ba21b9602bffef2b2
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119035172"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460932"
 ---
 # <a name="mf_mt_image_loss_tolerant-attribute"></a>\_ \_ \_ \_ Атрибут нечувствительного к утере образа MF
 

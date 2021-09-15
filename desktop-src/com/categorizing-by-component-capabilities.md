@@ -5,11 +5,11 @@ ms.assetid: 522af5d7-ba7b-4127-9cdb-48ef4d0f8e65
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: ff44e03e9eae0226ac57279c37d4a5dfd32fc6bd
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369681"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459232"
 ---
 # <a name="categorizing-by-component-capabilities"></a>Категоризация по возможностям компонентов
 
@@ -35,7 +35,7 @@ HKEY_CLASSES_ROOT\Component Categories\{40FC6ED3-2438-11cf-A3DB-080036F12502}
 
 С помощью этих сведений контейнер может перечислить элементы управления, установленные в системе, и отобразить только те элементы управления, которые поддерживают функции, необходимые контейнеру. Использование категорий компонентов предоставляет способ классификации компонентов по реализованным функциональным возможностям компонента.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

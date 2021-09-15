@@ -4,12 +4,12 @@ ms.assetid: 70FFDD44-9FDE-4D86-AD65-60019AC4A2BC
 title: Атрибут MF_MEDIA_ENGINE_VIDEO_OUTPUT_FORMAT (Мфмедиаенгине. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: eaa0dab3c3ea1c9ce23d767458df0b68a9b3c787f80ca1af786061536343a356
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 004025da1ad5258e5b04a3afba4a359f50f7444c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973733"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462130"
 ---
 # <a name="mf_media_engine_video_output_format-attribute"></a>\_ \_ \_ \_ Атрибут формата вывода видео для ОБРАБОТЧИКа передачи мультимедиа MF \_
 

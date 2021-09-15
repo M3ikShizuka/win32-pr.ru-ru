@@ -13,12 +13,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 5ef163c8473c049d3bbe6fbfa8b36876765bf07df0b26cd1d68d3f92c5d315f4
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 9ff12fe39f2ea54c90530133263bceb157d79dcf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118972133"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460823"
 ---
 # <a name="acceltableentry-structure"></a>Структура АКЦЕЛТАБЛИНТРИ
 
@@ -38,7 +38,7 @@ typedef struct {
 
 
 
-## <a name="members"></a>Члены
+## <a name="members"></a>Участники
 
 <dl> <dt>
 
@@ -107,7 +107,7 @@ typedef struct {
 
 Количество элементов в таблице можно вычислить, если длина ресурса делится на восемь. Затем приложение может случайно получить доступ к отдельным записям фиксированной длины.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -118,17 +118,17 @@ typedef struct {
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**креатеакцелератортабле**](/windows/desktop/api/Winuser/nf-winuser-createacceleratortablea)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ресурсы](resources.md)

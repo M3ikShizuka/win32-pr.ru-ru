@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: fd3cccc47d16f272a28fb732641a9fca743003f716e79a340df8de5d55e9ce6a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: df9a55f9d5c6724c428b75a4171c2e8b7ca13d18
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120098734"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270403"
 ---
 # <a name="iwmpnetworkbandwidth-property"></a>Свойство Ивмпнетворк:: пропускная способность
 
@@ -48,7 +48,7 @@ Public ReadOnly Property bandWidth As System.Int32
 
 Объект **System. Int32** , который является пропускной способностью.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значение, полученное с помощью **аксвиндовсмедиаплайер. URL** , будет равно нулю, если URL-адрес не задан. Это свойство допустимо только для потокового мультимедиа.
 
@@ -114,7 +114,7 @@ End Sub
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -126,7 +126,7 @@ End Sub
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

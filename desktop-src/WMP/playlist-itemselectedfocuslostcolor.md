@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 94bf7099bfccbc624f565377ce149b894c8edaad12e6c9112c7b26a04d96988a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c6a5099c3f76a1a7be93a5341e461a06c5267c14
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120002954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458406"
 ---
 # <a name="playlistitemselectedfocuslostcolor"></a>Список воспроизведения. Итемселектедфокуслостколор
 
@@ -31,7 +31,7 @@ ms.locfileid: "120002954"
 
 Этот атрибут является **строкой** для чтения и записи, представляющей цвет. значение по умолчанию — цвет текста кнопки Windows.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "120002954"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

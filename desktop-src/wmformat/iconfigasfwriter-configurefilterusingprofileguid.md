@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: f427dc67695ebaca3e3e7502f2f1961b738a8f775ace394948ef445f3ad9a64e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a1521738af4411baa2c11f3d20722e09e2d22a83
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118703090"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458740"
 ---
 # <a name="iconfigasfwriterconfigurefilterusingprofileguid-method"></a>Метод Иконфигасфвритер:: Конфигурефилтерусингпрофилегуид
 

@@ -6,12 +6,12 @@ keywords:
 - Удаленный вызов процедур RPC, описание, ввод данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ae47746119f4c1b22bc066075ed484ef836fa6a68ee103e06975018a6ae49012
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ea859e2d5c160048d79e3c371b47af2bc55e0a65
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118924850"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461448"
 ---
 # <a name="strong-typing"></a>Строгая типизация
 

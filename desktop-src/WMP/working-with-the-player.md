@@ -10,12 +10,12 @@ keywords:
 - JScript файлы для обложек, атрибут player
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 77098f161244488d5097d2d022f105628a43ba50a40218da01295d99f2de0cd7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0d47ea74b4c91f92ef33106e40e9896b98de6a34
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118566986"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459580"
 ---
 # <a name="working-with-the-player"></a>Работа с проигрывателем
 
@@ -31,7 +31,7 @@ player.Controls.Stop()
 
 глобальный атрибут **игрока** — это ключ к доступу к элементу управления проигрыватель Windows Media через скрипты обложек. с помощью этого атрибута все объекты элемента управления проигрыватель Windows Media становятся доступными для изменения во время выполнения через их свойства и методы. Кроме того, доступен элемент **Player** , позволяющий задавать обработчики событий и атрибут **URL-адреса** во время разработки.
 
-## <a name="related-topics"></a>Связанные темы
+## <a name="related-topics"></a>Связанные разделы
 
 <dl> <dt>
 

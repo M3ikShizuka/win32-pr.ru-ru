@@ -4,12 +4,12 @@ ms.assetid: 509c89ff-0c73-4e57-9c39-400522f2086e
 title: Идентификаторы интерфейса CNG (BCrypt. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f9ebadf561df916eedde1175a39911da55628b113022378cee9e74b61d021792
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e4f75de82e198e0471b48175a080012b9b40eed9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118908275"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271219"
 ---
 # <a name="cng-interface-identifiers"></a>Идентификаторы интерфейса CNG
 
@@ -31,7 +31,7 @@ ms.locfileid: "118908275"
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -39,7 +39,7 @@ ms.locfileid: "118908275"
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                                                                                      |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                                                                                |
-| Header<br/>                   | <dl> <dt>BCrypt. h; </dt> <dt>NCrypt. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>BCrypt. h; </dt> <dt>NCrypt. h</dt> </dl> |
 
 
 

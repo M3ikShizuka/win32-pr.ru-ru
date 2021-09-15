@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 6105340003c6240b49acec4699fa7b229d11963116367ab0fa0c069211b6fd1e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 7e74cc5aa15c1014056075e876efca296556066d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120035874"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271907"
 ---
 # <a name="rtmenumerategetnextroute-function"></a>Функция Ртменумератежетнекстрауте
 
@@ -75,11 +75,11 @@ DWORD RtmEnumerateGetNextRoute(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Хотя маршруты не возвращаются в каком-либо определенном порядке, каждый маршрут в перечислении возвращается только один раз.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -87,14 +87,14 @@ DWORD RtmEnumerateGetNextRoute(
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                          |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                               |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                     |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                     |
 | Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>RTM. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Rtm.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

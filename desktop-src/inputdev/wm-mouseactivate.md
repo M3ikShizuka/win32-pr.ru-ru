@@ -14,12 +14,12 @@ api_type:
 - HeaderDef
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 15116c36ac9efb3e764564fbe426f8763508fd63759e02bd4bb9160d5815fb11
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 5ba74141f8d519541d1e63327179fff2f27ad403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119451514"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461050"
 ---
 # <a name="wm_mouseactivate-message"></a>\_Сообщение МАУСЕАКТИВАТЕ WM
 
@@ -75,7 +75,7 @@ ms.locfileid: "119451514"
 
 Функция [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca) передает сообщение в родительское окно дочернего окна перед любой обработкой. Родительское окно определяет, следует ли активировать дочернее окно. При активации дочернего окна родительское окно должно возвращать **MA \_** **\_ ноактиватеандеат или MA** , чтобы система больше не обрабатывал сообщение.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -91,7 +91,7 @@ ms.locfileid: "119451514"
 
 <dl> <dt>
 
-**Ссылки**
+**Ссылка**
 </dt> <dt>
 
 [**дефвиндовпрок**](/windows/desktop/api/winuser/nf-winuser-defwindowproca)
@@ -106,7 +106,7 @@ ms.locfileid: "119451514"
 [**WM \_ нчиттест**](wm-nchittest.md)
 </dt> <dt>
 
-**Зрения**
+**Основные понятия**
 </dt> <dt>
 
 [Ввод с помощью мыши](mouse-input.md)

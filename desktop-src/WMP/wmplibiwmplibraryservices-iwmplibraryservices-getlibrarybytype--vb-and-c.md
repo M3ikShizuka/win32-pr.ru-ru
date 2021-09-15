@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f83d74c8c03f8b08936c3693c77e211cd87a8b42c2d020c26ee5133406a2a042
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 4d57fcc71f912fe1ee896ec893ea8f556eeb2277
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117746212"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462519"
 ---
 # <a name="iwmplibraryservicesgetlibrarybytype-method"></a>Метод Ивмплибрарисервицес:: Жетлибрарибитипе
 

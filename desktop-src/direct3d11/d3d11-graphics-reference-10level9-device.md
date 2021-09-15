@@ -5,11 +5,11 @@ ms.assetid: c3bc32a9-8d97-430b-be6a-b4935d7ac56c
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: f467e47d7ba623f1c28111cf3bf7cc6a07da8317
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122475790"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346823"
 ---
 # <a name="10level9-id3d11device-methods"></a>10Level9 ID3D11Device методы
 

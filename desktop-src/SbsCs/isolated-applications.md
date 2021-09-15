@@ -4,12 +4,12 @@ ms.assetid: 66c65b92-7c49-4932-b8c5-91b20fb0a038
 title: Изолированные приложения
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 78abe13dc452c81b2a763706036e1f59400f31ccd138c95a9ab241481898aee6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b10c1b3f175ec05751bfc84e3826b19c9c9db01f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119142127"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271504"
 ---
 # <a name="isolated-applications"></a>Изолированные приложения
 

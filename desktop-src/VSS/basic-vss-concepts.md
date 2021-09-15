@@ -5,11 +5,11 @@ title: Основные понятия VSS
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 9af77c20365e25b2b633d14ae391ebd82830a631
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "105693699"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461355"
 ---
 # <a name="basic-vss-concepts"></a>Основные понятия VSS
 
@@ -17,7 +17,7 @@ ms.locfileid: "105693699"
 
 -   [служба теневого копирования томов](the-volume-shadow-copy-service.md)
 -   [Теневые копии и наборы теневых копий](shadow-copies-and-shadow-copy-sets.md)
--   [Поставщики](providers.md)
+-   [Поставщик](providers.md)
 -   [Инициаторы запроса](requestors.md)
 -   [Writers](writers.md)
 

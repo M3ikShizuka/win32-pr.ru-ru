@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55101793
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: cbffdd4bb2e75610bf54bb4b025094c6ae6decde21643be1ddcdd6b590ba9760
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 802863334e09d056ed0d7599613dbd9208385c91
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118081335"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458566"
 ---
 # <a name="esentillegaloperationexception-methods"></a>Методы EsentIllegalOperationException
 
@@ -78,9 +78,9 @@ ms.locfileid: "118081335"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентиллегалоператионексцептион](./esentillegaloperationexception-class.md)
 

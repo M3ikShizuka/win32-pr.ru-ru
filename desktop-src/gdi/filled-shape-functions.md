@@ -5,11 +5,11 @@ title: Заполненные функции фигур
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 4002acb3602b24a116195bc0d6d90a7ee60a741e
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104984964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462286"
 ---
 # <a name="filled-shape-functions"></a>Заполненные функции фигур
 
@@ -24,10 +24,10 @@ ms.locfileid: "104984964"
 | [**филлрект**](/windows/desktop/api/Winuser/nf-winuser-fillrect)       | Заполняет прямоугольник с помощью кисти.                                |
 | [**фрамерект**](/windows/desktop/api/Winuser/nf-winuser-framerect)     | Рисование границы вокруг прямоугольника с помощью кисти.                |
 | [**инвертрект**](/windows/desktop/api/Winuser/nf-winuser-invertrect)   | Инвертирует значения цвета пикселов в прямоугольнике.          |
-| [**Круговая**](/windows/desktop/api/Wingdi/nf-wingdi-pie)                 | Рисует сектор с круговой фигурой, ограниченный эллипсом и двумя радиальными. |
-| [**Многоугольник**](/windows/desktop/api/Wingdi/nf-wingdi-polygon)         | Рисование многоугольника.                                                |
+| [**Pie**](/windows/desktop/api/Wingdi/nf-wingdi-pie)                 | Рисует сектор с круговой фигурой, ограниченный эллипсом и двумя радиальными. |
+| [**Фигуры**](/windows/desktop/api/Wingdi/nf-wingdi-polygon)         | Рисование многоугольника.                                                |
 | [**Многоугольник**](/windows/desktop/api/Wingdi/nf-wingdi-polypolygon) | Рисует набор замкнутых многоугольников.                              |
-| [**Углами**](/windows/desktop/api/Wingdi/nf-wingdi-rectangle)     | Рисует прямоугольник.                                              |
+| [**Прямоугольник**](/windows/desktop/api/Wingdi/nf-wingdi-rectangle)     | Рисует прямоугольник.                                              |
 | [**раундрект**](/windows/desktop/api/Wingdi/nf-wingdi-roundrect)     | Рисование прямоугольника со скругленными углами.                         |
 
 

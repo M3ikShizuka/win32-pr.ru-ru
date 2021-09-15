@@ -4,12 +4,12 @@ description: Текст включает в себя любой текст, ко
 ms.assetid: C0C72078-E951-4DC1-BA55-62AF13E1BA37
 ms.topic: article
 ms.date: 10/20/2020
-ms.openlocfilehash: bd37be6cff5a9e95f6bbdc254f9a0df67a5ffbd298135b1d9ab4d238c3796329
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 52738845b93edee9af99f9ea9c110b1542cef42f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119029602"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459019"
 ---
 # <a name="text-design-basics"></a>Текст (основы разработки)
 

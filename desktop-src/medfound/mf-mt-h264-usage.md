@@ -4,12 +4,12 @@ ms.assetid: 05158F47-CE01-4C99-8FFA-6BBD4F829B59
 title: Атрибут MF_MT_H264_USAGE (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 24bbe8668cf7e6d077586d8fc7e7eaaf4ec8087ad231014499e08ec0479f07e6
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3ad5239c81e490f5069b8a6f95d4a91c1f150f37
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117877247"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460934"
 ---
 # <a name="mf_mt_h264_usage-attribute"></a>\_ \_ Атрибут использования H264 Single bitrate MF MT \_
 
@@ -33,7 +33,7 @@ ms.locfileid: "117877247"
 
 Этот атрибут применяется к типам носителей для потоков H. 264, переданных по USB. Значение соответствует полю **бусаже** в элементе управления зонда/commit УВК 1,2 H. 264.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -45,7 +45,7 @@ ms.locfileid: "117877247"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

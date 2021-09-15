@@ -12,18 +12,18 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5c42cf1e6a51aac56b5bd610b9dfe10d448ada66f9dc4fbfdbb6bb6b1d32a351
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e6e66d9c2598e897655ea4712b624852a14c2fa0
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119053882"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458670"
 ---
 # <a name="wmalbumtitle-attribute"></a>Атрибут WM/Албумтитле
 
 Атрибут **WM/албумтитле** является заголовком альбома, в котором первоначально было выпущено содержимое.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот атрибут хранится как в библиотеке (или в кэше), так и в файле цифрового носителя.
 
@@ -31,7 +31,7 @@ ms.locfileid: "119053882"
 
 константа пакета SDK Windows Media Format для этого атрибута — g \_ всзвмалбумтитле.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "119053882"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

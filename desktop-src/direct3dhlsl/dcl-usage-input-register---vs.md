@@ -9,12 +9,12 @@ topic_type:
 api_name: ''
 api_type: ''
 api_location: ''
-ms.openlocfilehash: f94a9fb8e46da811652b334824779d59153c87616f7f9815dbebd8224870ddec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ae4b024bbce0636127b0ed0fc5f42bc466e1b7fd
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118792826"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459207"
 ---
 # <a name="dcl_usage-input-sm1-sm2-sm3---vs-asm"></a>\_входные данные об использовании дкл (SM1, SM2, SM3-VS ASM)
 
@@ -34,7 +34,7 @@ ms.locfileid: "118792826"
 -   \_индекс использования — это необязательный целочисленный индекс от 0 до 15. Он изменяет данные об использовании. Индекс соответствует индексу использования в объявлении вершины. См. [Описание вершины (Direct3D 9)](/windows/desktop/direct3d9/vertex-declaration). Индекс добавляется к значению использования (дкл \_ Usage) без пробелов. Если он не указан, предполагается, что он равен 0.
 -   v \# является [входным регистром](dx9-graphics-reference-asm-vs-registers-input.md).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 
 

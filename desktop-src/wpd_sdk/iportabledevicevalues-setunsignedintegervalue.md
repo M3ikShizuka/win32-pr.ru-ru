@@ -14,12 +14,12 @@ api_type:
 api_location:
 - PortableDeviceGUIDs.lib
 - PortableDeviceGUIDs.dll
-ms.openlocfilehash: 9c58569554cf9170788524bdcb233bf42b3318f1e954050bb713711c93337543
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7dc237e5cdba120a08899035dc20f6fb6b2b63f6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119928464"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459302"
 ---
 # <a name="iportabledevicevaluessetunsignedintegervalue-method"></a>Метод Ипортабледевицевалуес:: Сетунсигнединтежервалуе
 
@@ -69,7 +69,7 @@ HRESULT SetUnsignedIntegerValue(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Если существующее значение имеет тот же ключ, что и параметр *Key* , он перезаписывает существующее значение без предупреждения.
 

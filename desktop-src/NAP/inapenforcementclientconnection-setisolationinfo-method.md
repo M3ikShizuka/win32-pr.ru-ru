@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 042f0d7f6f6b36172b33cd681f2c605ff0f83b0eec987a71ee2643bf510f02ee
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1c1cfd7ad227fec6942e0660769f52b3d4f12201
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118133986"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461764"
 ---
 # <a name="inapenforcementclientconnectionsetisolationinfo-method"></a>Метод Инапенфорцементклиентконнектион:: Сетисолатионинфо
 
@@ -74,7 +74,7 @@ HRESULT SetIsolationInfo(
 
 Эта информация задается Напажент после обработки Сохреспонсе и не может быть задана в принудительном применении.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -88,7 +88,7 @@ HRESULT SetIsolationInfo(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -25,11 +25,11 @@ api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
 ms.openlocfilehash: 3ad13e04674de60aa1c0f55cf4cd4570f8b7ddaa
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104072668"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462409"
 ---
 # <a name="apijetsetindexrange-method"></a>API. Жетсетиндексранже, метод
 

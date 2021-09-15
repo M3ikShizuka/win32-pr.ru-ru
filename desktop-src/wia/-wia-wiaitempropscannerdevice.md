@@ -48,11 +48,11 @@ api_type:
 api_location:
 - wiadef.h
 ms.openlocfilehash: d9e7afee9b5b639c21e52dc797e7ad42a6ee0dd0
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122627190"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459591"
 ---
 # <a name="scanner-device-property-constants"></a>Константы свойств устройства сканера
 
@@ -70,7 +70,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th >Константа/значение</th>
-<th >Описание:</th>
+<th >Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -97,7 +97,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Флаги</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -115,7 +115,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Флаги</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -149,7 +149,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Флаги</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -187,7 +187,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Флаги</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -227,7 +227,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Флаги</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -286,7 +286,7 @@ Windows аппаратные устройства для получения из
 <thead>
 <tr class="header">
 <th>Флаги</th>
-<th>Описание:</th>
+<th>Описание</th>
 </tr>
 </thead>
 <tbody>
@@ -838,7 +838,7 @@ WIA_IPS_YRES = 100</code></pre></td>
 <tr class="odd">
 <td ><span id="WIA_DPS_SCAN_AHEAD_PAGES"></span><span id="wia_dps_scan_ahead_pages"></span><dl> <dt><strong>WIA_DPS_SCAN_AHEAD_PAGES</strong></dt> <dt>сканнердевицесканахеадпажес</dt> </dl></td>
 <td ><p>Содержит значение, указывающее, будет ли сканер кэшировать страницы в буфере сканера перед их отправкой в приложение.</p>
-<p>Нулевое значение отключает сканирование, и страницы не просматриваются заранее. При обычной передаче данных в буферизованный элемент с упреждающим просмотром получает буферизованные страницы. Свойства WIA не могут быть изменены во время операции предварительного просмотра. Это свойство необязательно.</p>
+<p>Нулевое значение отключает сканирование, и страницы не просматриваются заранее. При обычной передаче данных в буферизованный элемент с упреждающим просмотром получает буферизованные страницы. Свойства WIA не могут быть изменены во время операции предварительного просмотра. Это необязательное свойство.</p>
 <p>Тип: <strong>VT_I4</strong>, доступ: чтение и запись, допустимые значения: <a href="-wia-property-attributes.md">WIA_PROP_RANGE</a> от нуля до максимального количества страниц, которое может храниться в податчике документов.</p></td>
 </tr>
 <tr class="even">

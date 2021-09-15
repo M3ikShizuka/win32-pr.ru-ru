@@ -5,11 +5,11 @@ title: О встроенных WiFi
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 4225c1b854b7466f8bb8b2d191be54c47c8f7fcb
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "103913064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461712"
 ---
 # <a name="about-native-wifi"></a>О встроенных WiFi
 
@@ -19,13 +19,13 @@ ms.locfileid: "103913064"
 
 -   [Сведения об архитектуре ACM](about-the-acm-architecture.md)
 -   [Сведения о встроенном API Wi-Fi](about-the-native-wifi-api.md)
--   [Встроенная поддержка интерфейса API WiFi в Windows XP](about-wireless-lan-api-for-windows-xp-service-pack-2.md)
+-   [встроенная поддержка интерфейса API Wifi в Windows XP](about-wireless-lan-api-for-windows-xp-service-pack-2.md)
 -   [Собственные разрешения API WiFi](native-wifi-api-permissions.md)
 -   [О функции Direct Wi-Fi](about-the-wi-fi-direct-api.md)
 -   [Сведения о беспроводном нерегламентированном API](about-the-wireless-ad-hoc-api.md)
 -   [Сведения о беспроводной размещенной сети](about-the-wireless-hosted-network.md)
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

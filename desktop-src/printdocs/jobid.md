@@ -4,12 +4,12 @@ ms.assetid: 138a0ae5-160d-46f2-91ae-596d8892351a
 title: JobID
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: f36f60bbf5091f0e2f6f2da95482c3bca7004fc6e7e70817814d1c47a191aa9a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2bfd17d068f34b56d45e4851c06b7ed1d9bd6fcc
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118971293"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460768"
 ---
 # <a name="jobid"></a>JobID
 
@@ -27,7 +27,7 @@ ms.locfileid: "118971293"
 
 | Имя | Значение |
 |----------------------------|---------------------|
-| Тип элемента <br/>   | Свойство<br/> |
+| Тип элемента <br/>   | Свойство.<br/> |
 | Префикс области <br/> | Задание<br/>      |
 | Примечания <br/>          | Нет<br/>     |
 

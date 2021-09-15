@@ -4,12 +4,12 @@ ms.assetid: 00e65718-885f-4e1f-9b06-66c7f5786851
 title: Атрибут MF_ACTIVATE_CUSTOM_VIDEO_MIXER_FLAGS (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: bd536328bf454a70b35376aca3b7c6a0cea9ec7e0e2408a05cd6d0e8da0854ca
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b17a0063b7ef4b6a1cbb5993ea2fb7af2a4a678
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119957094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462191"
 ---
 # <a name="mf_activate_custom_video_mixer_flags-attribute"></a>MF \_ активировать \_ Пользовательский \_ \_ \_ атрибут флагов микшера видео
 

@@ -5,11 +5,11 @@ title: Использование текста и шрифтов
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3f28ec157888dcf45b309237eb0f7eefff17808c
-ms.sourcegitcommit: 831e8f3db78ab820e1710cede244553c70e50500
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "104541434"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462246"
 ---
 # <a name="using-text-and-fonts"></a>Использование текста и шрифтов
 

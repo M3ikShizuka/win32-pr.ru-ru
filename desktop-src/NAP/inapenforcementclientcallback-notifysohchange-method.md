@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9011db09b698f886bd10ad19298a104668d038cc2bb11136b6e4ac58035e3425
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6b405bca5ae27a68eea780dfcb922d1f986f475c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118940138"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348591"
 ---
 # <a name="inapenforcementclientcallbacknotifysohchange-method"></a>Метод Инапенфорцементклиенткаллбакк:: Нотифисохчанже
 
@@ -60,7 +60,7 @@ HRESULT NotifySoHChange();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Завершение системного исправления — это событие изменения работоспособности системы. Это означает, что необходимо вызвать **нотифисохчанже** , когда уведомление [**Инапсистемхеалсаженткаллбакк:: жетфиксупинфо**](inapsystemhealthagentcallback-getfixupinfo-method.md) указывает на то, что клиент является фиксированным. При фиксировании клиента элемент **State** структуры [**фиксупинфо**](/windows/win32/api/naptypes/ns-naptypes-fixupinfo) , возвращаемый **жетфиксупинфо** , имеет значение **фиксупстатесукцесс**.
 
@@ -79,7 +79,7 @@ HRESULT NotifySoHChange();
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

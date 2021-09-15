@@ -4,12 +4,12 @@ description: начиная с Windows Server 2008 и Windows Vista, часть 
 ms.assetid: 7c56908e-f6d0-48dc-9ac1-73f888fb7b6c
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 998005ff6d46a768403c9c3a18ac14457139ee871fe135fb1306ad677e9e029a
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 510b1bc8d2ab77534d7f5dac587f287d5e7095af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120071684"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461251"
 ---
 # <a name="idn-support-in-wininet"></a>Поддержка IDN в WinINet
 

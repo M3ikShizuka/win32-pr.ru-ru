@@ -4,12 +4,12 @@ ms.assetid: 62fb3f0f-ab1f-4c61-8e7f-62908b947788
 title: Атрибут MF_TOPOLOGY_STATIC_PLAYBACK_OPTIMIZATIONS (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f01b22e5b7e972e9d1eb453f317e8db6a902e994e83d075cd791d9261aa6ed09
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: e6f9f7d884c49078ca02571f8ba141f9a1e13589
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117691246"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462077"
 ---
 # <a name="mf_topology_static_playback_optimizations-attribute"></a>\_ \_ \_ Атрибут статической оптимизации воспроизведения \_ топологии MF
 
@@ -99,7 +99,7 @@ done:
 
 
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -107,7 +107,7 @@ done:
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | только Windows 7 \[ настольных приложений\]<br/>                                         |
 | Минимальная версия сервера<br/> | Windows \[Только для настольных приложений сервера 2008 R2\]<br/>                            |
-| Header<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфидл. h</dt> </dl> |
 
 
 

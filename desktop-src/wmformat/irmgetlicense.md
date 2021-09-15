@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
-ms.openlocfilehash: 3ad5f74400fd35356967942403ae4f3c3024b6259a4ab7e62ffa544267a308b8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3aa63bc7b351aab0a02c36dc16cb3600e405b26f
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119585634"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458949"
 ---
 # <a name="irmgetlicense-interface"></a>Интерфейс Ирмжетлиценсе
 
@@ -31,7 +31,7 @@ ms.locfileid: "119585634"
 
 Интерфейс **ирмжетлиценсе** наследует от интерфейса [**IUnknown**](/windows/desktop/api/unknwn/nn-unknwn-iunknown) , но не содержит дополнительных элементов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -42,7 +42,7 @@ ms.locfileid: "119585634"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

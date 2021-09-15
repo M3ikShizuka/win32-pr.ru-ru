@@ -4,12 +4,12 @@ ms.assetid: 97b44a01-585b-434c-ad59-51c35e8a1ceb
 title: 'Метод Итсдп:: get_Name (Сдпблб. h)'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 930aaa1edcfb93f6a02a4ebe97acbbfcc1cfd42e8187d0ea14cf661c7ad7f66c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7b41d431a76f3d0bb2122847e8ee5c3a4dde3c1b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120012894"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270491"
 ---
 # <a name="itsdpget_name-method"></a>Метод Итсдп:: Get \_ Name
 
@@ -57,11 +57,11 @@ HRESULT get_Name(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение должно использовать [**сисфристринг**](/windows/win32/api/oleauto/nf-oleauto-sysfreestring) для освобождения памяти, выделенной для параметра *ппнаме* .
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -74,7 +74,7 @@ HRESULT get_Name(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

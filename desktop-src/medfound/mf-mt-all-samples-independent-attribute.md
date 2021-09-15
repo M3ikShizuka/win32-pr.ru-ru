@@ -4,12 +4,12 @@ ms.assetid: 40434f63-e191-45e1-b788-5f80fe7f49ae
 title: Атрибут MF_MT_ALL_SAMPLES_INDEPENDENT (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 1ada34232ccbc7eb30fc9a5bcb64e96542b0375140de426fae951f5e0317c9e1
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f82173e99a30e033b3d90f6cfec0dc2aa8b3af97
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120060754"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460952"
 ---
 # <a name="mf_mt_all_samples_independent-attribute"></a>MF \_ \_ все \_ примеры \_ независимых атрибутов
 
@@ -31,7 +31,7 @@ ms.locfileid: "120060754"
 
 Константа GUID для этого атрибута экспортируется из мфууид. lib.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ ms.locfileid: "120060754"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

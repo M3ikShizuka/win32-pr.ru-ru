@@ -4,12 +4,12 @@ ms.assetid: bc679f0e-17f6-455c-8a00-1d435538ef86
 title: Атрибут MF_PD_SAMI_STYLELIST (Мфидл. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: c7f57d418eb86c19d3aa2db12808dde810456c38ec6abd45fbece450b30f60f5
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ebb07dd1713faa81fd02bfe7a32c81398cddb736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117876177"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462095"
 ---
 # <a name="mf_pd_sami_stylelist-attribute"></a>\_ \_ Атрибут стилелист MF PD samid \_
 

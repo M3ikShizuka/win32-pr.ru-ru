@@ -16,12 +16,12 @@ api_type:
 - COM
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 444f022c2f4db57c1c62f1405b30625bf7fed291674255ed6287026c9451e825
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6911f839a26aae67fbc1e57494e5a75291721663
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119059012"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462573"
 ---
 # <a name="imsrdpclient3-interface"></a>Интерфейс IMsRdpClient3
 
@@ -39,7 +39,7 @@ ms.locfileid: "119059012"
 
 
 
-| Свойство                                                                | Тип доступа          | Описание                                                                                                                                                       |
+| Свойство.                                                                | Тип доступа          | Описание                                                                                                                                                       |
 |:------------------------------------------------------------------------|:---------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [**AdvancedSettings4**](imsrdpclient3-advancedsettings4.md)<br/> | Только для чтения<br/> | Указатель на интерфейс [**IMsRdpClientAdvancedSettings3**](imsrdpclientadvancedsettings3.md) , используемый для задания дополнительных параметров клиентского элемента управления.<br/> |
 

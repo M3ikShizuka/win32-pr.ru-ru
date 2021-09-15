@@ -14,11 +14,11 @@ api_type:
 api_location:
 - Mssign32.dll
 ms.openlocfilehash: 7eb5c19292b451b1a3d0265da4bb178eafcc6f00
-ms.sourcegitcommit: 9b5faa61c38b2d0c432b7f2dbee8c127b0e28a7e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122468561"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270835"
 ---
 # <a name="signertimestampex3-function"></a>Функция SignerTimeStampEx3
 
@@ -104,7 +104,7 @@ HRESULT WINAPI SignerTimeStampEx3(
 *псрекуест* \[ в необязательное\]
 </dt> <dd>
 
-Необязательный элемент. Адрес структуры [**\_ атрибутов шифрования**](/windows/desktop/api/Wincrypt/ns-wincrypt-crypt_attributes) , которая содержит дополнительные атрибуты, добавляемые в запрос метки времени.
+Необязательный параметр. Адрес структуры [**\_ атрибутов шифрования**](/windows/desktop/api/Wincrypt/ns-wincrypt-crypt_attributes) , которая содержит дополнительные атрибуты, добавляемые в запрос метки времени.
 
 Этот параметр является необязательным и может иметь **значение NULL** , если он не включен.
 
@@ -113,7 +113,7 @@ HRESULT WINAPI SignerTimeStampEx3(
 *псипдата* \[ в необязательное\]
 </dt> <dd>
 
-Необязательный элемент. 32-разрядное значение, передаваемое в качестве дополнительных данных в функции [*пакета интерфейса субъекта*](../secgloss/s-gly.md) (SIP). Формат и содержимое этого параметра определяется поставщиком SIP.
+Необязательный параметр. 32-разрядное значение, передаваемое в качестве дополнительных данных в функции [*пакета интерфейса субъекта*](../secgloss/s-gly.md) (SIP). Формат и содержимое этого параметра определяется поставщиком SIP.
 
 Этот параметр является необязательным и может иметь **значение NULL** , если он не включен.
 
@@ -170,7 +170,7 @@ HRESULT WINAPI SignerTimeStampEx3(
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

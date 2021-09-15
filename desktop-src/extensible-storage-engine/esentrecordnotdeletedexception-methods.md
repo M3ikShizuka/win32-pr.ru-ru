@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55102525
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: ae83f0dc4bde5b48acd401600534a4759c81175f02c87376ed87184e96c26293
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 204dd90e5b7c0474193279949bc8f68a915c4df7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119971197"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461136"
 ---
 # <a name="esentrecordnotdeletedexception-methods"></a>Методы EsentRecordNotDeletedException 
 
@@ -78,7 +78,7 @@ ms.locfileid: "119971197"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

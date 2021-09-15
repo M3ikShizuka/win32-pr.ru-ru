@@ -4,12 +4,12 @@ ms.assetid: 62280b71-9bec-4a9d-abd2-d3e1c2cee43f
 title: Константы скалярных данных
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 815288ca4a22da741e5b98257ae50732f818b466404a95712ee74756785fd699
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c3187d2064501727614dfcbf0b8e11c136fea13e
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119773314"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462640"
 ---
 # <a name="scalar-data-constants"></a>Константы скалярных данных
 

@@ -13,12 +13,12 @@ api_type:
 - DllExport
 api_location:
 - Wintrust.dll
-ms.openlocfilehash: 3c6c7957e969d04eaf65014e023a5f64e0826b6285fb878d9afefbd7cda25721
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 99135ac22509b288726732ca4a16248b304f294b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118895836"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461392"
 ---
 # <a name="wthelpercertfindissuercertificate-function"></a>Функция Вселперцертфиндиссуерцертификате
 
@@ -129,7 +129,7 @@ PCCERT_CONTEXT WINAPI WTHelperCertFindIssuerCertificate(
 -   Значение параметра *псфтверифясоф* должно быть в пределах срока действия сертификата субъекта.
 -   Срок действия сертификата субъекта должен быть в пределах срока действия сертификата издателя.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

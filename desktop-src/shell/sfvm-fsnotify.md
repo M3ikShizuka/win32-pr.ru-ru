@@ -14,11 +14,11 @@ topic_type:
 - APIRef
 - kbSyntax
 ms.openlocfilehash: 74c17f9d4b8c8c1979fa7da2d6f0ff63dff74a9b
-ms.sourcegitcommit: cd9672511263d04c0e4bc41758dd1d9e89ea92b4
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "104997978"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459427"
 ---
 # <a name="sfvm_fsnotify-message"></a>\_Сообщение сфвм фснотифи
 

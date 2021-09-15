@@ -7,12 +7,12 @@ ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.isam.esent.interop.esen
 ms:contentKeyID: 55101482
 ms.date: 07/30/2014
 ms.topic: article
-ms.openlocfilehash: 92798c733fd604608ea46134ef40f26dad5afbc1cb29527a631bddf14faeaa66
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b343ba8bef464b458431146e04429e1135cdcc91
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119974304"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461157"
 ---
 # <a name="esentdecompressionfailedexception-methods"></a>Методы EsentDecompressionFailedException 
 
@@ -78,7 +78,7 @@ ms.locfileid: "119974304"
 
 Начало
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 #### <a name="reference"></a>Справочник
 

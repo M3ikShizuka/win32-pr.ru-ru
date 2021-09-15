@@ -12,12 +12,12 @@ api_type:
 - NA
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: ce3e3d2948419761a139139493e737df1a9a709147613eadd3e077f0f5101f3a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6939c5451f3ae8f41214a817293e3c7f3cb3b66c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118332630"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458671"
 ---
 # <a name="wmalbumcoverurl-attribute"></a>Атрибут WM/Албумковерурл
 
@@ -29,7 +29,7 @@ ms.locfileid: "118332630"
 -   [**Элементы фото**](photo-item-attributes.md)
 -   [**Элементы видео**](video-item-attributes.md)
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Для звукового элемента этот атрибут является URL-адресом обложки альбома. Для фотографии или видеозаписи этот атрибут является URL-адресом эскиза изображения.
 

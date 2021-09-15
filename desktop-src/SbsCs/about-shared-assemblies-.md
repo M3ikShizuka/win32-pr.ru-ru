@@ -4,12 +4,12 @@ ms.assetid: E42688E0-83D8-4C64-98A8-1BE82E4348FA
 title: Общие сведения о общих сборках
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5a5db7f10ea5ffa6e04fd5cd905262eb026b4ca4c24309ffd4c53cb10f9df00b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ed044f2c0f6b8e8e04927035991da651b4c26674
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119142627"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271795"
 ---
 # <a name="about-shared-assemblies"></a>Общие сведения о общих сборках
 

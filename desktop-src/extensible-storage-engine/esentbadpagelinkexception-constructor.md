@@ -24,12 +24,12 @@ api_type:
 api_location:
 - Microsoft.Isam.Esent.Interop.dll
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 5bc325091ed2530e3e0689d0d63324581f8f7e450b3bd809583e175b95f0e24a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: df3d5e45ca9cd72e5914c62475c1bddfb4ac1c61
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119975881"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458569"
 ---
 # <a name="esentbadpagelinkexception-constructor"></a>Конструктор Есентбадпажелинкексцептион
 
@@ -52,9 +52,9 @@ Dim instance As New EsentBadPageLinkException()
 public EsentBadPageLinkException()
 ```
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
-#### <a name="reference"></a>Справочник
+#### <a name="reference"></a>Ссылка
 
 [Класс Есентбадпажелинкексцептион](./esentbadpagelinkexception-class.md)
 

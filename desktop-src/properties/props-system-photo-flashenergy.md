@@ -4,12 +4,12 @@ ms.assetid: afdd1bc6-87c3-4c47-9d29-43422fd699b3
 title: System. photo. Флашенерги
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 431d311725717d9da0b696b79567d12908f7c48f867bc0a105304b389e23de94
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 09b4277b1cca48666f14ac2b68e31317ceda82d8
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118229969"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459438"
 ---
 # <a name="systemphotoflashenergy"></a>System. photo. Флашенерги
 
@@ -31,7 +31,7 @@ propertyDescription
       IsInnate = true
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Значения PKEY определены в списке PKEY. h.
 

@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 5161b24f983936b2eb380f1863489ea6c5c927d9b18a278e5942e162f156c6fe
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6ce59135de1c8f47d84a07f01dbb5f2bbe697f9d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119891654"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461780"
 ---
 # <a name="freesystemhealthagentstate-function"></a>Функция Фрисистемхеалсажентстате
 
@@ -62,7 +62,7 @@ NAPAPI VOID WINAPI FreeSystemHealthAgentState(
 
 Все функции NAP для освобождения памяти также освобождают все внедренные указатели.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

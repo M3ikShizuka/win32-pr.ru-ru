@@ -4,12 +4,12 @@ ms.assetid: d99400a4-3661-4162-bfd6-8c2a27e0f328
 title: 'Событие Ивинхттпрекуестевентс:: OnError'
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 31127dcc3155b804bbda1c3ab94ee8a410c73f5a96c3ecfc6f787479ccd51539
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c8582deec90eb6bfc2985460f3127d5c7ee9c01b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117744342"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462483"
 ---
 # <a name="iwinhttprequesteventsonerror-event"></a>Событие Ивинхттпрекуестевентс:: OnError
 

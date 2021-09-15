@@ -3,7 +3,7 @@ title: Атрибут WM/проводника
 description: Атрибут WM/проводника — это имя проводника музыки.
 ms.assetid: 31c7d310-da6a-4c30-86b0-15defaee1743
 keywords:
-- Проигрыватель Windows Media с атрибутом WM/проводника
+- проигрыватель Windows Media атрибута WM/проводника
 topic_type:
 - apiref
 api_name:
@@ -13,21 +13,21 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 3d1ae08dfee807d130f04dd258c6af81a8d68057
-ms.sourcegitcommit: c8ec1ded1ffffc364d3c4f560bb2171da0dc5040
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "105704315"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458667"
 ---
 # <a name="wmconductor-attribute"></a>Атрибут WM/проводника
 
 Атрибут **WM/проводника** — это имя проводника музыки.
 
-## <a name="applies-to"></a>Применение
+## <a name="applies-to"></a>Применяется к
 
 -   [Звуковые элементы](audio-item-attributes.md)
 -   [Дорожки компакт-диска](cd-track-attributes.md)
--   [Часто используемые атрибуты файлов Windows Media](commonly-used-windows-media-file-attributes.md)
+-   [часто используемые Windows атрибуты файла мультимедиа](commonly-used-windows-media-file-attributes.md)
 
 ## <a name="remarks"></a>Комментарии
 
@@ -37,7 +37,7 @@ ms.locfileid: "105704315"
 
 **Проводник** является псевдонимом для этого атрибута.
 
-Константа Windows Media Format SDK для этого атрибута — g \_ всзвмкондуктор.
+константа пакета SDK Windows Media Format для этого атрибута — g \_ всзвмкондуктор.
 
 Чтобы определить, можно ли изменить значение этого атрибута, используйте метод [Media. исреадонлитем](media-isreadonlyitem.md) .
 
@@ -47,7 +47,7 @@ ms.locfileid: "105704315"
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------|
-| Версия<br/> | Проигрыватель Windows Media 9 Series или более поздней версии<br/> |
+| Версия<br/> | проигрыватель Windows Media 9 Series или более поздней версии<br/> |
 
 
 

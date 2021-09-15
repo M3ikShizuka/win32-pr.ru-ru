@@ -4,12 +4,12 @@ description: Различия между вспомогательными фун
 ms.assetid: ea4b1c0d-ce02-477b-85c8-44e1beef90c1
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: b6423b9bcb6a609cf21b8399ca03d7da1e0b19450994eb78a66f4c7aaad7d31d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 511b7f04aa0a2abe04b99562c15aeb3a53bdaadf
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119861004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462496"
 ---
 # <a name="ipv6-aware-and-legacy-wpad-helper-functions"></a>IPv6-Aware и устаревшие вспомогательные функции WPAD
 

@@ -4,12 +4,12 @@ ms.assetid: 60892a8b-93f4-43ba-87ef-d5c7cc6fb8c6
 title: Использование сжатых текстур (Direct3D 9)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: a0f506cef8147ee5ef1fb0c99cf862254564240bb112e954884cc7a2a07d2d12
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 643b0618043f12ff3e1a84b806c86edb780ad929
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119044022"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461196"
 ---
 # <a name="using-compressed-textures-direct3d-9"></a>Использование сжатых текстур (Direct3D 9)
 
@@ -55,11 +55,11 @@ BOOL IsCompressedTextureFormatOk( D3DFORMAT TextureFormat,
 
 | FOURCC | Описание        | Альфа-канал был предварительно умножен? |
 |--------|--------------------|----------------------|
-| DXT1   | Непрозрачный/1-разрядный альфа | н/д                  |
+| DXT1   | Непрозрачный/1-разрядный альфа | Недоступно                  |
 | DXT2   | Явное альфа-канал     | Да                  |
-| DXT3   | Явное альфа-канал     | нет                   |
+| DXT3   | Явное альфа-канал     | Нет                   |
 | DXT4   | Альфа-канал с интерполяцией | Да                  |
-| DXT5   | Альфа-канал с интерполяцией | нет                   |
+| DXT5   | Альфа-канал с интерполяцией | Нет                   |
 
 
 

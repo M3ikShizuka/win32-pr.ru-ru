@@ -4,12 +4,12 @@ ms.assetid: 73ec52de-c74a-45b3-a453-7f32510b4484
 title: Свойство MFPKEY_ASFOVERHEADPERFRAME (Вмкодекдсп. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 481c99c50a305219d0548007755d6b6ba27239e39bef5cb47d61ff3d665dfa47
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 208acf55871b18bb029279a27abd36a33ea8c79c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117874090"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460902"
 ---
 # <a name="mfpkey_asfoverheadperframe-property"></a>МФПКЭЙ \_ асфоверхеадперфраме, свойство
 
@@ -31,7 +31,7 @@ VT \_ I4
 
 Если вы используете структуру файлов ASF, не изменяйте это значение по умолчанию. Если вы не храните данные в файле ASF, это значение необходимо задать равным 0.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -43,7 +43,7 @@ VT \_ I4
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -14,12 +14,12 @@ api_type:
 api_location:
 - Comctl32.dll
 ms.assetid: b2d9e3c7-8151-45ef-9658-bd33a87b4c9c
-ms.openlocfilehash: e5f97d1f50dae081eac00014415129d8a4c858a0e6e2c3406e1a6c4f6905c71c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 34cd3dd9e5b9e62bbdd13b31d95e7205e4427de6
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117861401"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460521"
 ---
 # <a name="createmrulistw-function"></a>Функция CreateMRUListW
 

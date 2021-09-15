@@ -4,12 +4,12 @@ ms.assetid: 1fa6ea9f-fd30-4fa2-a0e6-1647273bcc35
 title: Атрибут MF_MP2DLNA_STATISTICS (Mfmp2dlna. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 47a80bf0682cf6e46845a968122bf512a6e9cff15df8fb8e0312e1c63c8dab0a
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a51620c1ca093a422a5e4657edcfbfaa66ae6cd3
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118973623"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462122"
 ---
 # <a name="mf_mp2dlna_statistics-attribute"></a>\_ \_ Атрибут статистики MF MP2DLNA
 
@@ -29,7 +29,7 @@ ms.locfileid: "118973623"
 
 Установка этого атрибута для приемника мультимедиа DLNA не оказывает никакого воздействия.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -41,7 +41,7 @@ ms.locfileid: "118973623"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

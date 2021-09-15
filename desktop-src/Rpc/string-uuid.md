@@ -4,16 +4,16 @@ description: Строковый идентификатор UUID содержит
 ms.assetid: a8a04c88-0d41-4e0c-aae1-caa6c95f91c9
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 56ac2ff4531c468a36a34239de6a0bac0ad00b8bf4f09d3aaf4726cf3bdd67fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: ab6e9aae4e1fb8a2878388f042bc1e5b2f0d45a1
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120017474"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461457"
 ---
 # <a name="string-uuid"></a>Строковый UUID
 
-Строковый идентификатор UUID содержит представление символьного массива UUID. Строковый идентификатор UUID состоит из нескольких полей шестнадцатеричных символов. Каждый элемент имеет фиксированную длину, а поля разделяются символом дефиса. Например:
+Строковый идентификатор UUID содержит представление символьного массива UUID. Строковый идентификатор UUID состоит из нескольких полей шестнадцатеричных символов. Каждый элемент имеет фиксированную длину, а поля разделяются символом дефиса. Пример:
 
 `989C6E5C-2CC1-11CA-A044-08002B1BB4F5`
 

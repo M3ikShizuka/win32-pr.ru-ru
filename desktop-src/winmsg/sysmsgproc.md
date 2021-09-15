@@ -32,12 +32,12 @@ api_name: ''
 targetos: Windows
 req.typenames: ''
 req.redist: ''
-ms.openlocfilehash: 76eaf282df5738a335bd6fd9c1b43f26812838907d57045d826f65b57c7a8224
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0d5c7fc116b74dada141e88116ba67209da4a103
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119932084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459362"
 ---
 # <a name="sysmsgproc-function"></a>Функция Сисмсгпрок
 
@@ -95,7 +95,7 @@ LRESULT CALLBACK SysMsgProc(
 Если *нкоде* больше или равен нулю и процедура обработчика не обработала сообщение, настоятельно рекомендуется вызвать метод **каллнекссукекс** и вернуть возвращаемое значение. в противном случае другие приложения, которые установили [WH_SYSMSGFILTERные](about-hooks.md) обработчики, не будут получать уведомления о ловушках и могут вести себя неправильно.
 Если процедура обработки сообщения обрабатывает сообщение, она может вернуть ненулевое значение, чтобы система не могла передать сообщение в целевую процедуру окна.
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Приложение устанавливает процедуру-обработчик, указывая тип обработчика **WH_SYSMSGFILTER** и указатель на процедуру-обработчик в вызове функции **сетвиндовшукекс** .
 

@@ -14,12 +14,12 @@ api_type:
 - COM
 api_location:
 - Scrdenrl.dll
-ms.openlocfilehash: cbbccf895d06106990007584e0eb1946d74b2c092a4c27c8b7a9e279b93f7e36
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 86a78f03929bc6cdcfc7b611944b81c59a1c9fc9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119409674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270963"
 ---
 # <a name="iscrdenrgetcerttemplatecount-method"></a>Метод Искрденр:: Жетцерттемплатекаунт
 
@@ -78,7 +78,7 @@ SCrdEnr.getCertTemplateCount( _
 
 Значение **типа Long** , представляющее количество шаблонов сертификатов.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

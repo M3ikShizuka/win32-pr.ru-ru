@@ -6,12 +6,12 @@ keywords:
 - OpenGL, введение
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: aa30507db7d7994fe9bf88d6b056d48ee0266b9e7f4959d82a31134a9c3ce5dc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0cece636e51348288e587116bf13f95696b93ab9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120035024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461627"
 ---
 # <a name="introduction-to-opengl"></a>Введение в OpenGL
 

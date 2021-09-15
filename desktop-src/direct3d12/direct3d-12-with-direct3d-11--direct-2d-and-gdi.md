@@ -6,11 +6,11 @@ ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 3b5fcfe2adf756c12f034031675d0c3ac5571b44
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104549036"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458589"
 ---
 # <a name="direct3d-12-interop"></a>Взаимодействие Direct3D 12
 
@@ -91,7 +91,7 @@ D3D12 может быть очень мощным и разрешать прил
 
 В разделе [Direct3D 11 on 12](./direct3d-11-on-12.md) описывается использование большей части области API, связанной с видами взаимодействия, описанными в этом разделе.
 
-См. также метод [ID3D12Device:: креатешаредхандле](/windows/win32/api/d3d12/nf-d3d12-id3d12device-createsharedhandle) , который можно использовать для совместного использования поверхностей между API графических интерфейсов Windows.
+см. также метод [ID3D12Device:: креатешаредхандле](/windows/win32/api/d3d12/nf-d3d12-id3d12device-createsharedhandle) , который можно использовать для совместного использования поверхностей Windows графических интерфейсов api.
 
 ## <a name="related-topics"></a>Связанные темы
 

@@ -1,26 +1,26 @@
 ---
-title: Справочное руководством по программированию Windows Media Format SDK
-description: Справочное руководством по программированию Windows Media Format SDK
+title: Windows Путеводитель по программированию для пакета SDK формата мультимедиа
+description: Windows Путеводитель по программированию для пакета SDK формата мультимедиа
 ms.assetid: 9b382c88-e4a9-4aed-a250-250fabface44
 keywords:
-- Windows Media Format SDK, программное обеспеченное программирование
-- Windows Media Format SDK, расширенный формат систем (ASF)
+- Windows Пакет SDK для формата мультимедиа, программное обеспечения
+- Windows Пакет SDK формата мультимедиа, расширенный формат систем (ASF)
 - Расширенный системный формат (ASF), программное обеспеченное программирование
 - ASF (Расширенный системный формат), программное обеспеченное программирование
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 5f4ea4f6819a31693d7c9d149717324ef6dcc65a
-ms.sourcegitcommit: 8fa6614b715bddf14648cce36d2df22e5232801a
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "105701011"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346099"
 ---
-# <a name="windows-media-format-sdk-programming-guide"></a>Справочное руководством по программированию Windows Media Format SDK
+# <a name="windows-media-format-sdk-programming-guide"></a>Windows Путеводитель по программированию для пакета SDK формата мультимедиа
 
-Руководство по программированию предназначено для того, чтобы научиться использовать пакет средств разработки программного обеспечения (SDK) Microsoft Windows Media для создания приложений, которые работают с файлами в формате ASF.
+руководство по программированию предназначено для того, чтобы научиться использовать пакет средств разработки программного обеспечения Microsoft Windows Media Format (SDK) для создания приложений, которые работают с файлами в формате ASF.
 
-С помощью пакета SDK для Windows Media Format можно создавать приложения, которые записывают цифровые мультимедийные потоки в файлы ASF и читают их из них. Этот пакет SDK также поддерживает редактирование метаданных в файлах ASF. Кроме того, этот пакет SDK можно использовать для чтения метаданных и управления ими в MP3-файлах.
+пакет SDK для Windows Media Format можно использовать для создания приложений, которые записывают цифровые мультимедийные потоки в файлы ASF и читают их из файлов в формате rtf. Этот пакет SDK также поддерживает редактирование метаданных в файлах ASF. Кроме того, этот пакет SDK можно использовать для чтения метаданных и управления ими в MP3-файлах.
 
 В следующих разделах подробно описаны шаги, необходимые для записи, чтения и редактирования файлов ASF с помощью этого пакета SDK.
 
@@ -41,21 +41,21 @@ ms.locfileid: "105701011"
 | [Включение поддержки DRM](enabling-drm-support.md)                                   | Описание включения поддержки воспроизведения файлов ASF, защищенных с помощью DRM.                                          |
 | [Реализация функций сети](implementing-network-functionality.md)       | Описание использования этого пакета SDK для выполнения сетевых операций, необходимых для успешной потоковой передачи мультимедиа. |
 | [Дополнительные разделы](advanced-topics.md)                                             | Описание использования некоторых дополнительных функций этого пакета SDK в приложениях.                              |
-| [DirectShow и Windows Media](directshow-and-windows-media.md)                   | Описание использования Microsoft DirectShow для создания и чтения файлов ASF.                                      |
-| [Рекомендации по проекту](project-considerations.md)                               | Содержит сведения о завершении и распространении приложений.                                              |
+| [DirectShow и Windows носитель](directshow-and-windows-media.md)                   | описывает, как можно использовать Microsoft DirectShow для создания и чтения файлов ASF.                                      |
+| [Project Следует](project-considerations.md)                               | Содержит сведения о завершении и распространении приложений.                                              |
 
 
 
  
 
-## <a name="related-topics"></a>См. также
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 
-[**О пакете SDK для формата Windows Media**](about-the-windows-media-format-sdk.md)
+[**сведения о пакете SDK для Windows Media Format**](about-the-windows-media-format-sdk.md)
 </dt> <dt>
 
-[**Пакет SDK для Windows Media Format 11**](windows-media-format-11-sdk.md)
+[**Windows Пакет SDK для формата мультимедиа 11**](windows-media-format-11-sdk.md)
 </dt> </dl>
 
  

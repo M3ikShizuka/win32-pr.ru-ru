@@ -5,12 +5,12 @@ ms.assetid: 8BDDAFEF-57D4-4EF5-BB0C-6C96AF557A45
 ms.localizationpriority: high
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 7817484683d9defc7041cd33c1cefd1791de8ea42128925d7c904012f3cfe621
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 314c01b05ac31e5d5f8348b775c8955ae382f5ed
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118098465"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458614"
 ---
 # <a name="counters-queries-and-predication"></a>Счетчики, запросы и предикация
 

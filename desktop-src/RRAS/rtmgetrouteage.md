@@ -14,12 +14,12 @@ api_type:
 - DllExport
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 03ee536eeb4d16cbfc2bbcfb7dc09cae8b0003bbd925945fa710e15cb1c4a96e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: a484bb5684fde974ce5fa704c0d0cca38c320851
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120035664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271875"
 ---
 # <a name="rtmgetrouteage-function"></a>Функция Ртмжетраутеаже
 
@@ -64,11 +64,11 @@ ULONG RtmGetRouteAge(
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Срок действия маршрута вычисляются на основе \_ элемента метки времени RR структуры, на которую указывает параметр *Route* . Диспетчер таблиц маршрутизации задает значение этого элемента при добавлении или обновлении маршрута.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -76,14 +76,14 @@ ULONG RtmGetRouteAge(
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Ни одна версия не поддерживается<br/>                                                          |
 | Минимальная версия сервера<br/> | Windows 2000 Server \[только классические приложения\]<br/>                               |
-| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                     |
+| Поддержка конца сервера<br/>    | Windows Server 2003<br/>                                                     |
 | Заголовок<br/>                   | <dl> <dt>RTM. h</dt> </dl>   |
 | Библиотека<br/>                  | <dl> <dt>RTM. lib</dt> </dl> |
 | DLL<br/>                      | <dl> <dt>Rtm.dll</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

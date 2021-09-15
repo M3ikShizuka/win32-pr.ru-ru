@@ -5,11 +5,11 @@ title: Литералинклуде, элемент
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: bcfbd72300607dd2c6f3f21e4be3666083b559cb
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122625320"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461240"
 ---
 # <a name="literalinclude-element"></a>Литералинклуде, элемент
 

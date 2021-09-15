@@ -4,12 +4,12 @@ ms.assetid: DAA62ECD-AFA2-40C2-9B52-F2D581F4D894
 title: Атрибут MF_MT_H264_SUPPORTED_RATE_CONTROL_MODES (Мфапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 9665fd99635749e2400437e77cb89e74d2cb8675689f6f4b867a20ac82fadaec
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 3c7b315bf41d662dd5abb283c346710f485789ff
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117692286"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460942"
 ---
 # <a name="mf_mt_h264_supported_rate_control_modes-attribute"></a>\_ \_ \_ \_ \_ Атрибут режимов управления скоростью H264 Single bitrate \_ MF MT
 
@@ -43,7 +43,7 @@ ms.locfileid: "117692286"
 |-------------------------------------|------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 8 \[ приложения UWP для классических приложений \|\]<br/>                                  |
 | Минимальная версия сервера<br/> | Windows Server 2012 \[ приложения UWP для классических приложений \|\]<br/>                        |
-| Header<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Мфапи. h</dt> </dl> |
 
 
 

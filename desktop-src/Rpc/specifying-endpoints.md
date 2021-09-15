@@ -4,12 +4,12 @@ description: Указание хорошо известных и динамич�
 ms.assetid: fc39b527-11e6-45a7-b3b5-8bcf469633d8
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0ff73f13f752e42917353a217f5a2fcfa8d1fcfa9dc60edf585c42d72b0d306e
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 373fb2818dd14670f5a939aa524c81fcdb05e20b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120017614"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461472"
 ---
 # <a name="specifying-endpoints"></a>Указание конечных точек
 

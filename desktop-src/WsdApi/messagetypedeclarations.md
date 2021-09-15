@@ -5,11 +5,11 @@ title: Мессажетипедекларатионс, элемент
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 696cd6d30e6a791f68c152e0d0c5d0b1a7300769
-ms.sourcegitcommit: b6fe9acffad983c14864b8fe0296f6025cb1f961
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "107998731"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461233"
 ---
 # <a name="messagetypedeclarations-element"></a>Мессажетипедекларатионс, элемент
 
@@ -33,7 +33,7 @@ ms.locfileid: "107998731"
 
 | Элемент                                   | Описание                                                                       |
 |-------------------------------------------|-----------------------------------------------------------------------------------|
-| [**operation**](operation.md)<br/> | Указывает операцию, для которой создается код.<br/> <br/>  |
+| [**операцию**](operation.md)<br/> | Указывает операцию, для которой создается код.<br/> <br/>  |
 | [**Порта**](porttype.md)<br/>   | Указывает тип порта, для которого создается код.<br/> <br/> |
 
 
@@ -57,7 +57,7 @@ ms.locfileid: "107998731"
 
 
 
-## <a name="remarks"></a>Примечания
+## <a name="remarks"></a>Remarks
 
 На таблицы схемы ссылаются определения типов портов. Таким образом, этот элемент обычно используется непосредственно перед элементами [**порттипедефинитионс**](porttypedefinitions.md) .
 

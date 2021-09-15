@@ -4,12 +4,12 @@ description: В следующих разделах представлены п�
 ms.assetid: 155e284f-c993-480e-a216-9d38c77ddbd7
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: bd0bd63e4995163ed12412d056f00ec0fc93c610580ba8f5bd3d1cfcef2250f3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a740edfef92f9902081277e9fcef7d403e93fd1c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119661704"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127270635"
 ---
 # <a name="structured-storage-samples"></a>структурированные примеры служба хранилища
 

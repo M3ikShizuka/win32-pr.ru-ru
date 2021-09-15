@@ -7,11 +7,11 @@ keywords:
 ms.topic: article
 ms.date: 05/31/2018
 ms.openlocfilehash: 61c1e9290cbe04cfe33e1192b95b86ca03fd5ea5
-ms.sourcegitcommit: 9eebab0ead09cecdbc24f5f84d56c8b6a7c22736
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/10/2021
-ms.locfileid: "124369641"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127458863"
 ---
 # <a name="srptrustlevel"></a>срптрустлевел
 
@@ -25,7 +25,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
       SRPTrustLevel = value
 ```
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 это значение **REG \_ DWORD** , которое доступно начиная с Windows XP.
 
@@ -42,7 +42,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Classes\AppID
 
 Если значение **срптрустлевел** не существует, используется значение по умолчанию, равное более безопасному \_ LEVELID \_ запрещенному. Если **срптрустлевел** имеет неправильный тип или выходит за пределы допустимого диапазона, com ВОЗВРАЩАЕТ ошибку комадмин \_ E \_ саферинвалид. Если активация любой сортировки завершается неудачей из-за проверок доверия SRP, COM возвращает ошибку CO \_ E \_ активатионфаилед.
 
-## <a name="related-topics"></a>Связанные разделы
+## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
 

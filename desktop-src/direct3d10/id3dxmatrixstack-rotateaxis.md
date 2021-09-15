@@ -15,11 +15,11 @@ api_location:
 - D3DX10.lib
 - D3DX10.dll
 ms.openlocfilehash: 0a2e52eed1c1957de9a0fcfed4ba3d3d05f89cb9
-ms.sourcegitcommit: 95685061d5b0333bbf9e6ebd208dde8190f97005
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108107916"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462451"
 ---
 # <a name="id3dxmatrixstackrotateaxis-method-d3dx10h"></a>Метод ID3DXMATRIXStack:: Ротатеаксис (D3DX10. h)
 
@@ -86,12 +86,12 @@ m_stack[m_currentPos] = m_stack[m_currentPos] * tmp;
 
 | Требование | Значение |
 |--------------------|---------------------------------------------------------------------------------------|
-| Header<br/>  | <dl> <dt>D3DX10. h</dt> </dl>   |
+| Заголовок<br/>  | <dl> <dt>D3DX10. h</dt> </dl>   |
 | Библиотека<br/> | <dl> <dt>D3DX10. lib</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ ms.assetid: 35187720-413a-45a0-8558-918f7c3161e1
 title: Свойства метаданных для файлов мультимедиа
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: ff82faa4d98278e9809ac87538fd0fa587846ef39eb083754868714bdb1bed0b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7cab541a480b03d7ef6bfb9a1a2036226b767774
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119827084"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459153"
 ---
 # <a name="metadata-properties-for-media-files"></a>Свойства метаданных для файлов мультимедиа
 
@@ -76,7 +76,7 @@ ms.locfileid: "119827084"
 | **\_Музыкальный \_ проводник PKEY**                                               | [System. Music. Проводник](../properties/props-system-music-conductor.md)                             | Выведен.                                                                                                                                                                                                | VT \_ LPWSTR   |
 | **\_ \_ Контентграупдескриптионная музыка PKEY**                                 | [System. Music. Контентграупдескриптион](../properties/props-system-music-contentgroupdescription.md) | Описание группы содержимого (например, упакованный набор или ряд).                                                                                                                                      | VT \_ LPWSTR   |
 | **\_Жанр для музыки на PKEY \_**                                                   | [System. Music. Жанр](../properties/props-system-music-genre.md)                                     | Название.                                                                                                                                                                                                    | VT \_ LPWSTR   |
-| **\_ \_ Инитиалкэйная музыка PKEY**                                              | [System.Music.IniТиалкэй](../properties/props-system-music-initialkey.md)                           | Первоначальный ключ музыки.                                                                                                                                                                             | VT \_ LPWSTR   |
+| **\_ \_ Инитиалкэйная музыка PKEY**                                              | [System. Music. Инитиалкэй](../properties/props-system-music-initialkey.md)                           | Первоначальный ключ музыки.                                                                                                                                                                             | VT \_ LPWSTR   |
 | **"Музыка" на PKEY \_ \_**                                           | [System. Music. компилятора](../properties/props-system-music-iscompilation.md)                     | Указывает, является ли музыкальный файл частью компиляции.                                                                                                                                                | Логическое значение VT \_     |
 | **\_Музыкальные слова о песне PKEY \_**                                                  | [System. Music. песен](../properties/props-system-music-lyrics.md)                                   | Прилич.                                                                                                                                                                                                   | VT \_ LPWSTR   |
 | **\_Настроение музыки для PKEY \_**                                                    | [System. Music. настроение](../properties/props-system-music-mood.md)                                       | Настроение.                                                                                                                                                                                                     | VT \_ LPWSTR   |
@@ -190,7 +190,7 @@ ms.locfileid: "119827084"
 | **PKEY \_ паренталратингреасон**           | [**WM/Паренталратингреасон**](../wmformat/wm-parentalratingreason.md)       |
 | **\_Оценка PKEY**                         | [**WM/Шаредусерратинг**](../wmformat/wm-shareduserrating.md)               |
 | **PKEY \_ сумбнаилстреам**                | [**WM/Picture**](../wmformat/wmpicture.md)                       |
-| **\_Название PKEY**                          | [**Название**](../wmformat/title.md)                                           |
+| **\_Название PKEY**                          | [**Заголовок**](../wmformat/title.md)                                           |
 | **\_Директор видео \_ PKEY**                | [**WM/Director**](../wmformat/wm-director.md)                               |
 
 

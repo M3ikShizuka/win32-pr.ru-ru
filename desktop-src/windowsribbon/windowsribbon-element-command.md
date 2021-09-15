@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 0c29539c9c76342b8b88603ea3dd2926554228ac
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626950"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459009"
 ---
 # <a name="command-element"></a>Command, элемент
 
@@ -159,9 +159,9 @@ ms.locfileid: "122626950"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Обязательный.
+Обязательный элемент.
 
 Может происходить один или несколько раз для каждого элемента [**Application. Commands**](windowsribbon-element-application-commands.md) .
 

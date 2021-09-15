@@ -14,11 +14,11 @@ ms.topic: reference
 ms.date: 05/31/2018
 api_location: ''
 ms.openlocfilehash: 7fcf64d3fa3b618a4e66777b8fd4c0d831a33126
-ms.sourcegitcommit: c276a8912787b2cda74dcf54eb96df961bb1188b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2021
-ms.locfileid: "122626130"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127346202"
 ---
 # <a name="applicationmenu-element"></a>Аппликатионмену, элемент
 
@@ -87,9 +87,9 @@ ms.locfileid: "122626130"
 
 
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
-Обязательный.
+Обязательный элемент.
 
 Должен выполняться ровно один раз для каждой [**ленты. аппликатионмену**](windowsribbon-element-ribbon-applicationmenu.md).
 
@@ -189,7 +189,7 @@ ms.locfileid: "122626130"
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

@@ -4,12 +4,12 @@ description: Все простые типы представлены одним 
 ms.assetid: 77c293a1-70c4-4825-bb2e-de36e01d3abb
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 1e265c24d1eaf4b85ab67c7f8997c656257522bfc8290e73596a8628bdd4215c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: afe123ca7c06a0522a139dc0cca8a9e24d1d585d
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118925164"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461473"
 ---
 # <a name="simple-types"></a>Простые типы
 

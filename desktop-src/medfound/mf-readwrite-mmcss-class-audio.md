@@ -4,12 +4,12 @@ ms.assetid: F1B8A8C8-2E41-4321-A94D-C50447C69941
 title: Атрибут MF_READWRITE_MMCSS_CLASS_AUDIO (Мфреадврите. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: f416c22619c0777ef244e6566328154bf7a7336587fc73a3f29626fcdaa1c462
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: fa35db710c6b72c103855fa2c0a9f169f49c4511
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119345284"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459459"
 ---
 # <a name="mf_readwrite_mmcss_class_audio-attribute"></a>\_ \_ \_ Аудио атрибут класса MMCSS MF ReadWrite \_
 
@@ -25,7 +25,7 @@ ms.locfileid: "119345284"
 
 Чтобы задать этот атрибут, вызовите [**имфаттрибутес:: SetString**](/windows/desktop/api/mfobjects/nf-mfobjects-imfattributes-setstring).
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 При необходимости задайте этот атрибут при создании экземпляра модуля [чтения источника](source-reader.md) или [средства записи приемника](sink-writer.md). Значение атрибута должно быть допустимым именем класса MMCSS.
 

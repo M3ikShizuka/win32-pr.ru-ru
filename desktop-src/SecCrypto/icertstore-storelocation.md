@@ -16,12 +16,12 @@ api_type:
 - COM
 api_location:
 - Capicom.dll
-ms.openlocfilehash: ea11da4fc908a2a3b665b2491614dbffeaa3034a3127617c562c3365522df835
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 97bca7ed9dae20c129d202910b40f7c26d54a576
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119005612"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127271019"
 ---
 # <a name="icertstorestorelocation-property"></a>Свойство Ицертсторе:: StoreLocation
 
@@ -50,7 +50,7 @@ CertStore.StoreLocation As CAPICOM_STORE_LOCATION
 
 Любое другое значение **HRESULT** указывает на сбой вызова.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -61,7 +61,7 @@ CertStore.StoreLocation As CAPICOM_STORE_LOCATION
 
 
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

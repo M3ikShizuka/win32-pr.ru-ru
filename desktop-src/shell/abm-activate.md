@@ -4,12 +4,12 @@ ms.assetid: 16011302-7c2d-4c34-9953-51cceb96e4b3
 title: Сообщение ABM_ACTIVATE (Шеллапи. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 224f04a88a1e69a1a67fc08c6018d33af2bcdbc6f34ff9fbd00d1dd76f82ce5c
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 94a44bcc33efcd3d1a9af5e7e2abca33893e9fe9
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118461137"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127460559"
 ---
 # <a name="abm_activate-message"></a>\_Сообщение о активации АБМ
 

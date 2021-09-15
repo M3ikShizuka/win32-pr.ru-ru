@@ -4,12 +4,12 @@ ms.assetid: 60d97b9e-d77c-4e53-94ea-ebd59c2601df
 title: Параметры camp (Dxva2api. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 4593d0ac44da91f08c7bd3fe5bbe722c743d249161ab38bbf5bfb841620c0cc8
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 0181d7491d948a4ec4219ada4241397b8a721b0c
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118238745"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127461998"
 ---
 # <a name="procamp-settings"></a>Параметры camp
 
@@ -35,11 +35,11 @@ ms.locfileid: "118238745"
 |-------------------------------------|---------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows \[Только классические приложения Vista\]<br/>                                        |
 | Минимальная версия сервера<br/> | Windows Только для \[ настольных приложений сервера 2008\]<br/>                                  |
-| Header<br/>                   | <dl> <dt>Dxva2api. h</dt> </dl> |
+| Заголовок<br/>                   | <dl> <dt>Dxva2api. h</dt> </dl> |
 
 
 
-## <a name="see-also"></a>См. также статью
+## <a name="see-also"></a>См. также раздел
 
 <dl> <dt>
 

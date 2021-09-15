@@ -4,12 +4,12 @@ ms.assetid: bcf86ece-2673-4ed8-98fd-cd0e2154b4a8
 title: Атрибут MF_BYTESTREAM_CONTENT_TYPE (Мфобжектс. h)
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 901f3d9d2b46e503bcf8f66127eb94383710a7c1055c04fccb97f6d935d463b2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7d7413fa6fd2ce74530432d60976e3c7ebf702af
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118974013"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127462188"
 ---
 # <a name="mf_bytestream_content_type-attribute"></a>\_ \_ Атрибут типа содержимого MF BYTESTREAM \_
 

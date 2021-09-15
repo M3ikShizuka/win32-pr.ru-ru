@@ -13,11 +13,11 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ms.openlocfilehash: 8c394df01703befbb17c61b340b8ea4239740ac3
-ms.sourcegitcommit: 48d1c892045445bcbd0f22bafa2fd3861ffaa6e7
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 02/19/2020
-ms.locfileid: "104069564"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127459335"
 ---
 # <a name="drm_drmheader_licenseacqurl"></a>\_Дрмхеадер \_ лиценсеаккурл DRM
 
@@ -42,9 +42,9 @@ g \_ всзвмдрм \_ дрмхеадер \_ лиценсеаккурл
 [**Список атрибутов**](attribute-list.md)
 </dt> </dl>
 
- 
+ 
 
- 
+ 
 
 
 

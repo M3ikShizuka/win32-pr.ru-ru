@@ -13,12 +13,12 @@ api_type:
 - COM
 api_location:
 - Msi.dll
-ms.openlocfilehash: 067fc09e65d644413e75ccd8a9c0173e30df8060dff0f772ae5d12705ab610aa
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 500ee0039f4bfe638f4eca3740669e821c97ca6b
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119912964"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127348882"
 ---
 # <a name="recorddatasize-property"></a>Свойство Record. DataSize
 
@@ -39,7 +39,7 @@ propVal = Record.DataSize
 
 Обязательный номер поля значения в записи, 1.
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 

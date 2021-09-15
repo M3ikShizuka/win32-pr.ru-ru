@@ -17,12 +17,12 @@ keywords:
 - Справочник по OpenGL, Light-функциям
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: e09d01f7f3d6d30f086919a037e1447bfcc5f7f417a2d5590d9194a212c37f8d
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: e14ca663f1d6a3d437900ec00da1d1b9b9637728
+ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "120128254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "127272016"
 ---
 # <a name="glmaterial-functions"></a>Функции Глматериал
 
