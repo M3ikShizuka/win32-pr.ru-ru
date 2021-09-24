@@ -1,0 +1,9 @@
+- name: Имеющуюся цепочку буферов композиции
+  href: comp-swapchain-portal.md
+  items:
+    - name: Имеющуюся цепочку буферов по программированию композиции
+      href: comp-swapchain.md
+    - name: Примеры кода имеющуюся цепочку буферов композиции
+      href: comp-swapchain-examples.md
+    - name: Глоссарий имеющуюся цепочку буферова композиции
+      href: comp-swapchain-glossary.md

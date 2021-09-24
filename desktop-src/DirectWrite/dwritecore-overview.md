@@ -6,12 +6,12 @@ keywords:
 - DWriteCore
 ms.topic: article
 ms.date: 04/22/2021
-ms.openlocfilehash: bfa23ef41ac2de77901f8601fa0a68f650730403e4dc0bee2f9bbf69d6e1bc9b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 33533b8dfcc08d7c1234f913e21e6f6fd4f99ee8
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119902883"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520806"
 ---
 # <a name="dwritecore-overview"></a>Общие сведения о DWriteCore
 
@@ -46,7 +46,7 @@ ms.locfileid: "119902883"
 
 дополнительные сведения см. в разделе [Windows пакет SDK для приложений 0,8](https://github.com/microsoft/ProjectReunion/releases/tag/v0.8.0) и [настройка среды разработки](/windows/apps/windows-app-sdk/set-up-your-development-environment#3-install-the-windows-app-sdk-extension-for-visual-studio).
 
-### <a name="create-a-new-project"></a>Создание нового проекта
+### <a name="create-a-new-project"></a>Создание проекта
 
 в Visual Studio создайте новый проект из шаблона проекта **пустое приложение, упакованное (винуи 3 в рабочем столе)** . Чтобы найти шаблон проекта, выберите язык: *C++*. platform: *пакет SDK для Windows приложений*; Тип проекта: *Рабочий стол*.
 
@@ -83,7 +83,7 @@ ms.locfileid: "119902883"
 - Различные оптимизации (очистка кэша шрифта, загрузчик шрифтов в памяти и т. д.).
 - Поддержка подчеркивания &mdash; см. в разделе [**идвритетекстлайаут:: Черкивания**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-getunderline) и [**идвритетекстлайаут:: сетундерлине**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-setunderline).
 - Поддержка зачеркнутый &mdash; см. в разделе [**идвритетекстлайаут:: зачеркнуть**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-getstrikethrough) и [**идвритетекстлайаут:: сетстрикесраугх**](/windows/win32/api/dwrite/nf-dwrite-idwritetextlayout-setstrikethrough).
-- Поддержка вертикального текста с помощью [**идвритетекстлайаут**](/windows/win32/api/dwrite/nn-dwrite-idwritetextlayout) &mdash; см. в разделе [вертикальный текст](/windows/win32/directwrite/vertical-text).
+- Поддержка вертикального текста с помощью [**идвритетекстлайаут**](/windows/win32/api/dwrite/nn-dwrite-idwritetextlayout) &mdash; см. в разделе [вертикальный текст](./vertical-text.md).
 - Реализуются все методы интерфейсов [**идвритетекстанализер**](/windows/win32/api/dwrite/nn-dwrite-idwritetextanalyzer) и [**IDWriteTextAnalyzer1**](/windows/win32/api/dwrite_1/nn-dwrite_1-idwritetextanalyzer1) .
 
 Баннер — это цветовые шрифты. Цветовые шрифты позволяют отображать шрифты с более сложными цветовыми возможностями, чем простые одиночные цвета. например, цветовые шрифты заключаются в возможности отображения шрифтов эмодзи и значков панели инструментов (второй из которых используется Office, например). цветовые шрифты впервые появились в Windows 8.1, но функция была значительно расширена в Windows 10, версии 1607 (годовщина обновления).

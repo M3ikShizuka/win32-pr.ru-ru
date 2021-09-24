@@ -17,12 +17,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: ade12d72d68b43df7d9ae3d1f33010bb95b7052a
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 6987650f3a1339086241b444429857923eb77f76
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126970102"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520235"
 ---
 # <a name="ibackgroundcopyjobgetid-method"></a>Метод использованием метода ibackgroundcopyjob:: GetId
 
@@ -46,7 +46,7 @@ HRESULT GetId(
 *пжобид* \[ заполняет\]
 </dt> <dd>
 
-Идентификатор GUID, определяющий задание в очереди DO.
+Идентификатор GUID, определяющий задание в очереди оптимизации доставки.
 
 </dd> </dl>
 

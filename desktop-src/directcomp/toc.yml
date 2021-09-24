@@ -1068,3 +1068,5 @@
       href: directcomposition-code-samples.md
     - name: Глоссарий DirectComposition
       href: directcomposition-glossary.md
+    - name: Часы компоновщика
+      href: compositor-clock/compositor-clock.md

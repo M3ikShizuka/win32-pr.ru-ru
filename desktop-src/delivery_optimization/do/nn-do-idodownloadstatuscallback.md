@@ -14,12 +14,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 07/03/2019
-ms.openlocfilehash: d91ff44e3b4f4247983ec81d53257347c8bcfa523f85855dcd0d37074f4b38fc
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: a6db896bf8d70e795b16512d22027c7ab6a02e91
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119498954"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521341"
 ---
 # <a name="idodownloadstatuscallback-interface"></a>Интерфейс Идодовнлоадстатускаллбакк
 
@@ -31,9 +31,9 @@ ms.locfileid: "119498954"
 
 | Метод | Описание |
 | ---- |:---- |
-| [Идодовнлоадстатускаллбакк:: Онстатусчанжед](./nf-do-idodownloadstatuscallback-onstatuschanged.md) | Вызывает реализацию этого метода при каждом изменении состояния загрузки. |
+| [Идодовнлоадстатускаллбакк:: Онстатусчанжед](./nf-do-idodownloadstatuscallback-onstatuschanged.md) | Оптимизация доставки вызывает реализацию этого метода при каждом изменении состояния загрузки. |
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | &nbsp; | &nbsp; |
 | ---- |:---- |

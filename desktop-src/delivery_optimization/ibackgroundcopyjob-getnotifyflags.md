@@ -17,12 +17,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e104857725849dfeb899b449ea055bc3cdb046bd
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 1dac1928a7f6811ccfa20902d50a4b1a47f5d123
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127066444"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520709"
 ---
 # <a name="ibackgroundcopyjobgetnotifyflags-method"></a>Метод использованием метода ibackgroundcopyjob:: Жетнотифифлагс
 
@@ -54,7 +54,7 @@ HRESULT GetNotifyFlags(
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | <span id="BG_NOTIFY_JOB_TRANSFERRED"></span><span id="bg_notify_job_transferred"></span><dl> <dt>**BG_NOTIFY_JOB_TRANSFERRED**</dt> </dl>    | Все файлы в задании были переданы.<br/>                  |
 | <span id="BG_NOTIFY_JOB_ERROR"></span><span id="bg_notify_job_error"></span><dl> <dt>**BG_NOTIFY_JOB_ERROR**</dt> </dl>                      | Произошла ошибка.<br/>                                              |
-| <span id="BG_NOTIFY_DISABLE"></span><span id="bg_notify_disable"></span><dl> <dt>**BG_NOTIFY_DISABLE**</dt> </dl>                             | Уведомление о событии отключено. Если этот параметр задан, другие флаги не учитываются.<br/> |
+| <span id="BG_NOTIFY_DISABLE"></span><span id="bg_notify_disable"></span><dl> <dt>**BG_NOTIFY_DISABLE**</dt> </dl>                             | Уведомление о событии отключено. Если параметр задан, то при оптимизации доставки игнорируются другие флаги.<br/> |
 | <span id="BG_NOTIFY_JOB_MODIFICATION"></span><span id="bg_notify_job_modification"></span><dl> <dt>**BG_NOTIFY_JOB_MODIFICATION**</dt> </dl> | Задание было изменено.<br/>                                          |
 
 

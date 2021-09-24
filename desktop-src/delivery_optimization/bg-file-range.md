@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: cedabfb066a5905adb2ed8eac9996fd77c0e12be
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 7d26785ba90ef6602ba7f5d0f4137d54e0b3044c
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126884856"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521171"
 ---
 # <a name="bg_file_range-structure"></a>Структура BG_FILE_RANGE
 
@@ -58,7 +58,7 @@ typedef struct {
 
 ## <a name="remarks"></a>Комментарии
 
-Диапазон должен существовать в файле или выдает ошибку **DO_E_INVALID_RANGE** .
+Диапазон должен существовать в файле или оптимизация доставки создает ошибку **DO_E_INVALID_RANGE** .
 
 ## <a name="requirements"></a>Требования
 

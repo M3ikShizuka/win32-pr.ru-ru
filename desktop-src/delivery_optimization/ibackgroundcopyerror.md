@@ -16,18 +16,18 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 1f35365d56ce9391a746e479e1b59034342ebf62
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 853ce5b6c1dfb9c90b7a5800f41a8a54fe094c0f
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127174864"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520266"
 ---
 # <a name="ibackgroundcopyerror-interface"></a>Интерфейс Ибаккграундкоперрор
 
 Используйте интерфейс **ибаккграундкоперрор** , чтобы определить причину ошибки, и если процесс перемещения может быть продолжен.
 
-Создает объект Error только в том случае, если состояние задания — BG_JOB_STATE_ERROR или BG_JOB_STATE_TRANSIENT_ERROR. Не создает объект Error при сбое метода интерфейса **ибаккграундкопикскскскс** . Объект Error доступен до тех пор, пока не начнется передача данных (состояние задания меняется на BG_JOB_STATE_TRANSFERRING) для задания.
+Оптимизация доставки создает объект Error только в том случае, если состояние задания — BG_JOB_STATE_ERROR или BG_JOB_STATE_TRANSIENT_ERROR. Оптимизация доставки не создает объект Error при сбое метода интерфейса **ибаккграундкопикскскскс** . Объект Error доступен до тех пор, пока оптимизация доставки не начнет передачу данных (состояние задания меняется на BG_JOB_STATE_TRANSFERRING) для задания.
 
 Чтобы получить объект **ибаккграундкоперрор** , вызовите метод [**использованием метода ibackgroundcopyjob::**](ibackgroundcopyjob-geterror.md) GetObject.
 

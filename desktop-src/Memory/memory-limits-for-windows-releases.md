@@ -3,36 +3,17 @@ description: в этом разделе описываются ограниче�
 ms.assetid: de09c8af-0ed8-4fd4-b8e8-2c921aafe6f2
 title: Предельный объем памяти для выпусков Windows и Windows Server
 ms.topic: article
-ms.date: 05/31/2018
-ms.openlocfilehash: d09db7d303468247794807629d3a56e786c4ada6
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.date: 09/10/2021
+ms.openlocfilehash: c53c6f1c805cdf92bdaf066cccf017044c5f8912
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127144370"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128519924"
 ---
 # <a name="memory-limits-for-windows-and-windows-server-releases"></a>Предельный объем памяти для выпусков Windows и Windows Server
 
 в этом разделе описываются ограничения памяти для поддерживаемых выпусков Windows и Windows Server.
-
--   [Ограничения памяти и адресного пространства](#memory-limits-for-windows-and-windows-server-releases)
--   [Ограничения физической памяти: Windows 10](#physical-memory-limits-windows-10)
--   [Ограничения физической памяти: Windows Server 2016](#physical-memory-limits-windows-server-2016)
--   [Ограничения физической памяти: Windows 8](#physical-memory-limits-windows-8)
--   [Ограничения физической памяти: Windows Server 2012](#physical-memory-limits-windows-server-2012)
--   [ограничения физической памяти: Windows 7](#physical-memory-limits-windows-7)
--   [ограничения физической памяти: Windows Server 2008 R2](#physical-memory-limits-windows-server-2008-r2)
--   [ограничения физической памяти: Windows Server 2008](#physical-memory-limits-windows-server-2008-r2)
--   [ограничения физической памяти: Windows Vista](#physical-memory-limits-windows-vista)
--   [ограничения физической памяти: Windows Home Server](#physical-memory-limits-windows-home-server)
--   [ограничения физической памяти: Windows Server 2003 R2](#physical-memory-limits-windows-server-2003-r2)
--   [ограничения физической памяти: Windows Server 2003 с пакетом обновления 2 (SP2)](#physical-memory-limits-windows-server-2003-with-service-pack-2-sp2)
--   [ограничения физической памяти: Windows Server 2003 с пакетом обновления 1 (SP1)](#physical-memory-limits-windows-server-2003-with-service-pack-1-sp1)
--   [ограничения физической памяти: Windows Server 2003](#physical-memory-limits-windows-server-2003-r2)
--   [ограничения физической памяти: Windows XP](#physical-memory-limits-windows-xp)
--   [ограничения физической памяти: Windows Embedded](#physical-memory-limits-windows-embedded)
--   [Влияние графических карт и других устройств на ограничения памяти](#how-graphics-cards-and-other-devices-affect-memory-limits)
--   [Связанные темы](#related-topics)
 
 Ограничения памяти и адресного пространства зависят от платформы, операционной системы и от того, используется ли значение **\_ \_ большого \_ адреса \_ файла образа** для [**загруженной структуры \_ образа**](/windows/win32/api/dbghelp/ns-dbghelp-loaded_image) и [Настройка 4 гигабайта](4-gigabyte-tuning.md) (4GT). **Изображение \_ Для файла с \_ \_ \_ поддержкой большого адреса** задается или снимается использование параметра компоновщика [/LARGEADDRESSAWARE](/cpp/build/reference/largeaddressaware-handle-large-addresses?view=vs-2019) .
 
@@ -119,8 +100,8 @@ ms.locfileid: "127144370"
 | Windows Server 2012 Datacenter        | 4 TБ<br/>  |
 | Windows Server 2012 Standard          | 4 TБ<br/>  |
 | Windows Server 2012 Essentials        | 64 ГБ<br/> |
-| Windows Server 2012 Foundation        | 32 ГБ<br/> |
-| Windows Storage Server 2012 Workgroup | 32 ГБ<br/> |
+| Windows Server 2012 Foundation        | 32 Гб<br/> |
+| Windows Storage Server 2012 Workgroup | 32 Гб<br/> |
 | Windows Storage Server 2012 Standard  | 4 TБ<br/>  |
 | Hyper-V Server 2012                   | 4 TБ<br/>  |
 
@@ -141,7 +122,7 @@ ms.locfileid: "127144370"
 | Windows 7 Профессиональная | 4 ГБ<br/> | 192 ГБ<br/> |
 | Windows 7 Домашняя расширенная | 4 ГБ<br/> | 16 Гб<br/>  |
 | Windows 7 Домашняя базовая   | 4 Гб<br/> | 8 Гб<br/>   |
-| Windows 7 Начальная      | 2 ГБ<br/> | Недоступно<br/>    |
+| Windows 7 Начальная      | 2 ГБ<br/> | Н/Д<br/>    |
 
 
 
@@ -158,10 +139,10 @@ ms.locfileid: "127144370"
 | Windows Server 2008 R2 Datacenter                | 2 ТБ<br/>   |                 |
 | Windows Server 2008 R2 Enterprise                | 2 ТБ<br/>   |                 |
 | Windows Server 2008 R2 для систем на базе Itanium |                   | 2 ТБ<br/> |
-| Windows Server 2008 R2 Foundation                | 8 ГБ<br/>   |                 |
-| Windows Server 2008 R2 Standard                  | 32 ГБ<br/>  |                 |
+| Windows Server 2008 R2 Foundation                | 8 Гб<br/>   |                 |
+| Windows Server 2008 R2 Standard                  | 32 Гб<br/>  |                 |
 | Windows HPC Server 2008 R2                       | 128 ГБ<br/> |                 |
-| Windows Web Server 2008 R2                       | 32 ГБ<br/>  |                 |
+| Windows Web Server 2008 R2                       | 32 Гб<br/>  |                 |
 
 
 
@@ -178,10 +159,10 @@ ms.locfileid: "127144370"
 | Windows Server 2008 Datacenter                | 64 ГБ<br/> | 1 TБ<br/>   |                 |
 | Windows Server 2008 Enterprise                | 64 ГБ<br/> | 1 TБ<br/>   |                 |
 | Windows Server 2008 HPC Edition               |                  | 128 ГБ<br/> |                 |
-| Windows Server 2008 Standard                  | 4 ГБ<br/>  | 32 ГБ<br/>  |                 |
+| Windows Server 2008 Standard                  | 4 ГБ<br/>  | 32 Гб<br/>  |                 |
 | Windows Server 2008 для систем на базе процессоров Itanium |                  |                   | 2 ТБ<br/> |
-| Windows Small Business Server 2008            | 4 ГБ<br/>  | 32 ГБ<br/>  |                 |
-| Windows Web Server 2008                       | 4 ГБ<br/>  | 32 ГБ<br/>  |                 |
+| Windows Small Business Server 2008            | 4 ГБ<br/>  | 32 Гб<br/>  |                 |
+| Windows Web Server 2008                       | 4 ГБ<br/>  | 32 Гб<br/>  |                 |
 
 
 
@@ -200,7 +181,7 @@ ms.locfileid: "127144370"
 | Windows Vista Business     | 4 ГБ<br/> | 128 ГБ<br/> |
 | Windows Vista Home Premium | 4 ГБ<br/> | 16 Гб<br/>  |
 | Windows Vista Home Basic   | 4 Гб<br/> | 8 Гб<br/>   |
-| Windows Vista Starter      | 1 ГБ<br/> |                   |
+| Windows Vista Starter      | 1 ГБ<br/> |                   |
 
 
 
@@ -220,7 +201,7 @@ Windows Home Server доступен только в 32-разрядном вы�
 |------------------------------------------------------|----------------------------------------------|------------------|
 | Windows Сервер 2003 R2 Datacenter Edition<br/> | 64 ГБ<br/> (16 ГБ с 4GT)<br/> | 1 TБ<br/>  |
 | Windows сервер 2003 R2 выпуск Enterprise<br/> | 64 ГБ<br/> (16 ГБ с 4GT)<br/> | 1 TБ<br/>  |
-| Windows сервер 2003 R2 выпуск Standard<br/>   | 4 ГБ<br/>                              | 32 ГБ<br/> |
+| Windows сервер 2003 R2 выпуск Standard<br/>   | 4 ГБ<br/>                              | 32 Гб<br/> |
 
 
 
@@ -236,7 +217,7 @@ Windows Home Server доступен только в 32-разрядном вы�
 |------------------------------------------------------------------------------|----------------------------------------------|------------------|-----------------|
 | Windows Сервер 2003 с пакетом обновления 2 (SP2), Datacenter Edition<br/> | 64 ГБ<br/> (16 ГБ с 4GT)<br/> | 1 TБ<br/>  | 2 ТБ<br/> |
 | Windows сервер 2003 с пакетом обновления 2 (sp2), выпуск Enterprise<br/> | 64 ГБ<br/> (16 ГБ с 4GT)<br/> | 1 TБ<br/>  | 2 ТБ<br/> |
-| Windows сервер 2003 с пакетом обновления 2 (sp2), выпуск Standard<br/>   | 4 ГБ<br/>                              | 32 ГБ<br/> |                 |
+| Windows сервер 2003 с пакетом обновления 2 (sp2), выпуск Standard<br/>   | 4 ГБ<br/>                              | 32 Гб<br/> |                 |
 
 
 
@@ -252,7 +233,7 @@ Windows Home Server доступен только в 32-разрядном вы�
 |------------------------------------------------------------------------------|----------------------------------------------|---------------------|-----------------|
 | Windows Сервер 2003 с пакетом обновления 1 (SP1), Datacenter Edition<br/> | 64 ГБ<br/> (16 ГБ с 4GT)<br/> | X64 1 ТБ<br/> | 1 TБ<br/> |
 | Windows сервер 2003 с пакетом обновления 1 (SP1), выпуск Enterprise<br/> | 64 ГБ<br/> (16 ГБ с 4GT)<br/> | X64 1 ТБ<br/> | 1 TБ<br/> |
-| Windows сервер 2003 с пакетом обновления 1 (SP1), выпуск Standard<br/>   | 4 ГБ<br/>                              | 32 ГБ<br/>    |                 |
+| Windows сервер 2003 с пакетом обновления 1 (SP1), выпуск Standard<br/>   | 4 ГБ<br/>                              | 32 Гб<br/>    |                 |
 
 
 
@@ -271,8 +252,8 @@ Windows Home Server доступен только в 32-разрядном вы�
 | Windows Server 2003, Standard Edition<br/>           | 4 ГБ<br/>                              |                   |
 | Windows Сервер 2003, Web Edition<br/>                | 2 ГБ<br/>                              |                   |
 | Windows Small Business Server 2003<br/>              | 4 ГБ<br/>                              |                   |
-| Windows Compute Cluster Server 2003<br/>             |                                              | 32 ГБ<br/>  |
-| Windows служба хранилища Server 2003 выпуск Enterprise<br/> | 8 ГБ<br/>                              |                   |
+| Windows Compute Cluster Server 2003<br/>             |                                              | 32 Гб<br/>  |
+| Windows служба хранилища Server 2003 выпуск Enterprise<br/> | 8 Гб<br/>                              |                   |
 | Windows Storage Server 2003<br/>                     | 4 ГБ<br/>                              |                   |
 
 
@@ -288,7 +269,7 @@ Windows Home Server доступен только в 32-разрядном вы�
 | Версия                    | Ограничение на x86      | Ограничение в x64      | Ограничение на IA64                     |
 |----------------------------|-------------------|-------------------|-----------------------------------|
 | Windows XP                 | 4 ГБ<br/>   | 128 ГБ<br/> | 128 ГБ (не поддерживается)<br/> |
-| Windows XP Starter Edition | 512 Мб<br/> | Недоступно<br/>    | Недоступно<br/>                    |
+| Windows XP Starter Edition | 512 Мб<br/> | Н/Д<br/>    | Н/Д<br/>                    |
 
 
 

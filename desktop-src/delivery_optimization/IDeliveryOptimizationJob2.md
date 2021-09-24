@@ -14,12 +14,12 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2019
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 13f5a32b4ddccc203bcae7d6674c4713069355cd
-ms.sourcegitcommit: c7add10d695482e1ceb72d62b8a4ebd84ea050f7
+ms.openlocfilehash: 7868dc29a746566291a10f6b8f8854f33fe2221f
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "105710757"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521191"
 ---
 # <a name="ideliveryoptimizationjob2-interface"></a>Интерфейс IDeliveryOptimizationJob2
 
@@ -37,17 +37,17 @@ IDeliveryOptimizationJob2 позволяет добавить один файл 
 
 | Метод                                              | Описание                                                          |
 |:----------------------------------------------------|----------------------------------------------------------------------|
-| [**AddFile**](ideliveryoptimizationjob2-addfile.md) | Метод AddFile добавляет один файл к существующему заданию DO.         |
-| [**GetProperty**](ideliveryoptimizationjob2-getproperty.md) | Метод AddFile добавляет один файл к существующему заданию DO. |
+| [**AddFile**](ideliveryoptimizationjob2-addfile.md) | Метод AddFile добавляет один файл в существующее задание оптимизации доставки.         |
+| [**GetProperty**](ideliveryoptimizationjob2-getproperty.md) | Метод AddFile добавляет один файл в существующее задание оптимизации доставки. |
 | [**SetProperty**](ideliveryoptimizationjob2-setproperty.md) | Этот метод не используется.                                       |
 
 ## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |--------------------------|----------------------------------------------------------------------------------|
-| Минимальная версия клиента | \[Только для настольных приложений Windows 10 версии 1803\]                                   |
-| Минимальная версия сервера | \[Только для настольных приложений Windows Server версии 1709\]                               |
-| Header                   | Deliveryoptimization. h                                                           |
+| Минимальная версия клиента | Windows 10, только для \[ настольных приложений версии 1803\]                                   |
+| Минимальная версия сервера | Windows Server, только для \[ настольных приложений версии 1709\]                               |
+| Заголовок                   | Deliveryoptimization. h                                                           |
 | IDL                      | DeliveryOptimization. idl                                                         |
 | Библиотека                  | Досвк. lib                                                                        |
 | DLL                      | Dosvc.dll                                                                        |

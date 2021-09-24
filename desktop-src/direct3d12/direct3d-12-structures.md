@@ -6,12 +6,12 @@ ms.localizationpriority: low
 ms.topic: article
 ms.date: 04/19/2019
 ms.custom: 19H1
-ms.openlocfilehash: 5dd546055c22711ecd9a3796e520ad034e9e46c6
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 7f656a9c8a69a0b684f411729f51d9eef37daad3
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127249124"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520816"
 ---
 # <a name="core-structures"></a>Базовые структуры
 
@@ -68,7 +68,7 @@ ms.locfileid: "127249124"
 | [**D3D12_FEATURE_DATA_D3D12_OPTIONS10**](/windows/win32/api/d3d12/ns-d3d12-d3d12_feature_data_d3d12_options10). Указывает, можно ли использовать объединение SUM, а также следует ли задавать *SV_ShadingRate* из шейдера сетки. |
 | [**D3D12_FEATURE_DATA_D3D12_OPTIONS11**](/windows/win32/api/d3d12/ns-d3d12-d3d12_feature_data_d3d12_options11). Указывает, поддерживается ли 64-разрядное целое число, атомарное для ресурсов в куче дескрипторов. |
 | [**D3D12_FEATURE_DATA_EXISTING_HEAPS**](/windows/win32/api/d3d12/ns-d3d12-d3d12_feature_data_existing_heaps). Используется, чтобы детерминине, поддерживает ли адаптер создание куч из существующей системной памяти. Такие кучи не предназначены для общего использования, но они чрезвычайно полезны для диагностики, так как они гарантированно сохраняются даже после сбоя адаптера или при возникновении события удаления устройства. |
-| [**D3D12_FEATURE_DATA_FEATURE_LEVELS**](/windows/win32/api/d3d12/ns-d3d12-d3d12_feature_data_feature_levels). Содержит сведения о [уровнях функций](/windows/win32/direct3d11/overviews-direct3d-11-devices-downlevel-intro) , поддерживаемых текущим графическим драйвером. |
+| [**D3D12_FEATURE_DATA_FEATURE_LEVELS**](/windows/win32/api/d3d12/ns-d3d12-d3d12_feature_data_feature_levels). Содержит сведения о [уровнях функций](../direct3d11/overviews-direct3d-11-devices-downlevel-intro.md) , поддерживаемых текущим графическим драйвером. |
 | [**D3D12_FEATURE_DATA_FORMAT_INFO**](/windows/win32/api/d3d12/ns-d3d12-d3d12_feature_data_format_info). Описывает формат данных DXGI. |
 | [**D3D12_FEATURE_DATA_FORMAT_SUPPORT**](/windows/win32/api/d3d12/ns-d3d12-d3d12_feature_data_format_support). Описывает, какие ресурсы поддерживаются текущим драйвером графики для заданного формата. |
 | [**D3D12_FEATURE_DATA_GPU_VIRTUAL_ADDRESS_SUPPORT**](/windows/win32/api/d3d12/ns-d3d12-d3d12_feature_data_gpu_virtual_address_support). Сведения об ограничениях виртуального адресного пространства GPU адаптера, включая максимальное число битов на ресурс и на процесс. |

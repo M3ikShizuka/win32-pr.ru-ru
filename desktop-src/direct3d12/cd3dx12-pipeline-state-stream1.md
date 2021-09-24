@@ -15,12 +15,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 219b198ae5c2da6d6e74db933d4c26771aa63975
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: e56422aeb9b6f1c0bb87b31960b21068e75bd70d
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127569974"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520453"
 ---
 # <a name="cd3dx12_pipeline_state_stream1-structure"></a>Структура CD3DX12_PIPELINE_STATE_STREAM1
 
@@ -31,7 +31,6 @@ CD3DX12_PIPELINE_STATE_STREAM1 поддерживает Windows 10 Fall Creators
 См. статью [CD3DX12_PIPELINE_STATE_STREAM2](cd3dx12-pipeline-state-stream2.md) for OS Build 19041 + (где есть конвейер шейдера сетки).
 
 ## <a name="syntax"></a>Синтаксис
-
 
 ```C++
 struct CD3DX12_PIPELINE_STATE_STREAM1 {
@@ -63,8 +62,6 @@ struct CD3DX12_PIPELINE_STATE_STREAM1 {
   CD3DX12_PIPELINE_STATE_STREAM_CACHED_PSO            CachedPSO;
 };
 ```
-
-
 
 ## <a name="members"></a>Участники
 
@@ -101,7 +98,7 @@ struct CD3DX12_PIPELINE_STATE_STREAM1 {
 **ComputeDescV0()**
 </dt> <dd>
 
-Возвращает содержимое объекта CD3DX12_PIPELINE_STATE_STREAM1 в виде структуры D3D12_COMPUTE_PIPELINE_STATE_DESC по значению. Обратите внимание, что D3D12_COMPUTE_PIPELINE_STATE_DESC не содержит членов  **инпутлайаут**, **ибстрипкутвалуе**, **примитиветопологитипе**, **VS**, **GS**, **стреамаутпут**, **HS**,  **DS**, **блендстате**, **депсстенЦилстате** **, DSVFormat** **, RasterizerState** или **NumRootSignature** , **поэтому** эти значения теряются при преобразовании. 
+Возвращает содержимое объекта CD3DX12_PIPELINE_STATE_STREAM1 в виде структуры D3D12_COMPUTE_PIPELINE_STATE_DESC по значению. Обратите внимание, что D3D12_COMPUTE_PIPELINE_STATE_DESC не включает члены  **инпутлайаут**, **ибстрипкутвалуе**, **примитиветопологитипе**, **VS**, **GS**, **стреамаутпут**, **HS**,  **DS**, **блендстате**, **депсстенЦилстате** **, DSVFormat** **, RasterizerState** или **NumRootSignature** , **поэтому** эти значения теряются в  образовывать.
 
 </dd> <dt>
 
@@ -252,11 +249,11 @@ struct CD3DX12_PIPELINE_STATE_STREAM1 {
 
 </dd> </dl>
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 [CD3DX12_PIPELINE_STATE_STREAM](cd3dx12-pipeline-state-stream.md) поддерживает Windows 10 Fall Creators Update, но не поддерживает типы подобъектов, добавленные в обновление для создателей Windows 10, например, для создания экземпляров представления. Для поддержки новых типов подобъектов используйте вместо него **CD3DX12_PIPELINE_STATE_STREAM1** .
 
-Доступные переменные-члены этой структуры — это все определения типов шаблона [**CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT**](/windows/win32/direct3d12/cd3dx12-pipeline-state-stream-subobject) , которые объединяют данные маркера типа и подобъекта в один объект, подходящий для описания потока.
+Доступные переменные-члены этой структуры — это все определения типов шаблона [**CD3DX12_PIPELINE_STATE_STREAM_SUBOBJECT**](./cd3dx12-pipeline-state-stream-subobject.md) , которые объединяют данные маркера типа и подобъекта в один объект, подходящий для описания потока.
 
 ## <a name="requirements"></a>Требования
 

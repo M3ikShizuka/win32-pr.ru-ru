@@ -16,12 +16,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 113e0b1ecc995a0a452f22835ad8717041b44d10
-ms.sourcegitcommit: a1494c819bc5200050696e66057f1020f5b142cb
+ms.openlocfilehash: 4f83f2b9ed799855b2ee1e9675a22cc1d2751583
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "105710456"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520463"
 ---
 # <a name="bg_job_state-enumeration"></a>Перечисление BG_JOB_STATE
 
@@ -67,7 +67,7 @@ typedef enum  {
 <span id="BG_JOB_STATE_TRANSFERRING"></span><span id="bg_job_state_transferring"></span>**BG_JOB_STATE_TRANSFERRING**
 </dt> <dd>
 
-Указывает, что передает данные для задания.
+Указывает, что оптимизация доставки передает данные для задания.
 
 </dd> <dt>
 
@@ -88,7 +88,7 @@ typedef enum  {
 <span id="BG_JOB_STATE_TRANSIENT_ERROR"></span><span id="bg_job_state_transient_error"></span>**BG_JOB_STATE_TRANSIENT_ERROR**
 </dt> <dd>
 
-Указывает, что произошла устранимая ошибка. Будут повторены задания в состоянии временной ошибки на основе внутренней конфигурации повторных попыток. Состояние задания меняется на **BG_JOB_STATE_ERROR** , если задание не выполняется (см. раздел [**использованием метода ibackgroundcopyjob:: сетнопрогресстимеаут**](ibackgroundcopyjob-setnoprogresstimeout.md)).
+Указывает, что произошла устранимая ошибка. Оптимизация доставки попытается повторить задания в состоянии временной ошибки на основе внутренней конфигурации повторных попыток. Состояние задания меняется на **BG_JOB_STATE_ERROR** , если задание не выполняется (см. раздел [**использованием метода ibackgroundcopyjob:: сетнопрогресстимеаут**](ibackgroundcopyjob-setnoprogresstimeout.md)).
 
 </dd> <dt>
 
@@ -119,9 +119,9 @@ typedef enum  {
 
 | Требование | Значение |
 |-------------------------------------|---------------------------------------------------------------------------------------------------|
-| Минимальная версия клиента<br/> | \[Только для настольных приложений Windows 10 версии 1709\]<br/>                                         |
-| Минимальная версия сервера<br/> | \[Только для настольных приложений Windows Server версии 1709\]<br/>                                     |
-| Header<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl> |
+| Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                                         |
+| Минимальная версия сервера<br/> | Windows Server, только для \[ настольных приложений версии 1709\]<br/>                                     |
+| Заголовок<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl> |
 
 
 

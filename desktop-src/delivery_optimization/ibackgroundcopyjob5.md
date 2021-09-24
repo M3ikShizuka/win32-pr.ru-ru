@@ -16,12 +16,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 593f06f74dde7e6891417871cd16dc3730ef005fb90a0a1b6cf5377fda7ebcd0
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 4bde9b7991911c0589b3df668133d9092484bbb2
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119461974"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520631"
 ---
 # <a name="ibackgroundcopyjob5-interface"></a>Интерфейс IBackgroundCopyJob5
 
@@ -43,14 +43,14 @@ ms.locfileid: "119461974"
 
 | Метод                                                 | Описание                                                |
 |:-------------------------------------------------------|:-----------------------------------------------------------|
-| [**GetProperty**](ibackgroundcopyjob5-getproperty.md) | Универсальный метод для получения свойств задания.<br/> |
-| [**SetProperty**](ibackgroundcopyjob5-setproperty.md) | Универсальный метод для настройки свойств задания.<br/> |
+| [**GetProperty**](ibackgroundcopyjob5-getproperty.md) | Универсальный метод для получения свойств задания оптимизации доставки.<br/> |
+| [**SetProperty**](ibackgroundcopyjob5-setproperty.md) | Универсальный метод для установки свойств задания оптимизации доставки.<br/> |
 
 
 
  
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 
 
@@ -58,7 +58,7 @@ ms.locfileid: "119461974"
 |-------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Server, только для \[ настольных приложений версии 1709\]<br/>                                       |
-| Header<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>DeliveryOptimization. idl</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>Досвк. lib</dt> </dl>                |
 | DLL<br/>                      | <dl> <dt>Dosvc.dll</dt> </dl>                |

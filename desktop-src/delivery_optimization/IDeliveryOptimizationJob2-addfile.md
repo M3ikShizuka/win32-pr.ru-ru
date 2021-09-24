@@ -1,6 +1,6 @@
 ---
 title: IDeliveryOptimizationJob2 AddFile, метод
-description: Метод AddFile добавляет один файл к существующему заданию DO.
+description: Метод AddFile добавляет один файл в существующее задание оптимизации доставки.
 keywords:
 - AddFile - метод
 - Метод AddFile, интерфейс IDeliveryOptimizationJob2
@@ -16,16 +16,16 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: e6d27bca855bb9c719b485060fabf1f10b7130bd864569e74f98516ca76b8fb1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 217215d6f4aaf96de8deab37d08cc492392c0631
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118544639"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128519896"
 ---
 # <a name="ideliveryoptimizationjob2addfilewithranges-method"></a>Метод IDeliveryOptimizationJob2:: Аддфилевисранжес
 
-Метод AddFile добавляет один файл к существующему заданию DO.
+Метод AddFile добавляет один файл в существующее задание оптимизации доставки.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -54,7 +54,7 @@ HRESULT AddFile(
 *ремотеурл* \[ окне\]
 </dt> <dd>
 
-URL-адрес файла, который выполняет попытку подключения для скачивания файла.
+URL-адрес файла, который оптимизация доставки будет пытаться подключиться для скачивания файла.
 
 </dd> <dt>
 
@@ -96,7 +96,7 @@ URL-адрес файла, который выполняет попытку по
 |---------------------------|---------------------------------------------------------------------------------|
 | Минимальная версия клиента  | Windows 10, только для \[ настольных приложений версии 1803\]                                  |
 | Минимальная версия сервера  | Windows Server, только для \[ настольных приложений версии 1709\]                              |
-| Header                    | Deliveryoptimization. h                                                          |
+| Заголовок                    | Deliveryoptimization. h                                                          |
 | IDL                       | DeliveryOptimization. idl                                                        |
 | Библиотека                   | Досвк. lib                                                                       |
 | DLL                       | Dosvc.dll                                                                       |

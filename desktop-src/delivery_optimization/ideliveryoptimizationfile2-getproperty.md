@@ -1,6 +1,6 @@
 ---
 title: 'IDeliveryOptimizationFile2:: метод Property'
-description: 'Этот метод возвращает одно свойство файла DO. | IDeliveryOptimizationFile2:: метод Property'
+description: 'Этот метод возвращает одно свойство файла оптимизации доставки. | IDeliveryOptimizationFile2:: метод Property'
 keywords:
 - Метод GetProperty
 - Метод Property, интерфейс IDeliveryOptimizationFile2
@@ -16,16 +16,16 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: d0f181eebe2aff8ccbbbf6d5400e3d5a78f123e2304567a413ecf4a35357229b
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: b3b89c054d1d45023a0237aa6f1f3e186c2c836e
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118542094"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520965"
 ---
 # <a name="ideliveryoptimizationfile2getproperty-method"></a>IDeliveryOptimizationFile2:: метод Property
 
-Этот метод возвращает одно свойство файла DO.
+Этот метод возвращает одно свойство файла оптимизации доставки.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -60,7 +60,7 @@ HRESULT GetProperty(
 
 | Код возврата                  | Описание                                         |
 |------------------------------|-----------------------------------------------------|
-| **S_OK**                     | Успешно                                             |
+| **S_OK**                     | Успешное завершение                                             |
 | **DO_E_UNKNOWN_PROPERTY_ID** | Неизвестный идентификатор свойства.                                |
 | **DO_E_WRITE_ONLY_PROPERTY** | Свойство доступно только для записи и не может быть прочитано.      |
 | **E_NOT_SET**                | Свойство не было задано с помощью метода SetProperty. |
@@ -72,7 +72,7 @@ HRESULT GetProperty(
 |---------------------------|----------------------------------------------------------------------------------|
 | Минимальная версия клиента  | Windows 10, только для \[ настольных приложений версии 1803\]                                   |
 | Минимальная версия сервера  | Windows Server, только для \[ настольных приложений версии 1709\]                               |
-| Header                    | Deliveryoptimization. h                                                           |
+| Заголовок                    | Deliveryoptimization. h                                                           |
 | IDL                       | DeliveryOptimization. idl                                                         |
 | Библиотека                   | Досвк. lib                                                                        |
 | DLL                       | Dosvc.dll                                                                        |

@@ -16,12 +16,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 27febd08519a06f7ad452882cf0725fed209e0306182ba336343049936795acf
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 052bb0ac743b5140cffd38697e6875e79306645c
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118543030"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520321"
 ---
 # <a name="ibackgroundcopyjob-interface"></a>Интерфейс использованием метода ibackgroundcopyjob
 
@@ -49,7 +49,7 @@ ms.locfileid: "118543030"
 | [**Переdisplayname**](ibackgroundcopyjob-getdisplayname.md)             | Извлекает отображаемое имя, идентифицирующее задание.<br/>                                                                                                                                                                    |
 | [**Ошибка**](ibackgroundcopyjob-geterror.md)                         | Извлекает указатель интерфейса на объект ошибки после возникновения ошибки.<br/>                                                                                                                                              |
 | [**GetId**](ibackgroundcopyjob-getid.md)                               | Возвращает идентификатор задания в очереди.<br/>                                                                                                                                                                      |
-| [**жетнопрогресстимеаут**](ibackgroundcopyjob-getnoprogresstimeout.md) | Возвращает продолжительность времени, в течение которого будет выполняться попытка пересылки файла после возникновения временной ошибки.<br/>                                                                                             |
+| [**жетнопрогресстимеаут**](ibackgroundcopyjob-getnoprogresstimeout.md) | Возвращает период времени, в течение которого оптимизация доставки продолжит попытки передачи файла после возникновения временной ошибки.<br/>                                                                                             |
 | [**жетнотифифлагс**](ibackgroundcopyjob-getnotifyflags.md)             | Получает флаги уведомления о событиях (обратный вызов), заданные для приложения.<br/>                                                                                                                                   |
 | [**жетнотифинтерфаце**](ibackgroundcopyjob-getnotifyinterface.md)     | Извлекает указатель на реализацию интерфейса [**ибаккграундкопикаллбакк**](ibackgroundcopycallback.md) (обратные вызовы).<br/>                                                                                    |
 | [**GetPriority**](ibackgroundcopyjob-getpriority.md)                   | Возвращает уровень приоритета, заданный для задания.<br/>                                                                                                                                                                 |
@@ -58,11 +58,11 @@ ms.locfileid: "118543030"
 | [**Время ожидания**](ibackgroundcopyjob-gettimes.md)                         | Возвращает метки времени для действий, связанных с заданием, например время создания задания.<br/>                                                                                                                         |
 | [**GetType**](ibackgroundcopyjob-gettype.md)                           | Возвращает тип выполняемой пересылки, например скачивание файла.<br/>                                                                                                                                               |
 | [**Возобновить**](ibackgroundcopyjob-resume.md)                             | Запускает новое задание или перезапускает приостановленное задание.<br/>                                                                                                                                                                          |
-| [**сетнопрогресстимеаут**](ibackgroundcopyjob-setnoprogresstimeout.md) | Указывает период времени, в течение которого будет выполняться попытка пересылки файла после возникновения временной ошибки.<br/>                                                                                             |
+| [**сетнопрогресстимеаут**](ibackgroundcopyjob-setnoprogresstimeout.md) | Указывает период времени, в течение которого оптимизация доставки продолжит попытки передачи файла после возникновения временной ошибки.<br/>                                                                                             |
 | [**сетнотифифлагс**](ibackgroundcopyjob-setnotifyflags.md)             | Указывает тип уведомления о событии для получения.<br/>                                                                                                                                                                   |
 | [**сетнотифинтерфаце**](ibackgroundcopyjob-setnotifyinterface.md)     | Указывает указатель на реализацию интерфейса [**ибаккграундкопикаллбакк**](ibackgroundcopycallback.md) (обратные вызовы). Интерфейс получает уведомления на основе заданных флагов уведомления о событиях.<br/> |
 | [**SetPriority**](ibackgroundcopyjob-setpriority.md)                   | Указывает приоритет задания относительно других заданий в очереди обмена.<br/>                                                                                                                                        |
-| [**Приостановить**](ibackgroundcopyjob-suspend.md)                           | Приостанавливает задание.<br/>                                                                                                                                                                                                        |
+| [**Анализируем**](ibackgroundcopyjob-suspend.md)                           | Приостанавливает задание.<br/>                                                                                                                                                                                                        |
 
 
 
@@ -76,7 +76,7 @@ ms.locfileid: "118543030"
 |-------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Server, только для \[ настольных приложений версии 1709\]<br/>                                       |
-| Header<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>DeliveryOptimization. idl</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>Досвк. lib</dt> </dl>                |
 | DLL<br/>                      | <dl> <dt>Dosvc.dll</dt> </dl>                |

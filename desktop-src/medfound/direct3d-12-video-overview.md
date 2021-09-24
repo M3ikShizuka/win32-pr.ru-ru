@@ -4,12 +4,12 @@ ms.assetid: ''
 title: Видеообзор Direct3D 12
 ms.topic: article
 ms.date: 06/03/2019
-ms.openlocfilehash: b21587f2784b34131da9c050655b6f3fbe43582d
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 2b5f57cd5d9daaa3a7a32dbf822894d3373141ca
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127573419"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128519936"
 ---
 # <a name="direct3d-12-video-overview"></a>Видеообзор Direct3D 12
 
@@ -119,8 +119,11 @@ API-интерфейсы видео Direct3D 12 используют упрощ�
 ## <a name="related-topics"></a>Связанные темы
 
 <dl> <dt>
-[API-интерфейсы](direct3d-12-video-apis.md) 
- видео Direct3D 12 [Media Foundationое программное руководством](media-foundation-programming-guide.md)
+ 
+[API-интерфейсы видео Direct3D 12](direct3d-12-video-apis.md)
+</dt> <dt>
+ 
+[Media Foundationое программное руководством](media-foundation-programming-guide.md)
 </dt> </dl>
 
  

@@ -3,18 +3,18 @@ title: Поставщики систем
 description: Включите события поставщика трассировки системы с помощью EnableTraceEx2.
 ms.topic: article
 ms.date: 06/02/2021
-ms.openlocfilehash: 46c141c6449594b8030ce24bb901b0afede33f3f6e2cefcaa36f4df4bf0dde0e
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: f32b31f1c1a59c3a1507a37279def248f57e66e2
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119812154"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520311"
 ---
 # <a name="system-providers"></a>Поставщики систем
  
 начиная с Windows 10 SDK сборки 20348, события поставщика трассировки системы могут быть включены так же, как другие поставщики ETW с [EnableTraceEx2](/windows/win32/api/evntrace/nf-evntrace-enabletraceex2).  Различные флаги и [маски групп](/windows/win32/api/evntrace/ns-evntrace-event_trace_properties) , связанные с системным поставщиком трассировки, были сопоставлены с новыми поставщиками трассировки, называемыми поставщиками систем, и совпадающими ключевыми словами.  
  
-Как и непосредственное включение поставщика трассировки системы, поставщики систем можно включить только с помощью сеанса с набором [EVENT_TRACE_SYSTEM_LOGGER_MODE](/windows/win32/etw/logging-mode-constants) .
+Как и непосредственное включение поставщика трассировки системы, поставщики систем можно включить только с помощью сеанса с набором [EVENT_TRACE_SYSTEM_LOGGER_MODE](./logging-mode-constants.md) .
 
 ## <a name="system-provider-reference"></a>Справочник по поставщику систем
 
@@ -299,7 +299,7 @@ GUID: Системтимерпровидергуид {4f061568-e215-499f-ab2e-ed
 | SYSTEM_TIMER_KW_GENERAL | PERF_TIMER |
 | SYSTEM_TIMER_KW_CLOCK_TIMER | PERF_CLOCK_TIMER |
  
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Этот новый механизм включения является дополнением к уже существующим методам для включения этих событий.  Любой код, который использовался для работы, продолжит это.
  

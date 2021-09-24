@@ -17,12 +17,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 72ace8890e724e529e96c5292a439042f13bc2bfad77e6d990a6dbb2fa18f5d3
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: f55afa5a95659df922d80a6894ed1586ceab0cbc
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117736229"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520494"
 ---
 # <a name="ibackgroundcopyjobcomplete-method"></a>Метод использованием метода ibackgroundcopyjob:: Complete
 
@@ -56,13 +56,13 @@ HRESULT Complete();
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Все файлы были успешно переданы, если состояние задания — **BG_JOB_STATE_TRANSFERRED**. Чтобы проверить состояние задания, вызовите метод [**использованием метода ibackgroundcopyjob:: with State**](ibackgroundcopyjob-getstate.md) . Можно также реализовать интерфейс [**ибаккграундкопикаллбакк**](ibackgroundcopycallback.md) для получения уведомлений о том, что все файлы были переданы клиенту.
 
-Сохраняются только задания, срок действия которых меньше 30 дней. Все более старые задания будут удалены. Не поддерживает групповая политика [жобинактивититимеаут](https://www.bing.com/search?q=JobInactivityTimeout) .
+В процессе оптимизации доставки сохраняются только те задания, которые выполняются менее чем за 30 дней. Все более старые задания будут удалены. Оптимизация доставки не поддерживает групповая политика [жобинактивититимеаут](https://www.bing.com/search?q=JobInactivityTimeout) .
 
-Для заданий загрузки можно вызвать метод **Complete** в любое время в процессе перемещения; Однако сохраняются только те файлы, которые были успешно переданы клиенту до вызова этого метода. Например, при вызове метода **Complete** во время обработки третьей из пяти файлов сохраняются только первые два файла. Чтобы определить, какие файлы были переданы, вызовите метод [**ибаккграундкопифиле:: Progress**](ibackgroundcopyfile-getprogress-method.md) и сравните элемент **BytesTransferred** с элементом **битестотал** структуры [**BG_FILE_PROGRESS**](bg-file-progress.md) .
+Для заданий загрузки можно вызвать метод **Complete** в любое время в процессе перемещения; Однако сохраняются только те файлы, которые были успешно переданы клиенту до вызова этого метода. Например, при вызове метода **Complete** , пока оптимизация доставки обрабатывает треть из пяти файлов, сохраняются только первые два файла. Чтобы определить, какие файлы были переданы, вызовите метод [**ибаккграундкопифиле:: Progress**](ibackgroundcopyfile-getprogress-method.md) и сравните элемент **BytesTransferred** с элементом **битестотал** структуры [**BG_FILE_PROGRESS**](bg-file-progress.md) .
 
 Для заданий отправки можно вызвать метод **Complete** , только если задание находится в состоянии **BG_JOB_STATE_TRANSFERRED**.
 

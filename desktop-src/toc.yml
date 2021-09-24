@@ -5,7 +5,7 @@
       items:
         - name: Обзор
           href: ./desktop-programming.md
-        - name: Новое
+        - name: Новые возможности
           href: ./whats-new.md
         - name: Создание первого приложения Win32 на C++
           href: ./learnwin32/learn-to-program-for-windows.md
@@ -173,7 +173,7 @@
                   href: ./data-access-and-storage.md
                 - name: Фоновая интеллектуальная служба передачи
                   href: ./bits/background-intelligent-transfer-service-portal.md
-                - name: Резервное копирование
+                - name: Backup
                   href: ./backup/backup.md
                 - name: Облачные модули синхронизации
                   href: ./cfapi/cloud-files-api-portal.md
@@ -331,6 +331,8 @@
                       href: ./xinput/xinput-game-controller-apis-portal.md
                 - name: DirectComposition
                   href: ./directcomp/directcomposition-portal.md
+                - name: Имеющуюся цепочку буферов композиции
+                  href: ./comp_swapchain/comp-swapchain-portal.md
                 - name: GDI+
                   href: ./gdiplus/-gdiplus-gdi-start.md
                 - name: Windows GDI
@@ -561,7 +563,7 @@
                   items:
                     - name: Консоль управления (MMC) 3.0
                       href: ./srvnodes/microsoft-management-console-3-0.md
-                - name: Службы WSUS
+                - name: Службы Windows Server Update Services
                   href: ./srvnodes/windows-server-update-services.md
                   items:
                     - name: 'библиотека классов Windows Server Update Services 2,0'

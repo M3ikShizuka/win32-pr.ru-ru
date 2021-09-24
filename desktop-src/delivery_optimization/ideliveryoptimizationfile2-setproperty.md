@@ -1,6 +1,6 @@
 ---
 title: 'Метод IDeliveryOptimizationFile2:: SetProperty'
-description: 'Этот метод возвращает одно свойство файла DO. | Метод IDeliveryOptimizationFile2:: SetProperty'
+description: 'Этот метод возвращает одно свойство файла оптимизации доставки. | Метод IDeliveryOptimizationFile2:: SetProperty'
 keywords:
 - SetProperty — метод
 - Метод SetProperty, интерфейс IDeliveryOptimizationFile2
@@ -16,16 +16,16 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 99ed42acb94f260e229abfe9df428aaa61d3658cb887892b84bb73fd6e7e63e2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: c9c392c603ed067520b0f189dfbf547bc12ee80a
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119635724"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520826"
 ---
 # <a name="ideliveryoptimizationfile2setproperty-method"></a>Метод IDeliveryOptimizationFile2:: SetProperty
 
-Этот метод возвращает одно свойство файла DO.
+Этот метод возвращает одно свойство файла оптимизации доставки.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -60,11 +60,11 @@ HRESULT SetProperty(
 
 | Код возврата                  | Описание                                                        |
 |------------------------------|--------------------------------------------------------------------|
-| **S_OK**                     | Success                                                            |
+| **S_OK**                     | Успешное завершение                                                            |
 | **DO_E_UNKNOWN_PROPERTY_ID** | Неизвестный идентификатор свойства                                                |
 | **DO_E_INVALID_STATE**       | Задание в настоящее время не находится в состоянии, допускающем установку свойства |
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |---------------------------|----------------------------------------------------------------------------------|
@@ -76,6 +76,6 @@ HRESULT SetProperty(
 | DLL                       | Dosvc.dll                                                                        |
 | IID                       | IID_IDeliveryOptimizationJob2 определен как 18995A26-BF59-4ABE-9F8B-D5092D5A2405 |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [**IDeliveryOptimizationFile2**](ideliveryoptimizationfile2.md)

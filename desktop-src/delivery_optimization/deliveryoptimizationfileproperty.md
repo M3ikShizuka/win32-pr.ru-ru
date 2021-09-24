@@ -1,6 +1,6 @@
 ---
 title: Перечисление Деливерйоптимизатионфилепроперти (Deliveryoptimization. h)
-description: Перечисление Деливерйоптимизатионфилепроперти указывает идентификатор необязательного свойства для файла DO.
+description: Перечисление Деливерйоптимизатионфилепроперти указывает идентификатор необязательного свойства для файла оптимизации доставки.
 keywords:
 - Перечисление Деливерйоптимизатионфилепроперти
 topic_type:
@@ -14,16 +14,16 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2019
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 238ad815149f7d40dd1902b991608e0a3005eb35
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 7c670118a66525c2a890a8c1ed96e4eefb5f5c28
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127566782"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520256"
 ---
 # <a name="deliveryoptimizationfileproperty-enumeration"></a>Перечисление Деливерйоптимизатионфилепроперти
 
-Перечисление Деливерйоптимизатионфилепроперти указывает идентификатор необязательного свойства для файла DO. Это перечисление используется в интерфейсе IDeliveryOptimizationFile2, где передается значение свойства типа VARIANT.
+Перечисление Деливерйоптимизатионфилепроперти указывает идентификатор необязательного свойства для файла оптимизации доставки. Это перечисление используется в интерфейсе IDeliveryOptimizationFile2, где передается значение свойства типа VARIANT.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -53,7 +53,7 @@ DOFilePropertyId_DecryptionInfo
 DOFilePropertyId_IntegrityCheckInfo
 </dt> <dd>
 
-Идентификатор свойства DOFilePropertyId_IntegrityCheckInfo задает расположение файлового хэша (ФФ), которое используется, чтобы выполнять проверку целостности во время выполнения для загруженного содержимого. DOFilePropertyId_IntegrityCheckInfo является свойством только для записи типа VT_BSTR.
+Идентификатор свойства DOFilePropertyId_IntegrityCheckInfo задает расположение файла хэш-кода (ФФ), которое используется оптимизацией доставки для выполнения проверок целостности во время выполнения для загруженного содержимого. DOFilePropertyId_IntegrityCheckInfo является свойством только для записи типа VT_BSTR.
 
 </dd> <dt>
 
@@ -67,7 +67,7 @@ DOFilePropertyId_IntegrityCheckMandatory
 DOFilePropertyId_DownloadSinkFilePath
 </dt> <dd>
 
-Идентификатор свойства DOFilePropertyId_DownloadSinkFilePath задает полное расположение файловой системы, где следует хранить загруженные фрагменты. DOFilePropertyId_DownloadSinkFilePath имеет тип VT_BSTR.
+Идентификатор свойства DOFilePropertyId_DownloadSinkFilePath задает полное расположение файловой системы, где оптимизация доставки должна хранить загруженные фрагменты. DOFilePropertyId_DownloadSinkFilePath имеет тип VT_BSTR.
 
 </dd> <dt>
 

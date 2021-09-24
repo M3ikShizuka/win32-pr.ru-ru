@@ -16,12 +16,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 45b1f0f3029cc6157f2f100b3324165cfac1b03b
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 252b7a8843c4bd7b0a45dbc7cfef235ac5303ea5
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126964006"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521038"
 ---
 # <a name="bg_job_priority-enumeration"></a>Перечисление BG_JOB_PRIORITY
 
@@ -62,14 +62,14 @@ typedef enum  {
 <span id="BG_JOB_PRIORITY_NORMAL"></span><span id="bg_job_priority_normal"></span>**BG_JOB_PRIORITY_NORMAL**
 </dt> <dd>
 
-Поведение выполняется для всех заданий, не являющихся основными. Дополнительные сведения см. в комментариях в BG_JOB_PRIORITY_HIGH.
+Поведение оптимизации доставки одинаково для всех заданий, не являющихся основными. Дополнительные сведения см. в комментариях в BG_JOB_PRIORITY_HIGH.
 
 </dd> <dt>
 
 <span id="BG_JOB_PRIORITY_LOW"></span><span id="bg_job_priority_low"></span>**BG_JOB_PRIORITY_LOW**
 </dt> <dd>
 
-Поведение выполняется для всех заданий, не являющихся основными. Дополнительные сведения см. в комментариях в BG_JOB_PRIORITY_HIGH.
+Поведение оптимизации доставки одинаково для всех заданий, не являющихся основными. Дополнительные сведения см. в комментариях в BG_JOB_PRIORITY_HIGH.
 
 </dd> </dl>
 

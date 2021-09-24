@@ -1,6 +1,6 @@
 ---
 title: Метод IBackgroundCopyJob5-Property (Deliveryoptimization. h)
-description: Универсальный метод для получения свойств задания оптимизации доставки (DO).
+description: Универсальный метод для получения свойств задания оптимизации доставки.
 ms.assetid: 22BA2FAB-3F24-4801-8FB7-CB6F9E8DFBB3
 keywords:
 - Метод GetProperty
@@ -17,16 +17,16 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 2141afba2d2f58a08c62d609b9029c07ae07923e35f43e985f61a13a02aa68d2
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 6c09d5886acb7d1bada165180e3d26bdf6505a6b
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118542803"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520276"
 ---
 # <a name="ibackgroundcopyjob5getproperty-method"></a>IBackgroundCopyJob5:: метод Property
 
-Универсальный метод для получения свойств задания оптимизации доставки (DO).
+Универсальный метод для получения свойств задания оптимизации доставки.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -66,7 +66,7 @@ HRESULT GetProperty(
 
 | Код возврата                                                                          | Описание        |
 |--------------------------------------------------------------------------------------|--------------------|
-| <dl> <dt>**S_OK**</dt> </dl> | Успешно<br/> |
+| <dl> <dt>**S_OK**</dt> </dl> | Успешное завершение<br/> |
 
 
 
@@ -80,7 +80,7 @@ HRESULT GetProperty(
 |-------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Минимальная версия клиента<br/> | Windows 10, только для \[ настольных приложений версии 1709\]<br/>                                           |
 | Минимальная версия сервера<br/> | Windows Server, только для \[ настольных приложений версии 1709\]<br/>                                       |
-| Header<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl>   |
+| Заголовок<br/>                   | <dl> <dt>Deliveryoptimization. h</dt> </dl>   |
 | IDL<br/>                      | <dl> <dt>DeliveryOptimization. idl</dt> </dl> |
 | Библиотека<br/>                  | <dl> <dt>Досвк. lib</dt> </dl>                |
 | DLL<br/>                      | <dl> <dt>Dosvc.dll</dt> </dl>                |

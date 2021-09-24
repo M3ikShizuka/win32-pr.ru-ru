@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: ed7409635444885b662688ce94c300aae6e62186dd76bd7278b3e7445ef50c90
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 7e5ef827758e054ed391303a283b490e0db66d3b
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118542049"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520051"
 ---
 # <a name="ideliveryoptimizationfile2-interface"></a>Интерфейс IDeliveryOptimizationFile2
 
@@ -38,8 +38,8 @@ ms.locfileid: "118542049"
 
 | Метод                                                 | Описание                                                  |
 |:-------------------------------------------------------|:-------------------------------------------------------------|
-| [**GetProperty**](ideliveryoptimizationfile2-getproperty.md)  | Этот метод возвращает одно свойство файла DO. |
-| [**SetProperty**](ideliveryoptimizationfile2-setproperty.md)  | Этот метод задает одно свойство для файла DO.    |
+| [**GetProperty**](ideliveryoptimizationfile2-getproperty.md)  | Этот метод возвращает одно свойство файла оптимизации доставки. |
+| [**SetProperty**](ideliveryoptimizationfile2-setproperty.md)  | Этот метод задает одно свойство файла оптимизации доставки.    |
 
 ## <a name="requirements"></a>Требования
 
@@ -47,7 +47,7 @@ ms.locfileid: "118542049"
 |-------------------------------|-----------------------------------------------------------------------------------|
 | Минимальная версия клиента      | Windows 10, только для \[ настольных приложений версии 1803\]                                    |
 | Минимальная версия сервера      | Windows Server, только для \[ настольных приложений версии 1709\]                                |
-| Header                        | Deliveryoptimization. h                                                            |
+| Заголовок                        | Deliveryoptimization. h                                                            |
 | IDL                           | DeliveryOptimization. idl                                                          |
 | Библиотека                       | Досвк. lib                                                                         |
 | DLL                           | Dosvc.dll                                                                         |

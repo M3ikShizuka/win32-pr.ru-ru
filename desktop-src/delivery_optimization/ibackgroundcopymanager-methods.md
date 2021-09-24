@@ -1,17 +1,17 @@
 ---
-title: Методы Ибаккграундкопиманажер (DO)
-description: Интерфейс Ибаккграундкопиманажер предоставляет следующие методы. | Методы Ибаккграундкопиманажер (DO)
+title: Методы Ибаккграундкопиманажер (оптимизация доставки)
+description: Интерфейс Ибаккграундкопиманажер предоставляет следующие методы. | Методы Ибаккграундкопиманажер (оптимизация доставки)
 ms.assetid: DF517077-4775-473C-B16B-7EFB0AD9D169
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 90f79ef83b8a74dc9f23838bec899abf9d9308626a3cdbe05001a578a341c9f4
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: 91916b4a07844864fbe714e46296a7a3c98be3c0
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119895694"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520985"
 ---
-# <a name="ibackgroundcopymanager-methods-do"></a>Методы Ибаккграундкопиманажер (DO)
+# <a name="ibackgroundcopymanager-methods-delivery-optimization"></a>Методы Ибаккграундкопиманажер (оптимизация доставки)
 
 Интерфейс [**ибаккграундкопиманажер**](ibackgroundcopymanager.md) предоставляет следующие методы.
 

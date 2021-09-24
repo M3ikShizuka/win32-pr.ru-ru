@@ -1,19 +1,19 @@
 ---
-title: ВЫПОЛНЯТЬ возвращаемые значения
-description: Приведенные ниже константы представляют возвращаемые значения, создаваемые оптимизацией доставки (DO) и возвращаемые значения HTTP, которые ВЫПОЛНЯЮТ захват.
+title: Возвращаемые значения оптимизации доставки
+description: Приведенные ниже константы представляют возвращаемые значения, создаваемые оптимизацией доставки, и возвращаемые значения HTTP, которые передаются с помощью оптимизации доставки.
 ms.assetid: 68AC4581-C748-49AB-A588-15816E534756
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 9e58d66587061cc44fc441249407b73653153322
-ms.sourcegitcommit: 592c9bbd22ba69802dc353bcb5eb30699f9e9403
+ms.openlocfilehash: ea19de6920d7c80dbcf874c008d36acd8d46aded
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/20/2020
-ms.locfileid: "104070363"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521221"
 ---
-# <a name="do-return-values"></a>ВЫПОЛНЯТЬ возвращаемые значения
+# <a name="delivery-optimization-return-values"></a>Возвращаемые значения оптимизации доставки
 
-Приведенные ниже константы представляют возвращаемые значения, создаваемые оптимизацией доставки (DO) и возвращаемые значения HTTP, которые ВЫПОЛНЯЮТ захват. Все другие возвращаемые значения, которые можно получить, — это COM, RPC или преобразованные значения Windows (для преобразования возвращаемых значений Windows в значения HRESULT используется макрос [HRESULT_FROM_WIN32](/windows/win32/api/winerror/nf-winerror-hresult_from_win32) ).
+Приведенные ниже константы представляют возвращаемые значения, создаваемые оптимизацией доставки, и возвращаемые значения HTTP, которые передаются с помощью оптимизации доставки. все другие возвращаемые значения, которые можно получить, — это COM, RPC или преобразованные Windows возвращаемые значения (оптимизация доставки использует макрос [HRESULT_FROM_WIN32](/windows/win32/api/winerror/nf-winerror-hresult_from_win32) для преобразования Windows возвращаемые значения в значения HRESULT).
 
 <dl> <dt>
 
@@ -97,42 +97,42 @@ ms.locfileid: "104070363"
 <span id="DO_E_BLOCKED_BY_COST_TRANSFER_POLICY__0x80d03801_"></span><span id="do_e_blocked_by_cost_transfer_policy__0x80d03801_"></span><span id="DO_E_BLOCKED_BY_COST_TRANSFER_POLICY__0X80D03801_"></span>DO_E_BLOCKED_BY_COST_TRANSFER_POLICY (0x80d03801)
 </dt> <dd>
 
-Приостановить задание из-за ограничений политики затрат.
+Оптимизация доставки приостановила задание из-за ограничений политики затрат.
 
 </dd> <dt>
 
 <span id="DO_E_BLOCKED_BY_CELLULAR_POLICY__0x80d03803_"></span><span id="do_e_blocked_by_cellular_policy__0x80d03803_"></span><span id="DO_E_BLOCKED_BY_CELLULAR_POLICY__0X80D03803_"></span>DO_E_BLOCKED_BY_CELLULAR_POLICY (0x80d03803)
 </dt> <dd>
 
-Приостановить задание из-за обнаружения ограничений сети сотовой связи и политик.
+Оптимизация доставки приостановила задание из-за обнаружения ограничений сети сотовой связи и политик.
 
 </dd> <dt>
 
 <span id="DO_E_BLOCKED_BY_POWER_STATE__0x80d03804_"></span><span id="do_e_blocked_by_power_state__0x80d03804_"></span><span id="DO_E_BLOCKED_BY_POWER_STATE__0X80D03804_"></span>DO_E_BLOCKED_BY_POWER_STATE (0x80d03804)
 </dt> <dd>
 
-Приостановить задание из-за обнаружения изменения состояния электропитания в режиме, отличном от AC.
+Оптимизация доставки приостановила выполнение задания из-за обнаружения изменения состояния электропитания в режиме, отличном от AC.
 
 </dd> <dt>
 
 <span id="DO_E_BLOCKED_BY_NO_NETWORK__0x80d03805_"></span><span id="do_e_blocked_by_no_network__0x80d03805_"></span><span id="DO_E_BLOCKED_BY_NO_NETWORK__0X80D03805_"></span>DO_E_BLOCKED_BY_NO_NETWORK (0x80d03805)
 </dt> <dd>
 
-Приостановить задание из-за потери сетевого подключения.
+Оптимизация доставки приостановила выполнение задания из-за потери сетевого подключения.
 
 </dd> <dt>
 
 <span id="DO_E_BLOCKED_BY_VPN_POLICY__0x80d03807_"></span><span id="do_e_blocked_by_vpn_policy__0x80d03807_"></span><span id="DO_E_BLOCKED_BY_VPN_POLICY__0X80D03807_"></span>DO_E_BLOCKED_BY_VPN_POLICY (0x80d03807)
 </dt> <dd>
 
-Приостановить завершенное задание из-за обнаружения сети VPN.
+Оптимизация доставки приостановила завершенное задание из-за обнаружения сети VPN.
 
 </dd> <dt>
 
 <span id="DO_E_BLOCKED_BY_CRITICAL_MEMORY_USAGE__0x80d03808_"></span><span id="do_e_blocked_by_critical_memory_usage__0x80d03808_"></span><span id="DO_E_BLOCKED_BY_CRITICAL_MEMORY_USAGE__0X80D03808_"></span>DO_E_BLOCKED_BY_CRITICAL_MEMORY_USAGE (0x80d03808)
 </dt> <dd>
 
-Приостановить выполнение завершенного задания из-за обнаружения критического использования памяти в системе.
+Оптимизация доставки приостановила выполнение завершенного задания из-за обнаружения критического использования памяти в системе.
 
 </dd> <dt>
 
@@ -153,7 +153,7 @@ HTTP-сервер вернул ответ с размером данных, не
 <span id="DO_E_INSUFFICIENT_RANGE_SUPPORT__0x80d05011_"></span><span id="do_e_insufficient_range_support__0x80d05011_"></span><span id="DO_E_INSUFFICIENT_RANGE_SUPPORT__0X80D05011_"></span>DO_E_INSUFFICIENT_RANGE_SUPPORT (0x80d05011)
 </dt> <dd>
 
-Сервер не поддерживает необходимый протокол HTTP. Оптимизация доставки (DO) требует, чтобы сервер поддерживал заголовок диапазона.
+Сервер не поддерживает необходимый протокол HTTP. Для оптимизации доставки требуется, чтобы сервер поддерживал заголовок диапазона.
 
 </dd> <dt>
 
@@ -171,6 +171,6 @@ HTTP-сервер вернул ответ с размером данных, не
 
 </dd> </dl>
 
- 
+ 
 
- 
+ 

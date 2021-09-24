@@ -1,6 +1,6 @@
 ---
 title: 'IDeliveryOptimizationJob2:: метод Property'
-description: Возвращает одно свойство задания DO.
+description: Возвращает одно свойство задания оптимизации доставки.
 keywords:
 - Метод GetProperty
 - Метод Property, интерфейс IDeliveryOptimizationJob2
@@ -16,16 +16,16 @@ api_type:
 ms.topic: reference
 ms.date: 01/18/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: cdca86cb374eded0eabcc1d623d2218a6dc1f4cd5613a18e16b4ec9ab93156b1
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 2b849d4d9871a730e420f95b52f26b73b8e7b7a7
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118811255"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520641"
 ---
 # <a name="ideliveryoptimizationjob2getproperty-method"></a>IDeliveryOptimizationJob2:: метод Property
 
-Этот метод возвращает одно свойство задания DO.
+Этот метод возвращает одно свойство задания оптимизации доставки.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -60,10 +60,10 @@ HRESULT GetProperty(
 
 | Код возврата                  | Описание          |
 |------------------------------|----------------------|
-| **S_OK**                     | Success              |
+| **S_OK**                     | Успешное завершение              |
 | **DO_E_UNKNOWN_PROPERTY_ID** | Неизвестный идентификатор свойства. |
 
-## <a name="requirements"></a>Requirements (Требования)
+## <a name="requirements"></a>Требования
 
 | Требование | Значение |
 |---------------------------|----------------------------------------------------------------------------------|
@@ -75,6 +75,6 @@ HRESULT GetProperty(
 | DLL                       | Dosvc.dll                                                                        |
 | IID                       | IID_IDeliveryOptimizationJob2 определен как 18995A26-BF59-4ABE-9F8B-D5092D5A2405 |
 
-## <a name="see-also"></a>См. также
+## <a name="see-also"></a>См. также раздел
 
 [**IDeliveryOptimizationJob2**](ideliveryoptimizationjob2.md)

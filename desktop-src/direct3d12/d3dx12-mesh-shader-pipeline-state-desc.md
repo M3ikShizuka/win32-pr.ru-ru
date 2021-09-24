@@ -14,12 +14,12 @@ api_type:
 ms.localizationpriority: low
 ms.topic: reference
 ms.date: 08/02/2021
-ms.openlocfilehash: 99ffe747a6cd916f82e3d2ae52f9fa368203da91
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 59601833259279d6086c35f075f800e666f04aef
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127570883"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520092"
 ---
 # <a name="d3dx12_mesh_shader_pipeline_state_desc-structure"></a>Структура D3DX12_MESH_SHADER_PIPELINE_STATE_DESC
 
@@ -87,7 +87,7 @@ struct D3DX12_MESH_SHADER_PIPELINE_STATE_DESC
 
 `SampleMask`
 
-Тип: **[uint](/windows/win32/winprog/windows-data-types)**
+Тип: **[uint](../winprog/windows-data-types.md)**
 
 Образец маски для состояния смешения.
 
@@ -111,7 +111,7 @@ struct D3DX12_MESH_SHADER_PIPELINE_STATE_DESC
 
 `NumRenderTargets`
 
-Тип: **[uint](/windows/win32/winprog/windows-data-types)**
+Тип: **[uint](../winprog/windows-data-types.md)**
 
 Число форматов целевого объекта прорисовки в элементе *ртвформатс* .
 

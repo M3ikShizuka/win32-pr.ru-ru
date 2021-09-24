@@ -1,10 +1,10 @@
-- name: Оптимизация доставки (DO)
+- name: Оптимизация доставки
   href: delivery-optimization-portal.md
   items:
-    - name: Создать ссылку
+    - name: Справочник по оптимизации доставки
       href: do-reference.md
       items:
-        - name: Перечисления DO
+        - name: Перечисления оптимизации доставки
           href: do-enumerations.md
           items:
             - name: BG_ERROR_CONTEXT
@@ -35,7 +35,7 @@
               href: downloadmode.md
             - name: свармстатус
               href: swarmstatus.md
-        - name: 'DO, интерфейсы'
+        - name: Интерфейсы оптимизации доставки
           href: do-interfaces.md
           items:
             - name: ибаккграундкопикаллбакк
@@ -240,9 +240,9 @@
                   href: ./do/nf-do-idomanager-createdownload.md
                 - name: Метод Енумдовнлоадс
                   href: ./do/nf-do-idomanager-enumdownloads.md
-        - name: ВЫПОЛНЯТЬ возвращаемые значения
+        - name: Возвращаемые значения оптимизации доставки
           href: do-return-values.md
-        - name: Структуры и объединения
+        - name: Структуры и объединения оптимизации доставки
           href: do-structures-and-unions.md
           items:
             - name: BG_FILE_PROGRESS

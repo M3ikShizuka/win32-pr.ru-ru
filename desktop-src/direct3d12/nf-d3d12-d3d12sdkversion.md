@@ -16,12 +16,12 @@ api_location:
 api_name:
 - D3D12SDKVersion
 targetos: Windows
-ms.openlocfilehash: 0bf0aa17e16a4274b69e80580c0615ed055dd97a
-ms.sourcegitcommit: 61a4c522182aa1cacbf5669683d9570a3bf043b2
+ms.openlocfilehash: f77786d0a057d8922923913984149c4b8ecd3bc8
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "122917958"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520040"
 ---
 # <a name="d3d12sdkversion-symbol"></a>Символ D3D12SDKVersion
 
@@ -35,7 +35,7 @@ extern "C" { _declspec(dllexport) extern const UINT D3D12SDKVersion = n;}
 
 ## <a name="return-value"></a>Возвращаемое значение
 
-Значение типа [uint](/windows/win32/winprog/windows-data-types) , содержащее номер версии пакета SDK Direct3D 12.
+Значение типа [uint](../winprog/windows-data-types.md) , содержащее номер версии пакета SDK Direct3D 12.
 
 ## <a name="remarks"></a>Комментарии
 
@@ -46,8 +46,8 @@ extern "C" { _declspec(dllexport) extern const UINT D3D12SDKVersion = n;}
 | &nbsp; | &nbsp; |
 | ---- |:---- |
 | **Целевая платформа** | Windows |
-| **Header** | Недоступно |
-| **Библиотека** | Недоступно |
-| **КОМПОНОВКИ** | d3d12core.dll |
+| **Header** | Н/Д |
+| **Библиотека** | Н/Д |
+| **DLL** | d3d12core.dll |
 
 ## <a name="see-also"></a>См. также раздел

@@ -1,17 +1,17 @@
 ---
-title: Методы использованием метода ibackgroundcopyjob (DO)
-description: Интерфейс использованием метода ibackgroundcopyjob предоставляет следующие методы. | Методы использованием метода ibackgroundcopyjob (DO)
+title: Методы использованием метода ibackgroundcopyjob (оптимизация доставки)
+description: Интерфейс использованием метода ibackgroundcopyjob предоставляет следующие методы. | Методы использованием метода ibackgroundcopyjob (оптимизация доставки)
 ms.assetid: 393EF1F1-940A-489E-826D-E125C2B3D8BF
 ms.topic: reference
 ms.date: 05/31/2018
-ms.openlocfilehash: 3c65ac375080373222b0acbf32ee9cf36d8f64a31e58ff27e42914901f5ccdaf
-ms.sourcegitcommit: e6600f550f79bddfe58bd4696ac50dd52cb03d7e
+ms.openlocfilehash: ebdf0c963609cb0029a03e9a32a9737fd9517e37
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119609724"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521291"
 ---
-# <a name="ibackgroundcopyjob-methods-do"></a>Методы использованием метода ibackgroundcopyjob (DO)
+# <a name="ibackgroundcopyjob-methods-delivery-optimization"></a>Методы использованием метода ibackgroundcopyjob (оптимизация доставки)
 
 Интерфейс [**использованием метода ibackgroundcopyjob**](https://www.bing.com/search?q=**IBackgroundCopyJob**) предоставляет следующие методы.
 

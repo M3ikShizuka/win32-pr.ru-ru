@@ -4,12 +4,12 @@ ms.assetid: f3f455bb-7563-4920-a728-f75fa5854dc9
 title: Использование объектов событий (синхронизация)
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 8466ca1104a4d8e6ddaaed3e0618bea3db68bd1954aaf3b859f66fb93a3aac79
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 50fdca3994aa5ecb6ea2b0a2dde4ba5a2527c7d6
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "117765335"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521361"
 ---
 # <a name="using-event-objects-synchronization"></a>Использование объектов событий (синхронизация)
 
@@ -17,7 +17,7 @@ ms.locfileid: "117765335"
 
 В следующем примере используются объекты событий, чтобы предотвратить чтение нескольких потоков из буфера общей памяти во время записи главным потоком в этот буфер. Во-первых, главный поток использует функцию [**CreateEvent**](/windows/win32/api/synchapi/nf-synchapi-createeventa) для создания объекта события ручного сброса, исходное состояние которого не сигнальное. Затем создается несколько потоков чтения. Главный поток выполняет операцию записи, а затем устанавливает объект события в сигнальное состояние по завершении записи.
 
-Перед началом операции чтения каждый поток чтения использует [**WaitForSingleObject**](/windows/win32/api/winbase/nf-winbase-registerwaitforsingleobject) для ожидания сигнала объекта события ручного сброса. Когда функция **WaitForSingleObject** возвращает, это означает, что основной поток готов для начала операции чтения.
+Перед началом операции чтения каждый поток чтения использует [**WaitForSingleObject**](/windows/win32/api/synchapi/nf-synchapi-waitforsingleobject) для ожидания сигнала объекта события ручного сброса. Когда функция **WaitForSingleObject** возвращает, это означает, что основной поток готов для начала операции чтения.
 
 
 ```C++

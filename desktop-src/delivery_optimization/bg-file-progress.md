@@ -15,12 +15,12 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 93507b8aeefa9c0ea16f70f67e221ecc4218427f
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 03d84fba3ac9747639d0e2992e63e201d7498118
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126964014"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521016"
 ---
 # <a name="bg_file_progress-structure"></a>Структура BG_FILE_PROGRESS
 
@@ -46,7 +46,7 @@ typedef struct _BG_FILE_PROGRESS {
 **BytesTotal**
 </dt> <dd>
 
-Размер файла в байтах. Если не удается определить размер файла (например, если файл или сервер не существует), значение DO_UNKNOWN_FILE_SIZE.
+Размер файла в байтах. Если оптимизация доставки не может определить размер файла (например, если файл или сервер не существует), значение будет DO_UNKNOWN_FILE_SIZE.
 
 Если вы скачиваете диапазоны из файла, **битестотал** отражает общее число байтов, которое необходимо скачать из файла.
 
@@ -68,7 +68,7 @@ typedef struct _BG_FILE_PROGRESS {
 
 ## <a name="remarks"></a>Комментарии
 
-Чтобы определить, передавался ли файл, можно выполнить следующие действия.
+Чтобы определить, передавал ли файл оптимизацию доставки, можно выполнить следующие действия.
 
 -   Сравните **BytesTransferred** с **битестотал**.
 

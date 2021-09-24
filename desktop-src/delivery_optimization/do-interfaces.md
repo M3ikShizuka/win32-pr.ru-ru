@@ -1,19 +1,19 @@
 ---
-title: DO, интерфейсы
-description: Используйте следующие интерфейсы оптимизации доставки (DO) для передачи файлов и отслеживания заданий в очереди передачи.
+title: Интерфейсы оптимизации доставки
+description: Используйте следующие интерфейсы оптимизации доставки для передачи файлов и мониторинга заданий в очереди передачи.
 ms.assetid: 20203CCD-86CC-4551-BA4F-0A5999F8C956
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 0359328f189c1a5b5d9649d8300dc59a80df4480
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: ecb187570f8175cc514452191e1cea3ab4556fe8
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127056107"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520689"
 ---
-# <a name="do-interfaces"></a>DO, интерфейсы
+# <a name="delivery-optimization-interfaces"></a>Интерфейсы оптимизации доставки
 
-Используйте следующие интерфейсы оптимизации доставки (DO) для передачи файлов и отслеживания заданий в очереди передачи.
+Используйте следующие интерфейсы оптимизации доставки для передачи файлов и мониторинга заданий в очереди передачи.
 
 | Интерфейс | Описание |
 |-|-|

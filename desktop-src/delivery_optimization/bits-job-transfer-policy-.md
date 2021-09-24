@@ -1,6 +1,6 @@
 ---
 title: Перечисление BITS_JOB_TRANSFER_POLICY (Deliveryoptimization. h)
-description: Перечисление BITS_JOB_TRANSFER_POLICY определяет значения ИДЕНТИФИКАТОРов, соответствующие свойствам DO.
+description: Перечисление BITS_JOB_TRANSFER_POLICY определяет значения ИДЕНТИФИКАТОРов, соответствующие свойствам оптимизации доставки.
 ms.assetid: 4811ADBF-F097-4340-BFF2-52CC9556ACF6
 keywords:
 - Перечисление BITS_JOB_TRANSFER_POLICY
@@ -16,16 +16,16 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 455752375b76e574923ccdd96d1d05fc9142c16c
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 8c9efef27820a2a731bb6efdd1a06b7312ca55ae
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127058314"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520331"
 ---
 # <a name="bits_job_transfer_policy-enumeration"></a>Перечисление BITS_JOB_TRANSFER_POLICY
 
-Перечисление **BITS_JOB_TRANSFER_POLICY** определяет значения идентификаторов, соответствующие свойствам Do.
+Перечисление **BITS_JOB_TRANSFER_POLICY** определяет значения идентификаторов, соответствующие свойствам оптимизации доставки.
 
 ## <a name="syntax"></a>Синтаксис
 

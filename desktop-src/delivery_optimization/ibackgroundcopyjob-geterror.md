@@ -17,18 +17,18 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 016f11023d50d7ea1fa9024e270a7ebce0597e07d5c33a915facae47773759c7
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 735894b83dfb159fee409fb41d0858c23691d65c
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "119755514"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520246"
 ---
 # <a name="ibackgroundcopyjobgeterror-method"></a>Метод использованием метода ibackgroundcopyjob:: Error
 
 Возвращает интерфейс ошибки после возникновения ошибки.
 
-Оптимизация доставки (DO) создает объект Error, если состояние задания — BG_JOB_STATE_ERROR или BG_JOB_STATE_TRANSIENT_ERROR. Служба не создает объект Error при сбое вызова метода интерфейса **ибаккграундкопикскскскс** . Объект Error доступен до тех пор, пока не начнется передача данных (состояние задания меняется на BG_JOB_STATE_TRANSFERRING) для задания или до выхода из приложения.
+Оптимизация доставки создает объект Error, если состояние задания — BG_JOB_STATE_ERROR или BG_JOB_STATE_TRANSIENT_ERROR. Служба не создает объект Error при сбое вызова метода интерфейса **ибаккграундкопикскскскс** . Объект Error доступен до тех пор, пока оптимизация доставки не начнет передачу данных (состояние задания меняется на BG_JOB_STATE_TRANSFERRING) для задания или до выхода из приложения.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -61,13 +61,13 @@ HRESULT GetError(
 | Код возврата                                                                                                           | Описание                                                                                                                                                                                               |
 |-----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | <dl> <dt>S_OK * * * *</dt> </dl>                              | Объект ошибки успешно создан.<br/>                                                                                                                                                       |
-| <dl> <dt>**DO_E_ERROR_INFORMATION_UNAVAILABLE**</dt> </dl> | Интерфейс Error доступен только после возникновения ошибки (BG_JOB_STATE_ERROR или BG_JOB_STATE_TRANSIENT_ERROR) и перед началом передачи данных (BG_JOB_STATE_TRANSFERRING).<br/> |
+| <dl> <dt>**DO_E_ERROR_INFORMATION_UNAVAILABLE**</dt> </dl> | Интерфейс Error доступен только после возникновения ошибки (BG_JOB_STATE_ERROR или BG_JOB_STATE_TRANSIENT_ERROR) и перед началом оптимизации доставки данных (BG_JOB_STATE_TRANSFERRING).<br/> |
 
 
 
  
 
-## <a name="remarks"></a>Remarks
+## <a name="remarks"></a>Комментарии
 
 Задание помещается в состояние ошибки при неустранимых ошибках. Чтобы определить, является ли задание ошибкой, используйте один из следующих параметров:
 

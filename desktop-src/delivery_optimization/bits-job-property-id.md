@@ -1,6 +1,6 @@
 ---
 title: Перечисление BITS_JOB_PROPERTY_ID (Deliveryoptimization. h)
-description: Перечисление BITS_JOB_PROPERTY_ID указывает идентификатор свойства для задания DO. Это перечисление используется в объединении BITS_JOB_PROPERTY_VALUE для определения типа значения, содержащегося в объединении.
+description: Перечисление BITS_JOB_PROPERTY_ID указывает идентификатор свойства для задания оптимизации доставки. Это перечисление используется в объединении BITS_JOB_PROPERTY_VALUE для определения типа значения, содержащегося в объединении.
 ms.assetid: B0F3C6C2-474F-4FD8-990A-770FAA993550
 keywords:
 - Перечисление BITS_JOB_PROPERTY_ID
@@ -15,16 +15,16 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: cd1d00d4dc12b27c1c80b0e18bb095641a56e322
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 99b463583901882270138408378432fceb636442
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127567163"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520516"
 ---
 # <a name="bits_job_property_id-enumeration"></a>Перечисление BITS_JOB_PROPERTY_ID
 
-Перечисление **BITS_JOB_PROPERTY_ID** указывает идентификатор свойства для задания Do. Это перечисление используется в объединении [**BITS_JOB_PROPERTY_VALUE**](bits-job-property-value-.md) для определения типа значения, содержащегося в объединении.
+Перечисление **BITS_JOB_PROPERTY_ID** указывает идентификатор свойства для задания оптимизации доставки. Это перечисление используется в объединении [**BITS_JOB_PROPERTY_VALUE**](bits-job-property-value-.md) для определения типа значения, содержащегося в объединении.
 
 ## <a name="syntax"></a>Синтаксис
 
@@ -60,7 +60,7 @@ typedef enum  {
 <span id="BITS_JOB_PROPERTY_NOTIFICATION_CLSID"></span><span id="bits_job_property_notification_clsid"></span>**BITS_JOB_PROPERTY_NOTIFICATION_CLSID**
 </dt> <dd>
 
-Идентификатор, используемый для [регистрации обратного вызова com](https://www.bing.com/search?q=register+a+COM+callback) по CLSID для получения уведомлений о ходе выполнения и выполнении задания. CLSID должен ссылаться на класс, связанный с зарегистрированным серверным COM-сервером. Его также можно установить в **GUID_NULL** , чтобы очистить ранее установленный CLSID уведомления.
+Идентификатор, используемый для [регистрации обратного вызова com](https://www.bing.com/search?q=register+a+COM+callback) по CLSID для получения уведомлений о ходе и завершении задания оптимизации доставки. CLSID должен ссылаться на класс, связанный с зарегистрированным серверным COM-сервером. Его также можно установить в **GUID_NULL** , чтобы очистить ранее установленный CLSID уведомления.
 
 Это свойство использует поле **CLsID** **BITS_JOB_PROPERTY_VALUE** s.
 

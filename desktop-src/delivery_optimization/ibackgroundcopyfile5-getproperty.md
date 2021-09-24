@@ -1,6 +1,6 @@
 ---
 title: Метод IBackgroundCopyFile5-Property (Deliveryoptimization. h)
-description: Возвращает универсальное свойство передачи файла оптимизации доставки (DO).
+description: Возвращает универсальное свойство передачи файла оптимизации доставки.
 ms.assetid: E2E96A0F-5670-4DE7-9DF8-A215AFAD0E8A
 keywords:
 - Метод GetProperty
@@ -17,16 +17,16 @@ api_type:
 ms.topic: reference
 ms.date: 05/31/2018
 ROBOTS: INDEX,FOLLOW
-ms.openlocfilehash: 84c6a9f96fc332bda940573bde78d7dd05efeeb1
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: d22e9af42cbb5b6534e27646ed1e038cca5e1169
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126888909"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128519864"
 ---
 # <a name="ibackgroundcopyfile5getproperty-method"></a>IBackgroundCopyFile5:: метод Property
 
-Возвращает универсальное свойство передачи файла оптимизации доставки (DO).
+Возвращает универсальное свойство передачи файла оптимизации доставки.
 
 ## <a name="syntax"></a>Синтаксис
 

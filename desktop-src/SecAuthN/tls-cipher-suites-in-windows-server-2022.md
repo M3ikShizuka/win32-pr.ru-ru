@@ -3,12 +3,12 @@ description: узнайте о комплектах шифров TLS в Windows 
 title: комплекты шифров TLS в Windows Server 2022.
 ms.topic: article
 ms.date: 02/16/2021
-ms.openlocfilehash: d69cf4d97b356bf772b3a6d59a8bc4146f596ce8
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: b6f4e7f574c9f13d3b53bebb15e743b11ccbe424
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127568550"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520900"
 ---
 # <a name="tls-cipher-suites-in-windows-server-2022"></a>комплекты шифров TLS в Windows Server 2022
 
@@ -32,28 +32,28 @@ ms.locfileid: "127568550"
 
 | Строка набора шифров                                                                           | Разрешено в SCH, \_ использование \_ стойкого \_ шифрования | Версии протокола TLS/SSL                     |
 |-----------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------|
-| TLS \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                                               | Да<br/>                      | Протокол TLS 1.3<br/>                            |
-| TLS \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                                               | Да<br/>                      | Протокол TLS 1.3<br/>                            |
-| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                           | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                           | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                             | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                             | Да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                                               | да<br/>                      | Протокол TLS 1.3<br/>                            |
+| TLS \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                                               | да<br/>                      | Протокол TLS 1.3<br/>                            |
+| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                           | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                           | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                             | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                             | да<br/>                      | TLS 1.2<br/>                            |
 | TLS \_ дхе \_ RSA \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                               | Нет<br/>                       | TLS 1.2<br/>                            |
-| TLS \_ дхе \_ RSA \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                               | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 256 \_ CBC \_ SHA384<br/>                                           | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/>                                           | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA384<br/>                                             | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/>                                             | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                              | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                              | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ RSA \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                                    | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ RSA \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                                    | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA256<br/>                                                    | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/>                                                    | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                       | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                       | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ дхе \_ RSA \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                               | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 256 \_ CBC \_ SHA384<br/>                                           | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/>                                           | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA384<br/>                                             | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/>                                             | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                              | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ ECDHE \_ ECDSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                              | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ ECDHE \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ RSA \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/>                                                    | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ RSA \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/>                                                    | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA256<br/>                                                    | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/>                                                    | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                       | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                       | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
 | TLS \_ RSA \_ с \_ 3DES \_ еде \_ CBC \_ SHA<br/>                                                      | Нет<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
 | TLS \_ RSA \_ с \_ нулевым \_ SHA256 <br/> Используется только при явном запросе приложения.<br/>       | Нет<br/>                       | TLS 1.2<br/>                            |
 | TLS \_ RSA \_ с \_ нулевым \_ SHA <br/> Используется только при явном запросе приложения.<br/>          | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
@@ -68,19 +68,19 @@ ms.locfileid: "127568550"
 
 | Строка набора шифров                                                                               | Разрешено в SCH, \_ использование \_ стойкого \_ шифрования | Версии протокола TLS/SSL                     |
 |---------------------------------------------------------------------------------------------------|-------------------------------------|-----------------------------------------------|
-| TLS \_ CHACHA20 \_ POLY1305 \_ SHA256<br/>                                                        | Да<br/>                      | Протокол TLS 1.3<br/>                            |
-| TLS \_ дхе \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ дхе \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ дхе \_ DSS \_ с \_ AES \_ 256 \_ CBC \_ SHA256<br/>                                             | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ дхе \_ DSS \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/>                                             | Да<br/>                      | TLS 1.2<br/>                            |
-| TLS \_ дхе \_ DSS \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
-| TLS \_ дхе \_ DSS \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                | Да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ CHACHA20 \_ POLY1305 \_ SHA256<br/>                                                        | да<br/>                      | Протокол TLS 1.3<br/>                            |
+| TLS \_ дхе \_ RSA \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ дхе \_ RSA \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ дхе \_ DSS \_ с \_ AES \_ 256 \_ CBC \_ SHA256<br/>                                             | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ дхе \_ DSS \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/>                                             | да<br/>                      | TLS 1.2<br/>                            |
+| TLS \_ дхе \_ DSS \_ с \_ AES \_ 256 \_ CBC \_ SHA<br/>                                                | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
+| TLS \_ дхе \_ DSS \_ с \_ AES \_ 128 \_ CBC \_ SHA<br/>                                                | да<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0<br/>          |
 | TLS \_ дхе \_ DSS \_ с \_ 3DES \_ еде \_ CBC \_ SHA<br/>                                               | Нет<br/>                      | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 | Алгоритм \_ TLS \_ RSA \_ с \_ \_ алгоритмом SHA 128<br/>                                                          | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 | Алгоритм TLS \_ RSA \_ с \_ RC4 \_ 128 \_ MD5<br/>                                                          | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 | TLS \_ RSA \_ с \_ Des \_ CBC \_ SHA<br/>                                                          | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 | TLS \_ дхе \_ DSS \_ с \_ Des \_ CBC \_ SHA<br/>                                                     | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
-| TLS \_ дхе \_ DSS \_ EXPORT1024 \_ с \_ DES \_ CBC \_ SHA No tls 1,2, tls 1,1, TLS 1,0, SSL 3,0<br/>   | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
+| TLS \_ дхе \_ DSS \_ EXPORT1024 \_ с \_ Des \_ CBC \_ SHA<br/>                                         | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 | TLS \_ RSA \_ с \_ неопределенным \_ MD5 <br/> Используется только при явном запросе приложения. <br/> | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 | TLS \_ RSA \_ EXPORT1024 \_ с \_ \_ \_ алгоритмом SHA 56<br/>                                               | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
 | \_Экспорт RSA \_ TLS \_ с \_ помощью \_ \_ алгоритма MD5 40<br/>                                                   | Нет<br/>                       | TLS 1,2, TLS 1,1, TLS 1,0, SSL 3,0<br/> |
@@ -96,10 +96,10 @@ ms.locfileid: "127568550"
 
 | Строка набора шифров                              | Разрешено в SCH, \_ использование \_ стойкого \_ шифрования | Версии протокола TLS/SSL |
 |--------------------------------------------------|-------------------------------------|---------------------------|
-| TLS \_ PSK \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/> | Да<br/>                      | TLS 1.2<br/>        |
-| TLS \_ PSK \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/> | Да<br/>                      | TLS 1.2<br/>        |
-| TLS \_ PSK \_ с \_ AES \_ 256 \_ CBC \_ SHA384<br/> | Да<br/>                      | TLS 1.2<br/>        |
-| TLS \_ PSK \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/> | Да<br/>                      | TLS 1.2<br/>        |
+| TLS \_ PSK \_ с \_ AES \_ 256 \_ gcm \_ SHA384<br/> | да<br/>                      | TLS 1.2<br/>        |
+| TLS \_ PSK \_ с \_ AES \_ 128 \_ gcm \_ SHA256<br/> | да<br/>                      | TLS 1.2<br/>        |
+| TLS \_ PSK \_ с \_ AES \_ 256 \_ CBC \_ SHA384<br/> | да<br/>                      | TLS 1.2<br/>        |
+| TLS \_ PSK \_ с \_ AES \_ 128 \_ CBC \_ SHA256<br/> | да<br/>                      | TLS 1.2<br/>        |
 | TLS \_ PSK \_ с \_ нулевым \_ SHA384<br/>          | Нет<br/>                       | TLS 1.2<br/>        |
 | TLS \_ PSK \_ с \_ нулевым \_ SHA256<br/>          | Нет<br/>                       | TLS 1.2<br/>        |
 

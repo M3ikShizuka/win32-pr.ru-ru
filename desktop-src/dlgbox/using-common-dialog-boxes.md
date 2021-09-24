@@ -7,12 +7,12 @@ keywords:
 - Общие диалоговые окна, использование
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 5da09fcc99cdde617c3fbdaf34e4465d9a768b0073c5dbd6d461a19060ca92bb
-ms.sourcegitcommit: e858bbe701567d4583c50a11326e42d7ea51804b
+ms.openlocfilehash: 1d5652c87ab3a8549513f70512e17b344d99a3e2
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "118985304"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128521271"
 ---
 # <a name="using-common-dialog-boxes"></a>Использование общих диалоговых окон
 
@@ -105,9 +105,7 @@ if (ChooseFont(&cf)==TRUE)
 ## <a name="opening-a-file"></a>Открытие файла
 
 > [!Note]  
-> начиная с Windows Vista, общее диалоговое окно файла заменено диалоговым окном общих элементов при использовании для открытия файла. Вместо общепринятого API-интерфейса диалогового окна рекомендуется использовать интерфейс API общего элемента. Дополнительные сведения см. в разделе [диалоговое окно общих элементов](/windows/win32/shell/common-file-dialog).
-
- 
+> начиная с Windows Vista, общее диалоговое окно файла заменено диалоговым окном общих элементов при использовании для открытия файла. Вместо общепринятого API-интерфейса диалогового окна рекомендуется использовать интерфейс API общего элемента. Дополнительные сведения см. в разделе [диалоговое окно общих элементов](../shell/common-file-dialog.md).
 
 В этом разделе описывается пример кода, в котором отображается **открытое** диалоговое окно, в котором пользователь может указать диск, каталог и имя открываемого файла. В примере кода сначала инициализируется структура [**OpenFileName**](/windows/win32/api/commdlg/ns-commdlg-openfilenamea) , а затем вызывается функция [**GetOpenFilename**](/windows/desktop/api/Commdlg/nf-commdlg-getopenfilenamea) для вывода диалогового окна.
 
@@ -427,9 +425,3 @@ if (message == uFindReplaceMsg)
     return 0; 
 }
 ```
-
-
-
- 
-
- 

@@ -4,18 +4,18 @@ description: Эффекты Direct2D предоставляют этот наб�
 ms.assetid: A76F6AB8-16E9-45C9-A768-5E4AA072D534
 ms.topic: article
 ms.date: 05/31/2018
-ms.openlocfilehash: 6001dda5985a1fa221a472ca1f1d9cca042f5041
-ms.sourcegitcommit: d75fc10b9f0825bbe5ce5045c90d4045e3c53243
+ms.openlocfilehash: 8b3ecc5544d3e13af71bc765ae5fec9f11bd0cdc
+ms.sourcegitcommit: 2c13d0f1620f7c089687ef1d97e8c1d22e5d537a
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "127164212"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128520699"
 ---
 # <a name="built-in-effects"></a>Встроенные эффекты
 
 [Эффекты Direct2D](effects-overview.md) предоставляют этот набор встроенных эффектов. Эффекты появляются в нескольких категориях и перечислены ниже вместе с идентификатором CLSID эффекта.
 
-## <a name="color"></a>Color
+## <a name="color"></a>Цвет
 
 -   [эффект трехмерной таблицы подстановки](3d-lookup-table-effect.md) — CLSID \_ D2D1LookupTable3D
 -   [Воздействие управления цветом](color-management.md) — CLSID \_ D2D1ColorManagement
@@ -92,6 +92,7 @@ ms.locfileid: "127164212"
 -   [результат 2D-преобразования](2d-affine-transform.md) — \_ D2D12DAffineTransform CLSID
 -   [эффект трехмерного преобразования](3d-transform.md) — \_ D2D13DTransform CLSID
 -   [Трехмерная перспектива преобразование](3d-perspective-transform.md) — \_ D2D13DPerspectiveTransform CLSID
+-   [Atlas](atlas.md) — \_ D2D1Atlas CLSID
 -   [Воздействие границы](border.md) — CLSID \_ D2D1Border
 -   [Эффекты кадрирования](crop.md) — CLSID \_ D2D1Crop
 -   [Воздействие масштабирования](high-quality-scale.md) — CLSID \_ D2D1Scale
