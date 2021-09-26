@@ -1,9 +1,9 @@
 ---
 title: HTTP_RESPONSE (HTTP. h)
-description: Версия структуры HTTP- \_ ответа зависит от версии очереди запросов, используемой в качестве приведенной в очереди запросов HTTP-сервера версии 1,0. это структура HTTP- \_ запроса \_ v1. API HTTP-сервера версия 2,0 очередь запросов. это структура HTTP- \_ запроса \_ v2.
+description: Версия структуры HTTP\_RESPONSE зависит от версии очереди запросов, используемой HTTP Server API. Версия 1.0 использует структуру HTTP\_RESPONSE\_V1. Версия 2.0 использует структуру HTTP\_RESPONSE\_V2.
 ms.assetid: F94646C0-7293-4543-842B-F08D8C7E2247
 keywords:
-- HTTP_RESPONSE
+- _HTTP_RESPONSE
 - HTTP_RESPONSE
 - PHTTP_RESPONSE
 ms.topic: reference
@@ -15,19 +15,20 @@ ms.contentlocale: ru-RU
 ms.lasthandoff: 09/13/2021
 ms.locfileid: "127266288"
 ---
-# <a name="http_response"></a>HTTP- \_ ответ
 
-Версия структуры **\_ ответа HTTP** зависит от версии очереди запросов, используемой следующим образом:
+# HTTP\_RESPONSE
 
--   API HTTP-сервера версия 1,0 очередь запросов: это структура [**HTTP- \_ запроса \_ v1**](/windows/desktop/api/Http/ns-http-http_request_v1) .
--   API HTTP-сервера версия 2,0 очередь запросов: это структура [**HTTP- \_ запроса \_ v2**](/windows/desktop/api/Http/ns-http-http_request_v2) .
+Версия структуры **HTTP\_RESPONSE** зависит от версии очереди запросов, используемой следующим образом:
 
-Не используйте [**HTTP- \_ запрос \_ v1**](/windows/desktop/api/Http/ns-http-http_request_v1) и [**HTTP- \_ запрос \_ v2**](/windows/desktop/api/Http/ns-http-http_request_v2) непосредственно в коде; использование **HTTP- \_ ответа** гарантирует правильную версию структуры на основе версии очереди запросов.
+-   HTTP Server API Version 1.0: [**HTTP\_RESPONSE\_V1**](/windows/win32/api/http/ns-http-http_response_v1).
+-   HTTP Server API Version 2.0: [**HTTP\_RESPONSE\_V2**](/windows/win32/api/http/ns-http-http_response_v2).
+
+Не используйте [**HTTP\_RESPONSE\_V1**](/windows/win32/api/http/ns-http-http_response_v1) и [**HTTP\_RESPONSE\_V2**](/windows/win32/api/http/ns-http-http_response_v2) непосредственно в коде; использование **HTTP\_RESPONSE** гарантирует правильную версию структуры на основе версии очереди запросов.
 
 
 ```C++
-typedef HTTP_REQUEST_V1 HTTP_RESPONSE;
-typedef HTTP_REQUEST_V2 HTTP_RESPONSE;
+typedef HTTP_RESPONSE_V1 HTTP_RESPONSE;
+typedef HTTP_RESPONSE_V2 HTTP_RESPONSE;
 typedef HTTP_RESPONSE* PHTTP_RESPONSE;
 ```
 
@@ -35,28 +36,28 @@ typedef HTTP_RESPONSE* PHTTP_RESPONSE;
 
 <dl> <dt>
 
-**HTTP- \_ ответ**
+**HTTP\_RESPONSE_V1**
 </dt> <dd>
 
 Запрос был получен из очереди запросов v1.
 
 </dd> <dt>
 
-**HTTP- \_ ответ**
+**HTTP\_RESPONSE_V2**
 </dt> <dd>
 
 Запрос был получен из очереди запросов v2.
 
 </dd> <dt>
 
-**\_ответ ФТТП**
+**PHTTP\_RESPONSE**
 </dt> <dd>
 
-Указатель на структуру **HTTP- \_ ответа** .
+Указатель на структуру **HTTP\_RESPONSE** .
 
 </dd> </dl>
 
-## <a name="requirements"></a>Требования
+## Требования
 
 
 
